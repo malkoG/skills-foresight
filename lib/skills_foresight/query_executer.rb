@@ -3,8 +3,8 @@ require 'skills_foresight/services/github'
 module SkillsForesight
   class QueryExecuter 
     attr_reader :engine
-    def initialize(service)
-      @@engine = select_engine(service)
+    def initialize(service, **options)
+      @@engine = select_engine(service, **options)
       raise ServiceNotFoundError if @@engine.nil?
     end
 
@@ -21,9 +21,9 @@ module SkillsForesight
     end
 
     private 
-      def select_engine(service)
+      def select_engine(service, **options)
         case service
-        when 'github' then SkillsForesight::Services::Github.new
+        when 'github' then SkillsForesight::Services::Github.new options[:token], options[:user_agent]
         else nil
         end
       end
