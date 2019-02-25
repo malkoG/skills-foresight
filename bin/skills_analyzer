@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'skills_foresight'
+
+if ARGV[1].nil?
+  puts "You need to specify path of .yml file"
+end
+
+analyzer_instance = SkillsForesight::Analyzer.new **YAML.load(File.read(ARGV[1]))
+analyzer_instance.print_report

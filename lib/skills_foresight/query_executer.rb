@@ -24,6 +24,26 @@ module SkillsForesight
       @@engine.contribution(**options)
     end
 
+    def analyze_contribution(username, repository)
+      commits = self.class.commits(username: username, repository: repository)
+      
+      contributions_report = {}
+      commits.each do |commit|
+        contribution = self.class.contribution **commit
+        if contributions_report[k].nil?
+          contributions_report[k]['additions'] = 0
+          contributions_report[k]['deletions'] = 0
+        end
+
+        contribution.keys.each do |k|
+          contributions_report[k]['additions'] += commit[k]['additions']
+          contributions_report[k]['deletions'] += commit[k]['deletions']
+        end
+      end
+
+      return contributions_report
+    end
+
     def to_s
       @@engine.service
     end

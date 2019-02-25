@@ -10,7 +10,7 @@ module SkillsForesight
     end
 
     def repositories
-      QueryExecuter.repositories(type: 'user', name: name)
+      QueryExecuter.repositories(type: 'user', username: name)
     end
   end
 end

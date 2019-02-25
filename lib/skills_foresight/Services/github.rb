@@ -32,7 +32,7 @@ module SkillsForesight
         response = self.class.get("/users/#{options[:username]}/repos")
         sleep_with_waiting
 
-        JSON.parse response.to_s
+        JSON.parse response.map { |repo| repo['name'] }.to_s
       end
 
       def commits(**options)
@@ -57,7 +57,7 @@ module SkillsForesight
       end
 
       def contribution(**options)
-        response = self.class.get("/repos/#{options[:username]}/#{options[:repo]}/commits/#{options[:sha]}")
+        response = self.class.get("/repos/#{options[:username]}/#{options[:repository]}/commits/#{options[:sha]}")
         sleep_with_waiting
         raise InvalidHashError if response.headers['status'][0..2].to_i == 404
 
