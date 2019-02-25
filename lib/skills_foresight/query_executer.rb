@@ -16,6 +16,14 @@ module SkillsForesight
       @@engine.get_user(**options)
     end
 
+    def self.commits(**options)
+      @@engine.commits(**options)
+    end
+
+    def self.contribution(**options)
+      @@engine.contribution(**options)
+    end
+
     def to_s
       @@engine.service
     end

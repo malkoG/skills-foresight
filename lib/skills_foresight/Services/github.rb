@@ -35,6 +35,47 @@ module SkillsForesight
         JSON.parse response.to_s
       end
 
+      def commits(**options)
+        response = self.class.get("/repos/#{options[:username]}/#{options[:repository]}/commits")
+        sleep_with_waiting
+        raise InvalidRepositoryError if response.headers['status'][0..2].to_i == 404
+
+        result = []
+        response.each do |commit|
+          if commit['commiter']['login'] == options[:username]
+            dict = {}
+
+            dict['sha'] = commit['sha']
+            dict['username'] = options[:username]
+            dict['repository'] = options[:repository]
+
+            result << dict
+          end
+        end
+
+        return result
+      end
+
+      def contribution(**options)
+        response = self.class.get("/repos/#{options[:username]}/#{options[:repo]}/commits/#{options[:sha]}")
+        sleep_with_waiting
+        raise InvalidHashError if response.headers['status'][0..2].to_i == 404
+
+        result = {}
+        response['files'].each do |file| 
+          extension = Utils::get_extension(file['filename'])
+          if result[extension].nil? 
+            result[extension]['additions'] = 0
+            result[extension]['deletions'] = 0
+          end
+
+          result[extension]['additions'] += file['additions']
+          result[extension]['deletions'] += file['deletions']
+        end
+
+        return result
+      end
+
       protected
         def rate_limit
           5_000

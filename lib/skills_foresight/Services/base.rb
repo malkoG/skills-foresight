@@ -4,7 +4,7 @@ module SkillsForesight
   module Services
     class Base
       include HTTParty
-      
+
       HOURS = 3_600
 
       protected
