@@ -1,0 +1,4 @@
+user_agent: <USER_AGENT_NAME>
+oauth_token: <OAUTH_TOKEN>
+service: github
+username: <USER_NAME>

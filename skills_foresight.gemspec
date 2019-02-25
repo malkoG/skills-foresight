@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'skills_foresight'
-  s.version     = '0.1.0'
+  s.version     = '0.2.0'
   s.date        = '2019-02-25'
   s.summary     = "Analyze your skillsets based on Github Profile"
   s.description = "Analyze your skillsets based on Github Profile"
