@@ -7,7 +7,7 @@ module SkillsForesight
     attr_reader :user, :query_engine, :repositories, :statistics
 
     def initialize(username, **options)
-      @query_engine = QueryExecuter.new(options[:service], token: options[:token], user_agent: options[:user_agent])
+      @query_engine = QueryExecuter.new(options[:service], token: options[:oauth_token], user_agent: options[:user_agent])
       @user = User.new(username, **options)
     end
 

@@ -12,7 +12,7 @@ module SkillsForesight
         raise AuthorizationError if oauth_token.nil?
         raise InvalidUserAgentError if user_agent.nil?
 
-        self.class.headers 'Authorization' => oauth_token
+        self.class.headers 'Authorization' => "token #{oauth_token}"
         self.class.headers 'User-Agent' => user_agent
       end
 
@@ -42,12 +42,12 @@ module SkillsForesight
 
         result = []
         response.each do |commit|
-          if commit['commiter']['login'] == options[:username]
+          if commit['author'] && commit['author']['login'] == options[:username]
             dict = {}
 
-            dict['sha'] = commit['sha']
-            dict['username'] = options[:username]
-            dict['repository'] = options[:repository]
+            dict[:sha] = commit['sha']
+            dict[:username] = options[:username]
+            dict[:repository] = options[:repository]
 
             result << dict
           end
@@ -63,8 +63,9 @@ module SkillsForesight
 
         result = {}
         response['files'].each do |file| 
-          extension = Utils::get_extension(file['filename'])
+          extension = Utils::Extension::classify_extension(file['filename'])
           if result[extension].nil? 
+            result[extension] = Hash.new(0)
             result[extension]['additions'] = 0
             result[extension]['deletions'] = 0
           end

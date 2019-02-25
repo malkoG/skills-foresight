@@ -30,14 +30,20 @@ module SkillsForesight
       contributions_report = {}
       commits.each do |commit|
         contribution = self.class.contribution **commit
-        if contributions_report[k].nil?
-          contributions_report[k]['additions'] = 0
-          contributions_report[k]['deletions'] = 0
-        end
+
+        next if contribution.keys.empty?
 
         contribution.keys.each do |k|
-          contributions_report[k]['additions'] += commit[k]['additions']
-          contributions_report[k]['deletions'] += commit[k]['deletions']
+#          puts contribution.inspect unless 
+
+          if contributions_report[k].nil?
+            contributions_report[k] = Hash.new(0)
+            contributions_report[k]['additions'] = 0
+            contributions_report[k]['deletions'] = 0
+          end
+
+          contributions_report[k]['additions'] += contribution[k]['additions']
+          contributions_report[k]['deletions'] += contribution[k]['deletions']
         end
       end
 

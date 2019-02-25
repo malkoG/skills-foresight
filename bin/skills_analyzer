@@ -2,9 +2,19 @@
 
 require 'skills_foresight'
 
-if ARGV[1].nil?
+if ARGV[0].nil?
   puts "You need to specify path of .yml file"
+  exit
 end
 
-analyzer_instance = SkillsForesight::Analyzer.new **YAML.load(File.read(ARGV[1]))
+options = YAML.load(File.read(ARGV[0]))
+options = options.inject({}) do |memo, (k, v)| # symbolize
+  memo[k.to_sym] = v
+  memo
+end
+
+puts options.inspect
+
+analyzer_instance = SkillsForesight::Analyzer.new options[:username], **options
+analyzer_instance.analyze
 analyzer_instance.print_report
