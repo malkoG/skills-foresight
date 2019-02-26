@@ -10,13 +10,14 @@ module SkillsForesight
       CLOJURE_EXT    = %w[clj cljs cljc].freeze
 
       RUBY_EXT       = %w[rb erb ru Rakefile Gemfile].freeze
-      PYTHON_EXT     = %w[py].freeze
+      PYTHON_EXT     = %w[py Pipfile].freeze
       MARKDOWN_EXT   = %w[md markdown].freeze
       JAVASCRIPT_EXT = %w[js babelrc].freeze
       TYPESCRIPT_EXT = %w[ts tsconfig].freeze
       REACT_EXT      = %w[jsx tsx].freeze
+      VUE_EXT        = %w[vue].freeze
       HTML_EXT       = %w[html].freeze
-      CSS_EXT        = %w[css sass scss].freeze
+      CSS_EXT        = %w[css sass scss styl].freeze
       HASKELL_EXT    = %w[hs].freeze
       ERLANG_EXT     = %w[erl].freeze
       ELIXIR_EXT     = %w[ex exs].freeze
@@ -44,6 +45,7 @@ module SkillsForesight
         when *JAVASCRIPT_EXT    then 'javascript'
         when *TYPESCRIPT_EXT    then 'typescript'
         when *REACT_EXT         then 'react'
+        when *VUE_EXT           then 'vue'
         when *HTML_EXT          then 'html'
         when *CSS_EXT           then 'css'
         when *HASKELL_EXT       then 'haskell'
@@ -51,6 +53,7 @@ module SkillsForesight
         when *ELIXIR_EXT        then 'elixir'
         when *GO_EXT            then 'go'
         when *RUST_EXT          then 'rust'
+        when *SHELL_EXT         then 'shell'
         else 'text'
         end
       end

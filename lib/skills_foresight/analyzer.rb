@@ -12,11 +12,20 @@ module SkillsForesight
     end
 
     def analyze 
-      @repositories = @user.repositories
-
+      @repositories = []
       @statistics = {}
-      @repositories.each do |repo|
-        @statistics[repo] = @query_engine.analyze_contribution @user.name, repo
+
+      max_page = 1000
+      (1..max_page).each do |page| 
+        repositories = @user.repositories :page => page
+
+        break if repositories.empty?
+
+        repositories.each do |repo|
+          @statistics[repo] = @query_engine.analyze_contribution @user.name, repo
+        end
+
+        @repositories = [*@repositories, *repositories]
       end
 
       return @statistics
@@ -27,9 +36,17 @@ module SkillsForesight
       puts "===================="
       @statistics.keys.each do |project| 
         puts "[#{project}]"
-        @statistics[project].each do |language, contribution| 
+
+        puts ">> contributes for files <<" 
+        @statistics[project]['files'].each do |filename, contribution|
+          puts "#{filename} -- Additions : #{contribution['additions']} / Deletions : #{contribution['deletions']}"
+        end
+
+        puts ">> contributes for language <<"
+        @statistics[project]['stats'].each do |language, contribution| 
           puts "#{language} -- Additions : #{contribution['additions']} / Deletions : #{contribution['deletions']}"
         end
+
         puts "--------"
       end
       puts "===================="

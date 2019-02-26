@@ -26,24 +26,32 @@ module SkillsForesight
 
     def analyze_contribution(username, repository)
       commits = self.class.commits(username: username, repository: repository)
-      
+      puts "COMMITS SIZE : #{commits.size}"
+
       contributions_report = {}
+      contributions_report['stats'] = {}
+      contributions_report['files'] = {}
+
       commits.each do |commit|
         contribution = self.class.contribution **commit
-
         next if contribution.keys.empty?
 
-        contribution.keys.each do |k|
+        contribution.keys.each do |filename|
 #          puts contribution.inspect unless 
+          contributions_report['files'][filename] = Hash.new(0) if contributions_report['files'][filename].nil?
 
-          if contributions_report[k].nil?
-            contributions_report[k] = Hash.new(0)
-            contributions_report[k]['additions'] = 0
-            contributions_report[k]['deletions'] = 0
-          end
+          additions = contribution[filename]['additions']
+          deletions = contribution[filename]['deletions']
+          
+          contributions_report['files'][filename]['additions'] += additions
+          contributions_report['files'][filename]['deletions'] += deletions
 
-          contributions_report[k]['additions'] += contribution[k]['additions']
-          contributions_report[k]['deletions'] += contribution[k]['deletions']
+          extension = Utils::Extension::classify_extension(filename)
+
+          contributions_report['stats'][extension] = Hash.new(0) if contributions_report['stats'][extension].nil?
+
+          contributions_report['stats'][extension]['additions'] += additions
+          contributions_report['stats'][extension]['deletions'] += deletions
         end
       end
 

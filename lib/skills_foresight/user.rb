@@ -9,8 +9,8 @@ module SkillsForesight
       @information = QueryExecuter.get_user(username: name)
     end
 
-    def repositories
-      QueryExecuter.repositories(type: 'user', username: name)
+    def repositories(**options)
+      QueryExecuter.repositories(type: 'user', username: name, **options)
     end
   end
 end

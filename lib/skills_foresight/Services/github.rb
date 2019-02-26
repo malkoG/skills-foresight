@@ -29,7 +29,7 @@ module SkillsForesight
       end
 
       def repositories(**options)
-        response = self.class.get("/users/#{options[:username]}/repos")
+        response = self.class.get("/users/#{options[:username]}/repos?page=#{options[:page]}")
         sleep_with_waiting
 
         JSON.parse response.map { |repo| repo['name'] }.to_s
@@ -63,15 +63,11 @@ module SkillsForesight
 
         result = {}
         response['files'].each do |file| 
-          extension = Utils::Extension::classify_extension(file['filename'])
-          if result[extension].nil? 
-            result[extension] = Hash.new(0)
-            result[extension]['additions'] = 0
-            result[extension]['deletions'] = 0
-          end
+          filename = file['filename']
+          result[filename] = Hash.new(0) if result[filename].nil?
 
-          result[extension]['additions'] += file['additions']
-          result[extension]['deletions'] += file['deletions']
+          result[filename]['additions'] += file['additions']
+          result[filename]['deletions'] += file['deletions']
         end
 
         return result
