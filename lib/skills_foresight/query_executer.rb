@@ -35,8 +35,6 @@ module SkillsForesight
         commits = [*commits, *fetched_commits]
       end
 
-      puts "COMMITS SIZE : #{commits.size}"
-
       contributions_report = {}
       contributions_report['stats'] = {}
       contributions_report['files'] = {}
