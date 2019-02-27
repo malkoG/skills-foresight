@@ -13,16 +13,21 @@ module SkillsForesight
 
     def analyze 
       @repositories = []
-      @statistics = {}
+      @statistics = []
 
-      max_page = 1000
+      max_page = 20
       (1..max_page).each do |page| 
         repositories = @user.repositories :page => page
 
         break if repositories.empty?
 
         repositories.each do |repo|
-          @statistics[repo] = @query_engine.analyze_contribution @user.name, repo
+          repository_information = {}
+          repository_information['repository_name'] = repo[:repository_name]
+          repository_information['fork'] = repo[:fork]
+          repository_information['report'] = @query_engine.analyze_contribution @user.name, repo[:repository_name]
+
+          @statistics << repository_information
         end
 
         @repositories = [*@repositories, *repositories]
@@ -34,22 +39,21 @@ module SkillsForesight
     def print_report
       puts "Started Analyzing..."
       puts "===================="
-      @statistics.keys.each do |project| 
-        puts "[#{project}]"
+      @statistics.each do |project| 
+        puts "[#{project['repository_name']}#{project['fork'] ? '(forked)' : ''}]"
 
         puts ">> contributes for files <<" 
-        @statistics[project]['files'].each do |filename, contribution|
+        project['report']['files'].each do |filename, contribution|
           puts "#{filename} -- Additions : #{contribution['additions']} / Deletions : #{contribution['deletions']}"
         end
 
         puts ">> contributes for language <<"
-        @statistics[project]['stats'].each do |language, contribution| 
+        project['report']['stats'].each do |language, contribution| 
           puts "#{language} -- Additions : #{contribution['additions']} / Deletions : #{contribution['deletions']}"
         end
 
         puts "--------"
       end
-      puts "===================="
     end
 
     def to_s

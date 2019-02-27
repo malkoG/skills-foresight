@@ -13,8 +13,6 @@ options = options.inject({}) do |memo, (k, v)| # symbolize
   memo
 end
 
-puts options.inspect
-
 analyzer_instance = SkillsForesight::Analyzer.new options[:username], **options
 analyzer_instance.analyze
 analyzer_instance.print_report

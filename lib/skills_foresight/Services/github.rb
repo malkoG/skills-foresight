@@ -32,11 +32,19 @@ module SkillsForesight
         response = self.class.get("/users/#{options[:username]}/repos?page=#{options[:page]}")
         sleep_with_waiting
 
-        JSON.parse response.map { |repo| repo['name'] }.to_s
+        repositories = response.map do |repo|
+            hashed_repo = Hash.new 
+            hashed_repo[:repository_name] = repo['name']
+            hashed_repo[:fork] = repo['fork']
+
+            hashed_repo
+        end
+
+        repositories
       end
 
       def commits(**options)
-        response = self.class.get("/repos/#{options[:username]}/#{options[:repository]}/commits")
+        response = self.class.get("/repos/#{options[:username]}/#{options[:repository]}/commits?page=#{options[:page]}")
         sleep_with_waiting
         raise InvalidRepositoryError if response.headers['status'][0..2].to_i == 404
 

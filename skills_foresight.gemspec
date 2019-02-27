@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'skills_foresight'
-  s.version     = '0.3.0'
-  s.date        = '2019-02-26'
+  s.version     = '0.4.0'
+  s.date        = '2019-02-27'
   s.summary     = "Analyze your skillsets based on Github Profile"
   s.description = "Analyze your skillsets based on Github Profile"
   s.authors     = ["Jae-yeol Lee"]
@@ -9,6 +9,6 @@ Gem::Specification.new do |s|
   s.files       = Dir['lib/**/*.rb']
   s.homepage    =
     'http://rubygems.org/gems/skills_foresight'
-  s.license       = 'MIT'
+  s.license     = 'MIT'
   s.executables << 'skills_analyzer'
 end
