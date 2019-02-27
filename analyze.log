@@ -1,0 +1,2803 @@
+  Successfully built RubyGem
+  Name: skills_foresight
+  Version: 0.4.0
+  File: skills_foresight-0.4.0.gem
+Successfully installed skills_foresight-0.4.0
+Parsing documentation for skills_foresight-0.4.0
+Done installing documentation for skills_foresight after 0 seconds
+1 gem installed
+COMMITS SIZE : 6
+COMMITS SIZE : 1
+COMMITS SIZE : 50
+COMMITS SIZE : 4
+COMMITS SIZE : 2
+COMMITS SIZE : 5
+COMMITS SIZE : 2
+COMMITS SIZE : 2
+COMMITS SIZE : 2
+COMMITS SIZE : 2
+COMMITS SIZE : 2
+COMMITS SIZE : 4
+COMMITS SIZE : 5
+COMMITS SIZE : 0
+COMMITS SIZE : 4
+COMMITS SIZE : 4
+COMMITS SIZE : 1
+COMMITS SIZE : 9
+COMMITS SIZE : 6
+COMMITS SIZE : 25
+COMMITS SIZE : 22
+COMMITS SIZE : 3
+COMMITS SIZE : 1
+COMMITS SIZE : 9
+COMMITS SIZE : 2
+COMMITS SIZE : 10
+COMMITS SIZE : 2
+COMMITS SIZE : 1
+COMMITS SIZE : 1
+COMMITS SIZE : 5
+COMMITS SIZE : 0
+COMMITS SIZE : 0
+COMMITS SIZE : 0
+COMMITS SIZE : 1
+COMMITS SIZE : 2
+COMMITS SIZE : 1
+COMMITS SIZE : 4
+COMMITS SIZE : 6
+COMMITS SIZE : 17
+COMMITS SIZE : 13
+COMMITS SIZE : 2
+COMMITS SIZE : 0
+COMMITS SIZE : 0
+COMMITS SIZE : 7
+COMMITS SIZE : 0
+COMMITS SIZE : 4
+COMMITS SIZE : 44
+COMMITS SIZE : 1
+COMMITS SIZE : 7
+COMMITS SIZE : 0
+COMMITS SIZE : 39
+COMMITS SIZE : 0
+COMMITS SIZE : 1
+COMMITS SIZE : 0
+COMMITS SIZE : 6
+Started Analyzing...
+====================
+[.dotfiles]
+>> contributes for files <<
+install.sh -- Additions : 127 / Deletions : 17
+.gitignore -- Additions : 1 / Deletions : 0
+.zshrc -- Additions : 93 / Deletions : 0
+.bashrc~ -- Additions : 125 / Deletions : 125
+install.sh~ -- Additions : 34 / Deletions : 34
+.bashrc -- Additions : 127 / Deletions : 0
+>> contributes for language <<
+shell -- Additions : 347 / Deletions : 17
+ignore -- Additions : 1 / Deletions : 0
+text -- Additions : 159 / Deletions : 159
+--------
+[9xd-algorithm(forked)]
+>> contributes for files <<
+README.md -- Additions : 1 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 1 / Deletions : 0
+--------
+[academic]
+>> contributes for files <<
+Keynote/2017/09-21.md -- Additions : 39 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch5SyntaxInFunction.md -- Additions : 141 / Deletions : 1
+TIL/Erlang/overview.md -- Additions : 25 / Deletions : 0
+TIL/Vue/Directive.md -- Additions : 54 / Deletions : 1
+TIL/Vue/README.md -- Additions : 3 / Deletions : 0
+TIL/Vue/VueObject.md -- Additions : 30 / Deletions : 1
+TIL/Clojure/Ring/handler.md -- Additions : 36 / Deletions : 0
+TIL/Clojure/Ring/middleware.md -- Additions : 5 / Deletions : 0
+TIL/Clojure/compojure/README.md -- Additions : 21 / Deletions : 0
+TIL/Clojure/jetty/README.md -- Additions : 1 / Deletions : 0
+TIL/Clojure/leiningen/README.md -- Additions : 7 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch4Module.md -- Additions : 109 / Deletions : 1
+TIL/Clojure/Luminus/README.md -- Additions : 13 / Deletions : 2
+TIL/Erlang/erlang-api/erlang.md -- Additions : 9 / Deletions : 0
+TIL/Erlang/erlang-api/list.md -- Additions : 0 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch3StartingOutReal.md -- Additions : 358 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch2StartingOut.md -- Additions : 33 / Deletions : 1
+TIL/Erlang/commands.md -- Additions : 4 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/README.md -- Additions : 3 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch10FunctionallySolvingProblems.md -- Additions : 0 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch11Concurrency.md -- Additions : 0 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch1introduction.md -- Additions : 43 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch6Types.md -- Additions : 0 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch7Recursion.md -- Additions : 0 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch8HighOrderFunction.md -- Additions : 0 / Deletions : 0
+TIL/Erlang/learn-you-some-erlang/ch9ErrorAndException.md -- Additions : 0 / Deletions : 0
+.gitignore -- Additions : 39 / Deletions : 3
+TIL/Clojure/Ring/README.md -- Additions : 8 / Deletions : 0
+TIL/Linux/MISC.md -- Additions : 5 / Deletions : 0
+TIL/Ruby/Chef/README.md -- Additions : 40 / Deletions : 2
+TIL/Ruby/Chef/chef_API.md -- Additions : 41 / Deletions : 2
+TIL/Ruby/Chef/commands.md -- Additions : 53 / Deletions : 3
+TIL/Ruby/Chef/full_version.md -- Additions : 136 / Deletions : 0
+TIL/Clojure/ClojureScript/README.md -- Additions : 10 / Deletions : 0
+TIL/Clojure/HugSQL/query.md -- Additions : 37 / Deletions : 2
+TIL/Clojure/Luminus/important_file.md -- Additions : 3 / Deletions : 0
+TIL/Container/DC_OS/README.md -- Additions : 0 / Deletions : 0
+TIL/Container/Mesos/HA.md -- Additions : 0 / Deletions : 0
+TIL/Container/Mesos/README.md -- Additions : 0 / Deletions : 0
+TIL/Container/Mesos/SETUP.md -- Additions : 0 / Deletions : 0
+TIL/Emacs/shortcuts.md -- Additions : 22 / Deletions : 2
+TIL/Linux/CentOS/SETUP.md -- Additions : 0 / Deletions : 0
+TIL/Linux/CentOS/Utility.md -- Additions : 0 / Deletions : 0
+TIL/Linux/CentOS/service.md -- Additions : 0 / Deletions : 0
+TIL/Linux/Ubuntu/Utility.md -- Additions : 2 / Deletions : 0
+TIL/Linux/systemctl.md -- Additions : 34 / Deletions : 0
+TIL/Pyenv/README.md~ -- Additions : 44 / Deletions : 22
+TIL/Python/Pyenv/README.md -- Additions : 0 / Deletions : 0
+TIL/Ruby/Chef/InSpec.md -- Additions : 3 / Deletions : 0
+TIL/Pyenv/README.md -- Additions : 52 / Deletions : 0
+data-science/deep-learning-from-scratch/deep-learning-from-scratch -- Additions : 1 / Deletions : 2
+TIL/Clojure/migratus/command_line.md -- Additions : 19 / Deletions : 0
+TIL/Mesos/HA.md -- Additions : 16 / Deletions : 0
+TIL/Python/Flask/README.md -- Additions : 11 / Deletions : 0
+TIL/Bash/Basic.md -- Additions : 4 / Deletions : 1
+TIL/CentOS/service.md -- Additions : 6 / Deletions : 0
+TIL/Postgres/command.md -- Additions : 14 / Deletions : 0
+TIL/Postgres/create_table.md -- Additions : 50 / Deletions : 0
+TIL/CentOS/SETUP.md -- Additions : 2 / Deletions : 0
+TIL/CentOS/Utility.md -- Additions : 12 / Deletions : 0
+TIL/Stylus/Setting.md -- Additions : 29 / Deletions : 0
+TIL/Ruby/Chef/important_files.md -- Additions : 5 / Deletions : 0
+TIL/Elm/Setting.md -- Additions : 3 / Deletions : 1
+TIL/TypeScript/README.md -- Additions : 8 / Deletions : 0
+TIL/TypeScript/React/README.md -- Additions : 5 / Deletions : 0
+TIL/DC_OS/README.md -- Additions : 1 / Deletions : 0
+TIL/Mesos/README.md -- Additions : 3 / Deletions : 0
+TIL/Mesos/SETUP.md -- Additions : 64 / Deletions : 0
+data-science/deep-learning-from-scratch/.ipynb_checkpoints/Chapter6-checkpoint.ipynb -- Additions : 2886 / Deletions : 49
+data-science/deep-learning-from-scratch/Chapter6.ipynb -- Additions : 2886 / Deletions : 49
+data-science/deep-learning-from-scratch/common/__init__.py -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/common/functions.py -- Additions : 61 / Deletions : 0
+data-science/deep-learning-from-scratch/common/gradient.py -- Additions : 52 / Deletions : 0
+data-science/deep-learning-from-scratch/common/layers.py -- Additions : 284 / Deletions : 0
+data-science/deep-learning-from-scratch/common/multi_layer_net.py -- Additions : 160 / Deletions : 0
+data-science/deep-learning-from-scratch/common/multi_layer_net_extend.py -- Additions : 163 / Deletions : 0
+data-science/deep-learning-from-scratch/common/optimizer.py -- Additions : 130 / Deletions : 0
+data-science/deep-learning-from-scratch/common/trainer.py -- Additions : 78 / Deletions : 0
+data-science/deep-learning-from-scratch/common/util.py -- Additions : 99 / Deletions : 0
+data-science/deep-learning-from-scratch/Chapter3.ipynb -- Additions : 2219 / Deletions : 479
+data-science/deep-learning-from-scratch/.ipynb_checkpoints/Chapter4-checkpoint.ipynb -- Additions : 58 / Deletions : 0
+data-science/deep-learning-from-scratch/.ipynb_checkpoints/Chapter5-checkpoint.ipynb -- Additions : 183 / Deletions : 1
+data-science/deep-learning-from-scratch/Chapter4.ipynb -- Additions : 58 / Deletions : 0
+data-science/deep-learning-from-scratch/Chapter5.ipynb -- Additions : 183 / Deletions : 1
+ElixirMeetup/2017/03-22.md -- Additions : 41 / Deletions : 0
+TIL/Ruby/Gems/AWS-SDK/README.md -- Additions : 14 / Deletions : 0
+TIL/Ruby/Gems/README.md -- Additions : 23 / Deletions : 5
+TIL/Ruby/Rails/README.md -- Additions : 3 / Deletions : 0
+clojure-study/living-clojure/chapter3.md -- Additions : 72 / Deletions : 0
+haskell-school/2017/03-21.md -- Additions : 83 / Deletions : 0
+data-science/deep-learning-from-scratch/.ipynb_checkpoints/Chapter3-checkpoint.ipynb -- Additions : 2968 / Deletions : 1502
+TIL/Elixir/Fundamental/System.md -- Additions : 20 / Deletions : 2
+TIL/Elixir/README.md -- Additions : 0 / Deletions : 0
+TIL/Ruby/Core/Enumerable.md -- Additions : 8 / Deletions : 0
+TIL/Ruby/Rails/minitest/README.md -- Additions : 22 / Deletions : 0
+TIL/VSCODE/shortcuts -- Additions : 8 / Deletions : 0
+clojure-study/living-clojure/chapter2.md -- Additions : 678 / Deletions : 14
+data-science/deep-learning-from-scratch/dataset/__init__.py -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/__pycache__/__init__.cpython-35.pyc -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/__pycache__/mnist.cpython-35.pyc -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/lena.png -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/lena_gray.png -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/mnist.pkl -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/mnist.py -- Additions : 128 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/t10k-images-idx3-ubyte.gz -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/t10k-labels-idx1-ubyte.gz -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/train-images-idx3-ubyte.gz -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/dataset/train-labels-idx1-ubyte.gz -- Additions : 0 / Deletions : 0
+data-science/deep-learning-from-scratch/sample_weight.pkl -- Additions : 0 / Deletions : 0
+haskell-school/2017/02-21.md -- Additions : 111 / Deletions : 1
+TIL/Git/Git-command.md -- Additions : 59 / Deletions : 1
+TIL/Java/README.md -- Additions : 117 / Deletions : 0
+TIL/Ruby/Core/README.md -- Additions : 3 / Deletions : 0
+TIL/Ruby/Core/String.md -- Additions : 10 / Deletions : 0
+TIL/Ruby/Core/StringIO.md -- Additions : 5 / Deletions : 0
+google-interview-university/algorithm-technique/dynamic-programming/README.md -- Additions : 21 / Deletions : 1
+google-interview-university/algorithm-technique/dynamic-programming/examples/binomialCoefficient.java -- Additions : 25 / Deletions : 0
+google-interview-university/algorithm-technique/dynamic-programming/examples/fibonacci.java -- Additions : 26 / Deletions : 1
+google-interview-university/algorithm-technique/dynamic-programming/examples/numOfBCTree.java -- Additions : 30 / Deletions : 0
+google-interview-university/algorithm-technique/dynamic-programming/examples/numOfFibonacciTree.java -- Additions : 27 / Deletions : 0
+.vscode/settings.json -- Additions : 10 / Deletions : 0
+data-science/deep-learning-from-scratch/chapter2.md -- Additions : 106 / Deletions : 6
+data-science/deep-learning-from-scratch/README.md -- Additions : 9 / Deletions : 2
+data-science/deep-learning-from-scratch/chapter1.md -- Additions : 45 / Deletions : 0
+TIL/Git/Github.md -- Additions : 66 / Deletions : 0
+TIL/Ruby/Gems/Devise/README.md -- Additions : 2 / Deletions : 0
+TIL/VSCODE/Ruby.md -- Additions : 19 / Deletions : 0
+clojure-study/living-clojure/chapter1.md -- Additions : 193 / Deletions : 2
+.gitignore~ -- Additions : 4 / Deletions : 4
+AppliedMathematics/note.md -- Additions : 0 / Deletions : 0
+Assembly/note.md -- Additions : 0 / Deletions : 0
+DataCommunications/note.md -- Additions : 0 / Deletions : 0
+DataStructure/note.md -- Additions : 0 / Deletions : 0
+DiscreteMathematics/note.md -- Additions : 0 / Deletions : 0
+README.md -- Additions : 3 / Deletions : 0
+UnderstadingFirms/note.md -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 3365 / Deletions : 54
+ignore -- Additions : 49 / Deletions : 3
+text -- Additions : 11498 / Deletions : 2109
+python -- Additions : 1155 / Deletions : 0
+java -- Additions : 108 / Deletions : 1
+--------
+[administrate(forked)]
+>> contributes for files <<
+config/locales/administrate.ko.yml -- Additions : 26 / Deletions : 3
+>> contributes for language <<
+text -- Additions : 26 / Deletions : 3
+--------
+[clj-cljs-example]
+>> contributes for files <<
+resources/migrations/20170517225511-add-users-table.up.sql -- Additions : 12 / Deletions : 3
+resources/migrations/20170517234051-guestbook.up.sql -- Additions : 8 / Deletions : 3
+.gitignore -- Additions : 12 / Deletions : 0
+Capstanfile -- Additions : 28 / Deletions : 0
+Dockerfile -- Additions : 8 / Deletions : 0
+Procfile -- Additions : 1 / Deletions : 0
+README.md -- Additions : 21 / Deletions : 0
+env/dev/clj/guestbook/dev_middleware.clj -- Additions : 10 / Deletions : 0
+env/dev/clj/guestbook/env.clj -- Additions : 14 / Deletions : 0
+env/dev/clj/user.clj -- Additions : 15 / Deletions : 0
+env/dev/resources/config.edn -- Additions : 4 / Deletions : 0
+env/dev/resources/logback.xml -- Additions : 43 / Deletions : 0
+env/prod/clj/guestbook/env.clj -- Additions : 11 / Deletions : 0
+env/prod/resources/config.edn -- Additions : 2 / Deletions : 0
+env/prod/resources/logback.xml -- Additions : 31 / Deletions : 0
+env/test/resources/config.edn -- Additions : 4 / Deletions : 0
+env/test/resources/logback.xml -- Additions : 43 / Deletions : 0
+project.clj -- Additions : 69 / Deletions : 0
+resources/docs/docs.md -- Additions : 103 / Deletions : 0
+resources/migrations/20170517225511-add-users-table.down.sql -- Additions : 1 / Deletions : 0
+resources/migrations/20170517234051-guestbook.down.sql -- Additions : 2 / Deletions : 0
+resources/public/css/screen.css -- Additions : 34 / Deletions : 0
+resources/public/favicon.ico -- Additions : 0 / Deletions : 0
+resources/public/img/warning_clojure.png -- Additions : 0 / Deletions : 0
+resources/sql/queries.sql -- Additions : 21 / Deletions : 0
+resources/templates/about.html -- Additions : 4 / Deletions : 0
+resources/templates/base.html -- Additions : 58 / Deletions : 0
+resources/templates/error.html -- Additions : 56 / Deletions : 0
+resources/templates/home.html -- Additions : 8 / Deletions : 0
+src/clj/guestbook/config.clj -- Additions : 10 / Deletions : 0
+src/clj/guestbook/core.clj -- Additions : 58 / Deletions : 0
+src/clj/guestbook/db/core.clj -- Additions : 71 / Deletions : 0
+src/clj/guestbook/handler.clj -- Additions : 25 / Deletions : 0
+src/clj/guestbook/layout.clj -- Additions : 38 / Deletions : 0
+src/clj/guestbook/middleware.clj -- Additions : 64 / Deletions : 0
+src/clj/guestbook/routes/home.clj -- Additions : 17 / Deletions : 0
+temp.clj -- Additions : 20 / Deletions : 0
+test/clj/guestbook/test/db/core.clj -- Additions : 36 / Deletions : 0
+test/clj/guestbook/test/handler.clj -- Additions : 13 / Deletions : 0
+>> contributes for language <<
+text -- Additions : 208 / Deletions : 6
+ignore -- Additions : 12 / Deletions : 0
+markdown -- Additions : 124 / Deletions : 0
+clojure -- Additions : 471 / Deletions : 0
+css -- Additions : 34 / Deletions : 0
+html -- Additions : 126 / Deletions : 0
+--------
+[codekata]
+>> contributes for files <<
+python/get-all-of-commit-history/get-all-of-commit-history.py -- Additions : 28 / Deletions : 0
+ocaml/coursera/chap1/first_code.ml -- Additions : 2 / Deletions : 0
+ruby/crawling/find_my_children.rb -- Additions : 48 / Deletions : 0
+rust/codingtraining/retire_calculator.rs -- Additions : 32 / Deletions : 0
+rust/codingtraining/counting_chars.rs -- Additions : 20 / Deletions : 0
+ruby/automated_work/interview_schedule.rb -- Additions : 71 / Deletions : 0
+README.md -- Additions : 14 / Deletions : 0
+rust/codingtraining/helloworld.rs -- Additions : 29 / Deletions : 0
+>> contributes for language <<
+python -- Additions : 28 / Deletions : 0
+text -- Additions : 2 / Deletions : 0
+ruby -- Additions : 119 / Deletions : 0
+rust -- Additions : 81 / Deletions : 0
+markdown -- Additions : 14 / Deletions : 0
+--------
+[csweekly(forked)]
+>> contributes for files <<
+.ruby-version -- Additions : 1 / Deletions : 0
+Gemfile -- Additions : 62 / Deletions : 0
+Gemfile.lock -- Additions : 220 / Deletions : 0
+Rakefile -- Additions : 6 / Deletions : 0
+app/assets/config/manifest.js -- Additions : 3 / Deletions : 0
+app/assets/images/.keep -- Additions : 0 / Deletions : 0
+app/assets/javascripts/application.js -- Additions : 16 / Deletions : 0
+app/assets/javascripts/cable.js -- Additions : 13 / Deletions : 0
+app/assets/javascripts/channels/.keep -- Additions : 0 / Deletions : 0
+app/assets/stylesheets/application.css -- Additions : 15 / Deletions : 0
+app/channels/application_cable/channel.rb -- Additions : 4 / Deletions : 0
+app/channels/application_cable/connection.rb -- Additions : 4 / Deletions : 0
+app/controllers/application_controller.rb -- Additions : 2 / Deletions : 0
+app/controllers/concerns/.keep -- Additions : 0 / Deletions : 0
+app/helpers/application_helper.rb -- Additions : 2 / Deletions : 0
+app/jobs/application_job.rb -- Additions : 2 / Deletions : 0
+app/mailers/application_mailer.rb -- Additions : 4 / Deletions : 0
+app/models/application_record.rb -- Additions : 3 / Deletions : 0
+app/models/concerns/.keep -- Additions : 0 / Deletions : 0
+app/views/layouts/application.html.erb -- Additions : 15 / Deletions : 0
+app/views/layouts/mailer.html.erb -- Additions : 13 / Deletions : 0
+app/views/layouts/mailer.text.erb -- Additions : 1 / Deletions : 0
+bin/bundle -- Additions : 3 / Deletions : 0
+bin/rails -- Additions : 9 / Deletions : 0
+bin/rake -- Additions : 9 / Deletions : 0
+bin/setup -- Additions : 36 / Deletions : 0
+bin/spring -- Additions : 17 / Deletions : 0
+bin/update -- Additions : 31 / Deletions : 0
+bin/yarn -- Additions : 11 / Deletions : 0
+config.ru -- Additions : 5 / Deletions : 0
+config/application.rb -- Additions : 19 / Deletions : 0
+config/boot.rb -- Additions : 4 / Deletions : 0
+config/cable.yml -- Additions : 10 / Deletions : 0
+config/credentials.yml.enc -- Additions : 1 / Deletions : 0
+config/database.yml -- Additions : 25 / Deletions : 0
+config/environment.rb -- Additions : 5 / Deletions : 0
+config/environments/development.rb -- Additions : 61 / Deletions : 0
+config/environments/production.rb -- Additions : 94 / Deletions : 0
+config/environments/test.rb -- Additions : 46 / Deletions : 0
+config/initializers/application_controller_renderer.rb -- Additions : 8 / Deletions : 0
+config/initializers/assets.rb -- Additions : 14 / Deletions : 0
+config/initializers/backtrace_silencers.rb -- Additions : 7 / Deletions : 0
+config/initializers/content_security_policy.rb -- Additions : 25 / Deletions : 0
+config/initializers/cookies_serializer.rb -- Additions : 5 / Deletions : 0
+config/initializers/filter_parameter_logging.rb -- Additions : 4 / Deletions : 0
+config/initializers/inflections.rb -- Additions : 16 / Deletions : 0
+config/initializers/mime_types.rb -- Additions : 4 / Deletions : 0
+config/initializers/wrap_parameters.rb -- Additions : 14 / Deletions : 0
+config/locales/en.yml -- Additions : 33 / Deletions : 0
+config/puma.rb -- Additions : 34 / Deletions : 0
+config/routes.rb -- Additions : 3 / Deletions : 0
+config/spring.rb -- Additions : 6 / Deletions : 0
+config/storage.yml -- Additions : 34 / Deletions : 0
+db/seeds.rb -- Additions : 7 / Deletions : 0
+lib/assets/.keep -- Additions : 0 / Deletions : 0
+lib/tasks/.keep -- Additions : 0 / Deletions : 0
+package.json -- Additions : 5 / Deletions : 0
+public/404.html -- Additions : 67 / Deletions : 0
+public/422.html -- Additions : 67 / Deletions : 0
+public/500.html -- Additions : 66 / Deletions : 0
+public/apple-touch-icon-precomposed.png -- Additions : 0 / Deletions : 0
+public/apple-touch-icon.png -- Additions : 0 / Deletions : 0
+public/favicon.ico -- Additions : 0 / Deletions : 0
+public/robots.txt -- Additions : 1 / Deletions : 0
+storage/.keep -- Additions : 0 / Deletions : 0
+test/application_system_test_case.rb -- Additions : 5 / Deletions : 0
+test/controllers/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/files/.keep -- Additions : 0 / Deletions : 0
+test/helpers/.keep -- Additions : 0 / Deletions : 0
+test/integration/.keep -- Additions : 0 / Deletions : 0
+test/mailers/.keep -- Additions : 0 / Deletions : 0
+test/models/.keep -- Additions : 0 / Deletions : 0
+test/system/.keep -- Additions : 0 / Deletions : 0
+test/test_helper.rb -- Additions : 10 / Deletions : 0
+vendor/.keep -- Additions : 0 / Deletions : 0
+.gitignore -- Additions : 49 / Deletions : 0
+LICENSE -- Additions : 21 / Deletions : 0
+README.md -- Additions : 2 / Deletions : 0
+>> contributes for language <<
+text -- Additions : 242 / Deletions : 0
+ruby -- Additions : 514 / Deletions : 0
+ignore -- Additions : 274 / Deletions : 0
+javascript -- Additions : 32 / Deletions : 0
+css -- Additions : 15 / Deletions : 0
+html -- Additions : 200 / Deletions : 0
+markdown -- Additions : 2 / Deletions : 0
+--------
+[curriculum(forked)]
+>> contributes for files <<
+outline/sequences.md -- Additions : 12 / Deletions : 5
+index.v0.md -- Additions : 1 / Deletions : 0
+outline/setup.md -- Additions : 15 / Deletions : 4
+>> contributes for language <<
+markdown -- Additions : 28 / Deletions : 9
+--------
+[denma-crawling]
+>> contributes for files <<
+.gitignore -- Additions : 122 / Deletions : 1
+Pipfile -- Additions : 17 / Deletions : 0
+denma/utils.py -- Additions : 31 / Deletions : 6
+denma/views.py -- Additions : 54 / Deletions : 7
+denmacrawler/settings.py -- Additions : 124 / Deletions : 0
+denma/__init__.py -- Additions : 0 / Deletions : 0
+denma/admin.py -- Additions : 11 / Deletions : 0
+denma/apps.py -- Additions : 5 / Deletions : 0
+denma/migrations/0001_initial.py -- Additions : 32 / Deletions : 0
+denma/migrations/0002_webtoonentry_created_at.py -- Additions : 20 / Deletions : 0
+denma/migrations/__init__.py -- Additions : 0 / Deletions : 0
+denma/models.py -- Additions : 16 / Deletions : 0
+denma/templates/denma/base.html -- Additions : 20 / Deletions : 0
+denma/templates/denma/webtoon_index.html -- Additions : 23 / Deletions : 0
+denma/tests.py -- Additions : 3 / Deletions : 0
+denma/urls.py -- Additions : 7 / Deletions : 0
+denmacrawler/__init__.py -- Additions : 0 / Deletions : 0
+denmacrawler/urls.py -- Additions : 22 / Deletions : 0
+denmacrawler/wsgi.py -- Additions : 16 / Deletions : 0
+manage.py -- Additions : 15 / Deletions : 0
+>> contributes for language <<
+ignore -- Additions : 122 / Deletions : 1
+python -- Additions : 373 / Deletions : 13
+html -- Additions : 43 / Deletions : 0
+--------
+[django-tutorial-example]
+>> contributes for files <<
+blog/tests.py -- Additions : 4 / Deletions : 1
+.gitignore -- Additions : 7 / Deletions : 0
+.vscode/settings.json -- Additions : 3 / Deletions : 0
+DjangoGirlsRenewalTest/__init__.py -- Additions : 0 / Deletions : 0
+DjangoGirlsRenewalTest/settings.py -- Additions : 121 / Deletions : 0
+DjangoGirlsRenewalTest/urls.py -- Additions : 21 / Deletions : 0
+DjangoGirlsRenewalTest/wsgi.py -- Additions : 16 / Deletions : 0
+Pipfile -- Additions : 12 / Deletions : 0
+Pipfile.lock -- Additions : 36 / Deletions : 0
+blog/__init__.py -- Additions : 0 / Deletions : 0
+blog/admin.py -- Additions : 4 / Deletions : 0
+blog/apps.py -- Additions : 5 / Deletions : 0
+blog/migrations/0001_initial.py -- Additions : 29 / Deletions : 0
+blog/migrations/__init__.py -- Additions : 0 / Deletions : 0
+blog/models.py -- Additions : 15 / Deletions : 0
+blog/views.py -- Additions : 3 / Deletions : 0
+manage.py -- Additions : 15 / Deletions : 0
+>> contributes for language <<
+python -- Additions : 245 / Deletions : 1
+ignore -- Additions : 46 / Deletions : 0
+--------
+[eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee(forked)]
+>> contributes for files <<
+e.adb -- Additions : 10 / Deletions : 1
+>> contributes for language <<
+text -- Additions : 10 / Deletions : 1
+--------
+[elixir-school(forked)]
+>> contributes for files <<
+ko/lessons/basics/collections.md -- Additions : 28 / Deletions : 15
+CONTRIBUTING.md -- Additions : 4 / Deletions : 1
+GLOSSARY.md -- Additions : 73 / Deletions : 10
+README.md -- Additions : 7 / Deletions : 0
+_assets/stylesheets/hyde.css -- Additions : 18 / Deletions : 4
+_assets/stylesheets/social.scss -- Additions : 13 / Deletions : 0
+_config.yml -- Additions : 22 / Deletions : 4
+_includes/head.html -- Additions : 3 / Deletions : 3
+_includes/social.html -- Additions : 8 / Deletions : 2
+_layouts/default.html -- Additions : 2 / Deletions : 3
+bg/index.md -- Additions : 24 / Deletions : 0
+bg/lessons/basics/basics.md -- Additions : 237 / Deletions : 0
+bg/lessons/basics/collections.md -- Additions : 150 / Deletions : 0
+bg/lessons/basics/comprehensions.md -- Additions : 112 / Deletions : 0
+bg/lessons/basics/control-structures.md -- Additions : 176 / Deletions : 0
+bg/lessons/basics/documentation.md -- Additions : 309 / Deletions : 0
+bg/lessons/basics/enum.md -- Additions : 142 / Deletions : 0
+bg/lessons/basics/functions.md -- Additions : 208 / Deletions : 0
+bg/lessons/basics/mix-tasks.md -- Additions : 116 / Deletions : 0
+bg/lessons/basics/mix.md -- Additions : 135 / Deletions : 0
+bg/lessons/basics/modules.md -- Additions : 254 / Deletions : 0
+bg/lessons/basics/pattern-matching.md -- Additions : 101 / Deletions : 0
+bg/lessons/basics/pipe-operator.md -- Additions : 70 / Deletions : 0
+bg/lessons/basics/sigils.md -- Additions : 153 / Deletions : 0
+bg/lessons/basics/strings.md -- Additions : 146 / Deletions : 0
+bg/lessons/basics/testing.md -- Additions : 108 / Deletions : 0
+cn/index.md -- Additions : 1 / Deletions : 1
+cn/lessons/advanced/concurrency.md -- Additions : 2 / Deletions : 2
+cn/lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+cn/lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+cn/lessons/advanced/metaprogramming.md -- Additions : 0 / Deletions : 1
+cn/lessons/advanced/otp-concurrency.md -- Additions : 1 / Deletions : 1
+cn/lessons/basics/basics.md -- Additions : 17 / Deletions : 5
+cn/lessons/basics/collections.md -- Additions : 25 / Deletions : 14
+cn/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+cn/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+cn/lessons/basics/modules.md -- Additions : 0 / Deletions : 0
+cn/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+es/index.md -- Additions : 1 / Deletions : 1
+es/lessons/advanced/concurrency.md -- Additions : 168 / Deletions : 0
+es/lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+es/lessons/advanced/error-handling.md -- Additions : 152 / Deletions : 0
+es/lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+es/lessons/basics/basics.md -- Additions : 6 / Deletions : 8
+es/lessons/basics/collections.md -- Additions : 14 / Deletions : 14
+es/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+es/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+es/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+es/lessons/basics/pipe-operator.md -- Additions : 7 / Deletions : 7
+es/lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+es/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+fr/lessons/basics/basics.md -- Additions : 3 / Deletions : 5
+fr/lessons/basics/collections.md -- Additions : 14 / Deletions : 14
+fr/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+fr/lessons/basics/functions.md -- Additions : 217 / Deletions : 0
+fr/lessons/basics/mix-tasks.md -- Additions : 116 / Deletions : 0
+fr/lessons/basics/mix.md -- Additions : 4 / Deletions : 4
+fr/lessons/basics/pipe-operator.md -- Additions : 1 / Deletions : 1
+gr/index.md -- Additions : 1 / Deletions : 1
+gr/lessons/basics/.gitignore -- Additions : 0 / Deletions : 0
+gr/lessons/basics/basics.md -- Additions : 271 / Deletions : 0
+gr/lessons/basics/collections.md -- Additions : 162 / Deletions : 0
+gr/lessons/basics/comprehensions.md -- Additions : 114 / Deletions : 0
+gr/lessons/basics/control-structures.md -- Additions : 177 / Deletions : 0
+gr/lessons/basics/documentation.md -- Additions : 309 / Deletions : 0
+gr/lessons/basics/enum.md -- Additions : 144 / Deletions : 0
+gr/lessons/basics/functions.md -- Additions : 208 / Deletions : 0
+gr/lessons/basics/mix-tasks.md -- Additions : 116 / Deletions : 0
+gr/lessons/basics/mix.md -- Additions : 135 / Deletions : 0
+gr/lessons/basics/modules.md -- Additions : 254 / Deletions : 0
+gr/lessons/basics/pattern-matching.md -- Additions : 101 / Deletions : 0
+gr/lessons/basics/pipe-operator.md -- Additions : 69 / Deletions : 0
+gr/lessons/basics/sigils.md -- Additions : 153 / Deletions : 0
+gr/lessons/basics/strings.md -- Additions : 151 / Deletions : 0
+gr/lessons/basics/testing.md -- Additions : 107 / Deletions : 0
+id/index.md -- Additions : 1 / Deletions : 11
+id/lessons/advanced/concurrency.md -- Additions : 1 / Deletions : 1
+id/lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+id/lessons/advanced/metaprogramming.md -- Additions : 0 / Deletions : 1
+id/lessons/advanced/umbrella-projects.md -- Additions : 1 / Deletions : 1
+id/lessons/basics/basics.md -- Additions : 18 / Deletions : 6
+id/lessons/basics/collections.md -- Additions : 26 / Deletions : 15
+id/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+id/lessons/basics/enum.md -- Additions : 3 / Deletions : 3
+id/lessons/basics/functions.md -- Additions : 1 / Deletions : 1
+id/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+id/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+id/lessons/basics/pipe-operator.md -- Additions : 1 / Deletions : 1
+id/lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+id/lessons/specifics/mnesia.md -- Additions : 3 / Deletions : 4
+id/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+index.md -- Additions : 15 / Deletions : 9
+it/index.md -- Additions : 1 / Deletions : 1
+it/lessons/advanced/concurrency.md -- Additions : 168 / Deletions : 0
+it/lessons/basics/basics.md -- Additions : 3 / Deletions : 5
+it/lessons/basics/collections.md -- Additions : 14 / Deletions : 14
+it/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+it/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+it/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+it/lessons/basics/pipe-operator.md -- Additions : 8 / Deletions : 8
+jp/index.md -- Additions : 1 / Deletions : 1
+jp/lessons/advanced/concurrency.md -- Additions : 3 / Deletions : 3
+jp/lessons/advanced/erlang.md -- Additions : 2 / Deletions : 2
+jp/lessons/advanced/error-handling.md -- Additions : 152 / Deletions : 0
+jp/lessons/advanced/escripts.md -- Additions : 2 / Deletions : 2
+jp/lessons/advanced/metaprogramming.md -- Additions : 65 / Deletions : 124
+jp/lessons/advanced/otp-concurrency.md -- Additions : 1 / Deletions : 1
+jp/lessons/advanced/otp-supervisors.md -- Additions : 1 / Deletions : 1
+jp/lessons/advanced/umbrella-projects.md -- Additions : 212 / Deletions : 0
+jp/lessons/basics/basics.md -- Additions : 22 / Deletions : 10
+jp/lessons/basics/collections.md -- Additions : 25 / Deletions : 14
+jp/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+jp/lessons/basics/enum.md -- Additions : 3 / Deletions : 1
+jp/lessons/basics/mix-tasks.md -- Additions : 116 / Deletions : 0
+jp/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+jp/lessons/basics/modules.md -- Additions : 7 / Deletions : 7
+jp/lessons/basics/pipe-operator.md -- Additions : 9 / Deletions : 9
+jp/lessons/basics/strings.md -- Additions : 3 / Deletions : 2
+jp/lessons/specifics/ecto.md -- Additions : 2 / Deletions : 2
+jp/lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+jp/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+ko/index.md -- Additions : 1 / Deletions : 1
+ko/lessons/advanced/concurrency.md -- Additions : 169 / Deletions : 0
+ko/lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+ko/lessons/advanced/escripts.md -- Additions : 90 / Deletions : 0
+ko/lessons/advanced/metaprogramming.md -- Additions : 0 / Deletions : 1
+ko/lessons/advanced/otp-concurrency.md -- Additions : 4 / Deletions : 4
+ko/lessons/advanced/otp-supervisor.md -- Additions : 86 / Deletions : 0
+ko/lessons/advanced/umbrella-projects.md -- Additions : 219 / Deletions : 0
+ko/lessons/basics/basics.md -- Additions : 46 / Deletions : 14
+ko/lessons/basics/comprehensions.md -- Additions : 2 / Deletions : 2
+ko/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+ko/lessons/basics/enum.md -- Additions : 3 / Deletions : 1
+ko/lessons/basics/functions.md -- Additions : 1 / Deletions : 1
+ko/lessons/basics/mix.md -- Additions : 6 / Deletions : 6
+ko/lessons/basics/modules.md -- Additions : 10 / Deletions : 10
+ko/lessons/basics/pipe-operator.md -- Additions : 1 / Deletions : 1
+ko/lessons/basics/strings.md -- Additions : 6 / Deletions : 6
+ko/lessons/specifics/ets.md -- Additions : 2 / Deletions : 2
+ko/lessons/specifics/mnesia.md -- Additions : 3 / Deletions : 4
+ko/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+lessons/advanced/concurrency.md -- Additions : 2 / Deletions : 2
+lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+lessons/advanced/metaprogramming.md -- Additions : 47 / Deletions : 1
+lessons/advanced/umbrella-projects.md -- Additions : 1 / Deletions : 1
+lessons/basics/basics.md -- Additions : 10 / Deletions : 12
+lessons/basics/collections.md -- Additions : 15 / Deletions : 15
+lessons/basics/comprehensions.md -- Additions : 3 / Deletions : 3
+lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+lessons/basics/documentation.md -- Additions : 9 / Deletions : 9
+lessons/basics/enum.md -- Additions : 3 / Deletions : 1
+lessons/basics/functions.md -- Additions : 1 / Deletions : 1
+lessons/basics/mix.md -- Additions : 9 / Deletions : 9
+lessons/basics/modules.md -- Additions : 7 / Deletions : 7
+lessons/basics/pipe-operator.md -- Additions : 10 / Deletions : 11
+lessons/basics/strings.md -- Additions : 5 / Deletions : 5
+lessons/basics/testing.md -- Additions : 2 / Deletions : 3
+lessons/specifics/ecto.md -- Additions : 1 / Deletions : 1
+lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+lessons/specifics/mnesia.md -- Additions : 4 / Deletions : 5
+lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+my/index.md -- Additions : 1 / Deletions : 1
+my/lessons/advanced/concurrency.md -- Additions : 2 / Deletions : 2
+my/lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+my/lessons/basics/basics.md -- Additions : 3 / Deletions : 5
+my/lessons/basics/collections.md -- Additions : 14 / Deletions : 14
+my/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+my/lessons/basics/mix.md -- Additions : 4 / Deletions : 4
+my/lessons/basics/modules.md -- Additions : 2 / Deletions : 2
+my/lessons/basics/pipe-operator.md -- Additions : 1 / Deletions : 1
+no/index.md -- Additions : 1 / Deletions : 1
+no/lessons/basics/basics.md -- Additions : 18 / Deletions : 6
+no/lessons/basics/collections.md -- Additions : 24 / Deletions : 14
+no/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+no/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+no/lessons/basics/modules.md -- Additions : 5 / Deletions : 5
+no/lessons/basics/pipe-operator.md -- Additions : 1 / Deletions : 1
+pl/index.md -- Additions : 1 / Deletions : 1
+pl/lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+pl/lessons/advanced/metaprogramming.md -- Additions : 0 / Deletions : 1
+pl/lessons/advanced/umbrella-projects.md -- Additions : 3 / Deletions : 3
+pl/lessons/basics/basics.md -- Additions : 3 / Deletions : 5
+pl/lessons/basics/collections.md -- Additions : 17 / Deletions : 15
+pl/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+pl/lessons/basics/mix.md -- Additions : 6 / Deletions : 6
+pl/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+pl/lessons/basics/pipe-operator.md -- Additions : 8 / Deletions : 8
+pl/lessons/basics/strings.md -- Additions : 1 / Deletions : 1
+pl/lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+pl/lessons/specifics/mnesia.md -- Additions : 3 / Deletions : 4
+pl/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+pt/lessons/advanced/concurrency.md -- Additions : 2 / Deletions : 2
+pt/lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+pt/lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+pt/lessons/advanced/metaprogramming.md -- Additions : 0 / Deletions : 1
+pt/lessons/advanced/umbrella-projects.md -- Additions : 1 / Deletions : 1
+pt/lessons/basics/basics.md -- Additions : 6 / Deletions : 8
+pt/lessons/basics/collections.md -- Additions : 14 / Deletions : 14
+pt/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+pt/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+pt/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+pt/lessons/basics/pipe-operator.md -- Additions : 8 / Deletions : 8
+pt/lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+pt/lessons/specifics/mnesia.md -- Additions : 3 / Deletions : 4
+pt/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+ru/index.md -- Additions : 2 / Deletions : 3
+ru/lessons/advanced/concurrency.md -- Additions : 2 / Deletions : 2
+ru/lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+ru/lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+ru/lessons/advanced/metaprogramming.md -- Additions : 0 / Deletions : 1
+ru/lessons/advanced/umbrella-projects.md -- Additions : 212 / Deletions : 0
+ru/lessons/basics/basics.md -- Additions : 6 / Deletions : 8
+ru/lessons/basics/collections.md -- Additions : 36 / Deletions : 25
+ru/lessons/basics/control-structures.md -- Additions : 9 / Deletions : 9
+ru/lessons/basics/documentation.md -- Additions : 2 / Deletions : 2
+ru/lessons/basics/enum.md -- Additions : 3 / Deletions : 1
+ru/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+ru/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+ru/lessons/basics/pipe-operator.md -- Additions : 11 / Deletions : 11
+ru/lessons/basics/strings.md -- Additions : 3 / Deletions : 3
+ru/lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+ru/lessons/specifics/mnesia.md -- Additions : 176 / Deletions : 0
+ru/lessons/specifics/plug.md -- Additions : 235 / Deletions : 0
+sk/index.md -- Additions : 1 / Deletions : 1
+sk/lessons/basics/basics.md -- Additions : 23 / Deletions : 5
+sk/lessons/basics/collections.md -- Additions : 32 / Deletions : 16
+sk/lessons/basics/comprehensions.md -- Additions : 3 / Deletions : 2
+sk/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+sk/lessons/basics/enum.md -- Additions : 3 / Deletions : 1
+sk/lessons/basics/mix-tasks.md -- Additions : 101 / Deletions : 0
+sk/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+sk/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+sk/lessons/basics/pipe-operator.md -- Additions : 8 / Deletions : 8
+sk/lessons/basics/strings.md -- Additions : 149 / Deletions : 0
+ua/index.md -- Additions : 33 / Deletions : 0
+ua/lessons/advanced/.gitignore -- Additions : 0 / Deletions : 0
+ua/lessons/basics/.gitignore -- Additions : 0 / Deletions : 0
+ua/lessons/basics/basics.md -- Additions : 272 / Deletions : 0
+ua/lessons/specifics/.gitignore -- Additions : 0 / Deletions : 0
+vi/index.md -- Additions : 1 / Deletions : 1
+vi/lessons/advanced/concurrency.md -- Additions : 2 / Deletions : 2
+vi/lessons/advanced/erlang.md -- Additions : 1 / Deletions : 1
+vi/lessons/advanced/escripts.md -- Additions : 1 / Deletions : 1
+vi/lessons/advanced/metaprogramming.md -- Additions : 0 / Deletions : 1
+vi/lessons/basics/basics.md -- Additions : 3 / Deletions : 5
+vi/lessons/basics/collections.md -- Additions : 14 / Deletions : 14
+vi/lessons/basics/control-structures.md -- Additions : 2 / Deletions : 2
+vi/lessons/basics/mix.md -- Additions : 3 / Deletions : 3
+vi/lessons/basics/modules.md -- Additions : 1 / Deletions : 1
+vi/lessons/basics/pipe-operator.md -- Additions : 1 / Deletions : 1
+vi/lessons/specifics/ecto.md -- Additions : 1 / Deletions : 1
+vi/lessons/specifics/ets.md -- Additions : 1 / Deletions : 1
+vi/lessons/specifics/plug.md -- Additions : 2 / Deletions : 2
+>> contributes for language <<
+markdown -- Additions : 9046 / Deletions : 873
+css -- Additions : 31 / Deletions : 4
+text -- Additions : 22 / Deletions : 4
+html -- Additions : 13 / Deletions : 8
+ignore -- Additions : 0 / Deletions : 0
+--------
+[git-mirage]
+>> contributes for files <<
+app/assets/javascripts/snippets.coffee.erb -- Additions : 95 / Deletions : 20
+app/controllers/snippets_controller.rb -- Additions : 25 / Deletions : 0
+app/views/layouts/application.html.erb -- Additions : 22 / Deletions : 2
+app/views/snippets/show.html.erb -- Additions : 30 / Deletions : 17
+config/routes.rb -- Additions : 22 / Deletions : 2
+.gitignore -- Additions : 34 / Deletions : 0
+app/assets/stylesheets/snippets.scss -- Additions : 9 / Deletions : 0
+Gemfile -- Additions : 72 / Deletions : 0
+Gemfile.lock -- Additions : 298 / Deletions : 0
+app/assets/javascripts/application.js -- Additions : 50 / Deletions : 1
+app/assets/javascripts/snippets.coffee -- Additions : 3 / Deletions : 3
+app/assets/stylesheets/application.css -- Additions : 17 / Deletions : 0
+config/initializers/config.rb -- Additions : 50 / Deletions : 0
+config/settings/development.yml -- Additions : 0 / Deletions : 0
+config/settings/production.yml -- Additions : 0 / Deletions : 0
+config/settings/test.yml -- Additions : 0 / Deletions : 0
+package-lock.json -- Additions : 1611 / Deletions : 0
+package.json -- Additions : 11 / Deletions : 2
+app/helpers/snippets_helper.rb -- Additions : 15 / Deletions : 0
+app/views/repositories/show.html.erb -- Additions : 72 / Deletions : 15
+config/application.rb -- Additions : 20 / Deletions : 1
+.pryrc -- Additions : 14 / Deletions : 0
+.ruby-version -- Additions : 1 / Deletions : 0
+README.md -- Additions : 24 / Deletions : 0
+Rakefile -- Additions : 6 / Deletions : 0
+app/assets/config/manifest.js -- Additions : 3 / Deletions : 0
+app/assets/images/.keep -- Additions : 0 / Deletions : 0
+app/assets/javascripts/cable.js -- Additions : 13 / Deletions : 0
+app/assets/javascripts/channels/.keep -- Additions : 0 / Deletions : 0
+app/assets/javascripts/repositories.coffee -- Additions : 3 / Deletions : 0
+app/assets/stylesheets/repositories.scss -- Additions : 3 / Deletions : 0
+app/assets/stylesheets/scaffolds.scss -- Additions : 84 / Deletions : 0
+app/channels/application_cable/channel.rb -- Additions : 4 / Deletions : 0
+app/channels/application_cable/connection.rb -- Additions : 4 / Deletions : 0
+app/controllers/accounts/confirmations_controller.rb -- Additions : 30 / Deletions : 0
+app/controllers/accounts/omniauth_callbacks_controller.rb -- Additions : 30 / Deletions : 0
+app/controllers/accounts/passwords_controller.rb -- Additions : 34 / Deletions : 0
+app/controllers/accounts/registrations_controller.rb -- Additions : 62 / Deletions : 0
+app/controllers/accounts/sessions_controller.rb -- Additions : 27 / Deletions : 0
+app/controllers/accounts/unlocks_controller.rb -- Additions : 30 / Deletions : 0
+app/controllers/application_controller.rb -- Additions : 2 / Deletions : 0
+app/controllers/concerns/.keep -- Additions : 0 / Deletions : 0
+app/controllers/repositories_controller.rb -- Additions : 94 / Deletions : 0
+app/helpers/application_helper.rb -- Additions : 2 / Deletions : 0
+app/helpers/repositories_helper.rb -- Additions : 2 / Deletions : 0
+app/jobs/application_job.rb -- Additions : 2 / Deletions : 0
+app/mailers/application_mailer.rb -- Additions : 4 / Deletions : 0
+app/models/account.rb -- Additions : 8 / Deletions : 0
+app/models/application_record.rb -- Additions : 3 / Deletions : 0
+app/models/concerns/.keep -- Additions : 0 / Deletions : 0
+app/models/repository.rb -- Additions : 3 / Deletions : 0
+app/views/accounts/confirmations/new.html.erb -- Additions : 16 / Deletions : 0
+app/views/accounts/mailer/confirmation_instructions.html.erb -- Additions : 5 / Deletions : 0
+app/views/accounts/mailer/email_changed.html.erb -- Additions : 7 / Deletions : 0
+app/views/accounts/mailer/password_change.html.erb -- Additions : 3 / Deletions : 0
+app/views/accounts/mailer/reset_password_instructions.html.erb -- Additions : 8 / Deletions : 0
+app/views/accounts/mailer/unlock_instructions.html.erb -- Additions : 7 / Deletions : 0
+app/views/accounts/passwords/edit.html.erb -- Additions : 25 / Deletions : 0
+app/views/accounts/passwords/new.html.erb -- Additions : 16 / Deletions : 0
+app/views/accounts/registrations/edit.html.erb -- Additions : 43 / Deletions : 0
+app/views/accounts/registrations/new.html.erb -- Additions : 29 / Deletions : 0
+app/views/accounts/sessions/new.html.erb -- Additions : 26 / Deletions : 0
+app/views/accounts/shared/_links.html.erb -- Additions : 25 / Deletions : 0
+app/views/accounts/unlocks/new.html.erb -- Additions : 16 / Deletions : 0
+app/views/layouts/mailer.html.erb -- Additions : 13 / Deletions : 0
+app/views/layouts/mailer.text.erb -- Additions : 1 / Deletions : 0
+app/views/repositories/_form.html.erb -- Additions : 29 / Deletions : 0
+app/views/repositories/_repository.json.jbuilder -- Additions : 2 / Deletions : 0
+app/views/repositories/edit.html.erb -- Additions : 6 / Deletions : 0
+app/views/repositories/index.html.erb -- Additions : 31 / Deletions : 0
+app/views/repositories/index.json.jbuilder -- Additions : 1 / Deletions : 0
+app/views/repositories/new.html.erb -- Additions : 5 / Deletions : 0
+app/views/repositories/show.json.jbuilder -- Additions : 1 / Deletions : 0
+app/views/snippets/edit.html.erb -- Additions : 2 / Deletions : 0
+bin/bundle -- Additions : 3 / Deletions : 0
+bin/rails -- Additions : 9 / Deletions : 0
+bin/rake -- Additions : 9 / Deletions : 0
+bin/setup -- Additions : 36 / Deletions : 0
+bin/spring -- Additions : 17 / Deletions : 0
+bin/update -- Additions : 31 / Deletions : 0
+bin/yarn -- Additions : 11 / Deletions : 0
+config.ru -- Additions : 5 / Deletions : 0
+config/boot.rb -- Additions : 4 / Deletions : 0
+config/cable.yml -- Additions : 10 / Deletions : 0
+config/credentials.yml.enc -- Additions : 1 / Deletions : 0
+config/database.yml -- Additions : 85 / Deletions : 0
+config/environment.rb -- Additions : 5 / Deletions : 0
+config/environments/development.rb -- Additions : 61 / Deletions : 0
+config/environments/production.rb -- Additions : 94 / Deletions : 0
+config/environments/test.rb -- Additions : 46 / Deletions : 0
+config/initializers/application_controller_renderer.rb -- Additions : 8 / Deletions : 0
+config/initializers/assets.rb -- Additions : 14 / Deletions : 0
+config/initializers/backtrace_silencers.rb -- Additions : 7 / Deletions : 0
+config/initializers/content_security_policy.rb -- Additions : 25 / Deletions : 0
+config/initializers/cookies_serializer.rb -- Additions : 5 / Deletions : 0
+config/initializers/devise.rb -- Additions : 290 / Deletions : 0
+config/initializers/filter_parameter_logging.rb -- Additions : 4 / Deletions : 0
+config/initializers/inflections.rb -- Additions : 16 / Deletions : 0
+config/initializers/mime_types.rb -- Additions : 4 / Deletions : 0
+config/initializers/wrap_parameters.rb -- Additions : 14 / Deletions : 0
+config/locales/devise.en.yml -- Additions : 64 / Deletions : 0
+config/locales/en.yml -- Additions : 33 / Deletions : 0
+config/puma.rb -- Additions : 34 / Deletions : 0
+config/spring.rb -- Additions : 6 / Deletions : 0
+config/storage.yml -- Additions : 34 / Deletions : 0
+db/migrate/20181224063159_devise_create_accounts.rb -- Additions : 44 / Deletions : 0
+db/migrate/20181224065204_create_repositories.rb -- Additions : 11 / Deletions : 0
+db/migrate/20181224065924_add_temporary_path_to_repository.rb -- Additions : 5 / Deletions : 0
+db/schema.rb -- Additions : 41 / Deletions : 0
+db/seeds.rb -- Additions : 7 / Deletions : 0
+lib/assets/.keep -- Additions : 0 / Deletions : 0
+lib/tasks/.keep -- Additions : 0 / Deletions : 0
+log/.keep -- Additions : 0 / Deletions : 0
+public/404.html -- Additions : 67 / Deletions : 0
+public/422.html -- Additions : 67 / Deletions : 0
+public/500.html -- Additions : 66 / Deletions : 0
+public/apple-touch-icon-precomposed.png -- Additions : 0 / Deletions : 0
+public/apple-touch-icon.png -- Additions : 0 / Deletions : 0
+public/favicon.ico -- Additions : 0 / Deletions : 0
+public/robots.txt -- Additions : 1 / Deletions : 0
+storage/.keep -- Additions : 0 / Deletions : 0
+test/application_system_test_case.rb -- Additions : 5 / Deletions : 0
+test/controllers/.keep -- Additions : 0 / Deletions : 0
+test/controllers/repositories_controller_test.rb -- Additions : 48 / Deletions : 0
+test/controllers/snippets_controller_test.rb -- Additions : 14 / Deletions : 0
+test/fixtures/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/accounts.yml -- Additions : 11 / Deletions : 0
+test/fixtures/files/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/repositories.yml -- Additions : 11 / Deletions : 0
+test/helpers/.keep -- Additions : 0 / Deletions : 0
+test/integration/.keep -- Additions : 0 / Deletions : 0
+test/mailers/.keep -- Additions : 0 / Deletions : 0
+test/models/.keep -- Additions : 0 / Deletions : 0
+test/models/account_test.rb -- Additions : 7 / Deletions : 0
+test/models/repository_test.rb -- Additions : 7 / Deletions : 0
+test/system/.keep -- Additions : 0 / Deletions : 0
+test/system/repositories_test.rb -- Additions : 47 / Deletions : 0
+test/test_helper.rb -- Additions : 10 / Deletions : 0
+tmp -- Additions : 1 / Deletions : 0
+vendor/.keep -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+ruby -- Additions : 1971 / Deletions : 57
+ignore -- Additions : 1954 / Deletions : 2
+css -- Additions : 113 / Deletions : 0
+javascript -- Additions : 66 / Deletions : 1
+text -- Additions : 392 / Deletions : 3
+markdown -- Additions : 24 / Deletions : 0
+html -- Additions : 200 / Deletions : 0
+--------
+[google-interview-university(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[haskell-school]
+>> contributes for files <<
+week1/hw2.hs -- Additions : 67 / Deletions : 1
+week1/hw3.hs -- Additions : 141 / Deletions : 0
+week2/hw4.hs -- Additions : 85 / Deletions : 0
+week2/hw4.hs~ -- Additions : 59 / Deletions : 0
+week1/hw1.hs -- Additions : 51 / Deletions : 6
+week1/hw1.hs~ -- Additions : 19 / Deletions : 19
+week1/hw2.hs~ -- Additions : 0 / Deletions : 0
+week1/ex.hs -- Additions : 27 / Deletions : 0
+README.md -- Additions : 1 / Deletions : 0
+>> contributes for language <<
+haskell -- Additions : 371 / Deletions : 7
+text -- Additions : 78 / Deletions : 19
+markdown -- Additions : 1 / Deletions : 0
+--------
+[HI-ARC-Portal(forked)]
+>> contributes for files <<
+HIARCPortal/settings.py -- Additions : 141 / Deletions : 0
+HIARCPortal/urls.py -- Additions : 25 / Deletions : 0
+appliers/__init__.py -- Additions : 0 / Deletions : 0
+appliers/admin.py -- Additions : 3 / Deletions : 0
+appliers/apps.py -- Additions : 5 / Deletions : 0
+appliers/migrations/0001_initial.py -- Additions : 34 / Deletions : 0
+appliers/migrations/__init__.py -- Additions : 0 / Deletions : 0
+appliers/models.py -- Additions : 22 / Deletions : 0
+appliers/serializers.py -- Additions : 30 / Deletions : 0
+appliers/tests.py -- Additions : 3 / Deletions : 0
+appliers/urls.py -- Additions : 22 / Deletions : 0
+appliers/views/ApplierAdminListViewSet.py -- Additions : 21 / Deletions : 0
+appliers/views/ApplierAdminViewSet.py -- Additions : 21 / Deletions : 0
+appliers/views/ApplierViewSet.py -- Additions : 21 / Deletions : 0
+.gitignore -- Additions : 9 / Deletions : 1
+.vscode/settings.json -- Additions : 3 / Deletions : 3
+HIARCPortal/__init__.py -- Additions : 0 / Deletions : 0
+HIARCPortal/wsgi.py -- Additions : 16 / Deletions : 0
+README.md -- Additions : 1 / Deletions : 0
+boards/__init__.py -- Additions : 0 / Deletions : 0
+boards/admin.py -- Additions : 3 / Deletions : 0
+boards/apps.py -- Additions : 5 / Deletions : 0
+boards/migrations/0001_initial.py -- Additions : 26 / Deletions : 0
+boards/migrations/__init__.py -- Additions : 0 / Deletions : 0
+boards/models.py -- Additions : 10 / Deletions : 0
+boards/serializers.py -- Additions : 27 / Deletions : 0
+boards/tests.py -- Additions : 3 / Deletions : 0
+boards/urls.py -- Additions : 7 / Deletions : 0
+boards/views.py -- Additions : 55 / Deletions : 0
+frontend/__init__.py -- Additions : 0 / Deletions : 0
+frontend/admin.py -- Additions : 3 / Deletions : 0
+frontend/apps.py -- Additions : 5 / Deletions : 0
+frontend/migrations/__init__.py -- Additions : 0 / Deletions : 0
+frontend/models.py -- Additions : 3 / Deletions : 0
+frontend/package-lock.json -- Additions : 166 / Deletions : 0
+frontend/package.json -- Additions : 20 / Deletions : 0
+frontend/src/App.css -- Additions : 24 / Deletions : 0
+frontend/src/App.test.tsx -- Additions : 8 / Deletions : 0
+frontend/src/App.tsx -- Additions : 18 / Deletions : 0
+frontend/src/index.css -- Additions : 5 / Deletions : 0
+frontend/src/index.tsx -- Additions : 12 / Deletions : 0
+frontend/src/logo.svg -- Additions : 7 / Deletions : 0
+frontend/src/registerServiceWorker.ts -- Additions : 55 / Deletions : 0
+frontend/templates/layout.html -- Additions : 19 / Deletions : 0
+frontend/tests.py -- Additions : 3 / Deletions : 0
+frontend/urls.py -- Additions : 6 / Deletions : 0
+frontend/views.py -- Additions : 3 / Deletions : 0
+manage.py -- Additions : 15 / Deletions : 0
+>> contributes for language <<
+python -- Additions : 538 / Deletions : 0
+ignore -- Additions : 198 / Deletions : 4
+markdown -- Additions : 1 / Deletions : 0
+css -- Additions : 29 / Deletions : 0
+react -- Additions : 38 / Deletions : 0
+text -- Additions : 7 / Deletions : 0
+typescript -- Additions : 55 / Deletions : 0
+html -- Additions : 19 / Deletions : 0
+--------
+[HI-ARC-PORTAL-RENEWAL(forked)]
+>> contributes for files <<
+Pipfile -- Additions : 15 / Deletions : 0
+Pipfile.lock -- Additions : 138 / Deletions : 0
+db.sqlite3 -- Additions : 0 / Deletions : 0
+hiarc_registration/__init__.py -- Additions : 0 / Deletions : 0
+hiarc_registration/__pycache__/__init__.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/__pycache__/admin.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/__pycache__/apps.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/__pycache__/forms.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/__pycache__/models.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/__pycache__/views.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/admin.py -- Additions : 31 / Deletions : 0
+hiarc_registration/apps.py -- Additions : 5 / Deletions : 0
+hiarc_registration/fields.py -- Additions : 105 / Deletions : 0
+hiarc_registration/forms.py -- Additions : 45 / Deletions : 0
+hiarc_registration/migrations/0001_initial.py -- Additions : 39 / Deletions : 0
+hiarc_registration/migrations/0002_auto_20190112_1517.py -- Additions : 55 / Deletions : 0
+hiarc_registration/migrations/__init__.py -- Additions : 0 / Deletions : 0
+hiarc_registration/migrations/__pycache__/0001_initial.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/migrations/__pycache__/0002_auto_20190112_1517.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/migrations/__pycache__/__init__.cpython-36.pyc -- Additions : 0 / Deletions : 0
+hiarc_registration/models.py -- Additions : 219 / Deletions : 0
+hiarc_registration/tests.py -- Additions : 3 / Deletions : 0
+hiarc_registration/views.py -- Additions : 21 / Deletions : 0
+landing_page/__init__.py -- Additions : 0 / Deletions : 0
+landing_page/__pycache__/__init__.cpython-36.pyc -- Additions : 0 / Deletions : 0
+landing_page/__pycache__/admin.cpython-36.pyc -- Additions : 0 / Deletions : 0
+landing_page/__pycache__/apps.cpython-36.pyc -- Additions : 0 / Deletions : 0
+landing_page/__pycache__/models.cpython-36.pyc -- Additions : 0 / Deletions : 0
+landing_page/__pycache__/views.cpython-36.pyc -- Additions : 0 / Deletions : 0
+landing_page/admin.py -- Additions : 3 / Deletions : 0
+landing_page/apps.py -- Additions : 5 / Deletions : 0
+landing_page/migrations/__init__.py -- Additions : 0 / Deletions : 0
+landing_page/migrations/__pycache__/__init__.cpython-36.pyc -- Additions : 0 / Deletions : 0
+landing_page/models.py -- Additions : 3 / Deletions : 0
+landing_page/tests.py -- Additions : 3 / Deletions : 0
+landing_page/views.py -- Additions : 6 / Deletions : 0
+manage.py -- Additions : 15 / Deletions : 0
+ragnarok/__init__.py -- Additions : 0 / Deletions : 0
+ragnarok/__pycache__/__init__.cpython-36.pyc -- Additions : 0 / Deletions : 0
+ragnarok/__pycache__/settings.cpython-36.pyc -- Additions : 0 / Deletions : 0
+ragnarok/__pycache__/urls.cpython-36.pyc -- Additions : 0 / Deletions : 0
+ragnarok/__pycache__/wsgi.cpython-36.pyc -- Additions : 0 / Deletions : 0
+ragnarok/settings.py -- Additions : 157 / Deletions : 0
+ragnarok/urls.py -- Additions : 56 / Deletions : 0
+ragnarok/wsgi.py -- Additions : 24 / Deletions : 0
+static/admin/css/autocomplete.781713f30664.css -- Additions : 260 / Deletions : 0
+static/admin/css/autocomplete.781713f30664.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/autocomplete.css -- Additions : 260 / Deletions : 0
+static/admin/css/autocomplete.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/base.17fd9d2dcc19.css -- Additions : 978 / Deletions : 0
+static/admin/css/base.a419cbad388f.css -- Additions : 978 / Deletions : 0
+static/admin/css/base.a419cbad388f.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/base.css -- Additions : 978 / Deletions : 0
+static/admin/css/base.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/changelists.css -- Additions : 344 / Deletions : 0
+static/admin/css/changelists.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/changelists.f6dc691f8d62.css -- Additions : 344 / Deletions : 0
+static/admin/css/changelists.f6dc691f8d62.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/dashboard.7ac78187c567.css -- Additions : 27 / Deletions : 0
+static/admin/css/dashboard.7ac78187c567.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/dashboard.css -- Additions : 27 / Deletions : 0
+static/admin/css/dashboard.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/fonts.494e4ec545c9.css -- Additions : 20 / Deletions : 0
+static/admin/css/fonts.494e4ec545c9.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/fonts.cc6140298ba7.css -- Additions : 20 / Deletions : 0
+static/admin/css/fonts.css -- Additions : 20 / Deletions : 0
+static/admin/css/fonts.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/forms.2003a066ae02.css -- Additions : 515 / Deletions : 0
+static/admin/css/forms.2003a066ae02.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/forms.77b3f8a70811.css -- Additions : 515 / Deletions : 0
+static/admin/css/forms.css -- Additions : 515 / Deletions : 0
+static/admin/css/forms.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/login.a846c0e2ef65.css -- Additions : 78 / Deletions : 0
+static/admin/css/login.a846c0e2ef65.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/login.css -- Additions : 78 / Deletions : 0
+static/admin/css/login.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/responsive.25d98d3909ed.css -- Additions : 990 / Deletions : 0
+static/admin/css/responsive.25d98d3909ed.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/responsive.css -- Additions : 990 / Deletions : 0
+static/admin/css/responsive.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/responsive_rtl.2a6652327ccd.css -- Additions : 80 / Deletions : 0
+static/admin/css/responsive_rtl.2a6652327ccd.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/responsive_rtl.css -- Additions : 80 / Deletions : 0
+static/admin/css/responsive_rtl.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/rtl.4c867197b256.css -- Additions : 264 / Deletions : 0
+static/admin/css/rtl.4c867197b256.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/rtl.css -- Additions : 264 / Deletions : 0
+static/admin/css/rtl.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/vendor/select2/LICENSE-SELECT2.7cf1de939f3b.md -- Additions : 21 / Deletions : 0
+static/admin/css/vendor/select2/LICENSE-SELECT2.7cf1de939f3b.md.gz -- Additions : 0 / Deletions : 0
+static/admin/css/vendor/select2/LICENSE-SELECT2.md -- Additions : 21 / Deletions : 0
+static/admin/css/vendor/select2/LICENSE-SELECT2.md.gz -- Additions : 0 / Deletions : 0
+static/admin/css/vendor/select2/select2.3805311d5fc1.css -- Additions : 484 / Deletions : 0
+static/admin/css/vendor/select2/select2.3805311d5fc1.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/vendor/select2/select2.css -- Additions : 484 / Deletions : 0
+static/admin/css/vendor/select2/select2.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/vendor/select2/select2.min.css -- Additions : 1 / Deletions : 0
+static/admin/css/vendor/select2/select2.min.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/vendor/select2/select2.min.d44571114a90.css -- Additions : 1 / Deletions : 0
+static/admin/css/vendor/select2/select2.min.d44571114a90.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/widgets.5e372b41c483.css -- Additions : 565 / Deletions : 0
+static/admin/css/widgets.5e372b41c483.css.gz -- Additions : 0 / Deletions : 0
+static/admin/css/widgets.a7251c097987.css -- Additions : 565 / Deletions : 0
+static/admin/css/widgets.css -- Additions : 565 / Deletions : 0
+static/admin/css/widgets.css.gz -- Additions : 0 / Deletions : 0
+static/admin/fonts/LICENSE.d273d63619c9.txt -- Additions : 202 / Deletions : 0
+static/admin/fonts/LICENSE.d273d63619c9.txt.gz -- Additions : 0 / Deletions : 0
+static/admin/fonts/LICENSE.txt -- Additions : 202 / Deletions : 0
+static/admin/fonts/LICENSE.txt.gz -- Additions : 0 / Deletions : 0
+static/admin/fonts/README.2c3d0bcdede2.txt -- Additions : 2 / Deletions : 0
+static/admin/fonts/README.txt -- Additions : 2 / Deletions : 0
+static/admin/fonts/Roboto-Bold-webfont.2ad99072841e.woff -- Additions : 0 / Deletions : 0
+static/admin/fonts/Roboto-Bold-webfont.woff -- Additions : 0 / Deletions : 0
+static/admin/fonts/Roboto-Light-webfont.b446c2399bb6.woff -- Additions : 0 / Deletions : 0
+static/admin/fonts/Roboto-Light-webfont.woff -- Additions : 0 / Deletions : 0
+static/admin/fonts/Roboto-Regular-webfont.ec39515ae8c6.woff -- Additions : 0 / Deletions : 0
+static/admin/fonts/Roboto-Regular-webfont.woff -- Additions : 0 / Deletions : 0
+static/admin/img/LICENSE -- Additions : 20 / Deletions : 0
+static/admin/img/LICENSE.2c54f4e1ca1c -- Additions : 20 / Deletions : 0
+static/admin/img/LICENSE.2c54f4e1ca1c.gz -- Additions : 0 / Deletions : 0
+static/admin/img/LICENSE.gz -- Additions : 0 / Deletions : 0
+static/admin/img/README.837277fa1908.txt -- Additions : 7 / Deletions : 0
+static/admin/img/README.837277fa1908.txt.gz -- Additions : 0 / Deletions : 0
+static/admin/img/README.txt -- Additions : 7 / Deletions : 0
+static/admin/img/README.txt.gz -- Additions : 0 / Deletions : 0
+static/admin/img/calendar-icons.39b290681a8b.svg -- Additions : 14 / Deletions : 0
+static/admin/img/calendar-icons.39b290681a8b.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/calendar-icons.svg -- Additions : 14 / Deletions : 0
+static/admin/img/calendar-icons.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg -- Additions : 1 / Deletions : 0
+static/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/gis/move_vertex_off.svg -- Additions : 1 / Deletions : 0
+static/admin/img/gis/move_vertex_off.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/gis/move_vertex_on.0047eba25b67.svg -- Additions : 1 / Deletions : 0
+static/admin/img/gis/move_vertex_on.0047eba25b67.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/gis/move_vertex_on.svg -- Additions : 1 / Deletions : 0
+static/admin/img/gis/move_vertex_on.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-addlink.d519b3bab011.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-addlink.d519b3bab011.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-addlink.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-addlink.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-alert.034cc7d8a67f.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-alert.034cc7d8a67f.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-alert.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-alert.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-calendar.ac7aea671bea.svg -- Additions : 9 / Deletions : 0
+static/admin/img/icon-calendar.ac7aea671bea.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-calendar.svg -- Additions : 9 / Deletions : 0
+static/admin/img/icon-calendar.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-changelink.18d2fd706348.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-changelink.18d2fd706348.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-changelink.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-changelink.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-clock.e1d4dfac3f2b.svg -- Additions : 9 / Deletions : 0
+static/admin/img/icon-clock.e1d4dfac3f2b.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-clock.svg -- Additions : 9 / Deletions : 0
+static/admin/img/icon-clock.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-deletelink.564ef9dc3854.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-deletelink.564ef9dc3854.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-deletelink.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-deletelink.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-no.439e821418cd.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-no.439e821418cd.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-no.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-no.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-unknown-alt.81536e128bb6.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-unknown-alt.81536e128bb6.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-unknown-alt.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-unknown-alt.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-unknown.a18cb4398978.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-unknown.a18cb4398978.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-unknown.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-unknown.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-yes.d2f9f035226a.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-yes.d2f9f035226a.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/icon-yes.svg -- Additions : 3 / Deletions : 0
+static/admin/img/icon-yes.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/inline-delete.fec1b761f254.svg -- Additions : 3 / Deletions : 0
+static/admin/img/inline-delete.fec1b761f254.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/inline-delete.svg -- Additions : 3 / Deletions : 0
+static/admin/img/inline-delete.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/search.7cf54ff789c6.svg -- Additions : 3 / Deletions : 0
+static/admin/img/search.7cf54ff789c6.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/search.svg -- Additions : 3 / Deletions : 0
+static/admin/img/search.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/selector-icons.b4555096cea2.svg -- Additions : 34 / Deletions : 0
+static/admin/img/selector-icons.b4555096cea2.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/selector-icons.svg -- Additions : 34 / Deletions : 0
+static/admin/img/selector-icons.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/sorting-icons.3a097b59f104.svg -- Additions : 19 / Deletions : 0
+static/admin/img/sorting-icons.3a097b59f104.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/sorting-icons.svg -- Additions : 19 / Deletions : 0
+static/admin/img/sorting-icons.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/tooltag-add.e59d620a9742.svg -- Additions : 3 / Deletions : 0
+static/admin/img/tooltag-add.e59d620a9742.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/tooltag-add.svg -- Additions : 3 / Deletions : 0
+static/admin/img/tooltag-add.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/tooltag-arrowright.bbfb788a849e.svg -- Additions : 3 / Deletions : 0
+static/admin/img/tooltag-arrowright.bbfb788a849e.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/img/tooltag-arrowright.svg -- Additions : 3 / Deletions : 0
+static/admin/img/tooltag-arrowright.svg.gz -- Additions : 0 / Deletions : 0
+static/admin/js/SelectBox.b49f008d186b.js -- Additions : 144 / Deletions : 0
+static/admin/js/SelectBox.b49f008d186b.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/SelectBox.js -- Additions : 144 / Deletions : 0
+static/admin/js/SelectBox.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/SelectFilter2.2360f389ca5d.js -- Additions : 252 / Deletions : 0
+static/admin/js/SelectFilter2.2360f389ca5d.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/SelectFilter2.js -- Additions : 252 / Deletions : 0
+static/admin/js/SelectFilter2.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/actions.6bf7f1c0488d.js -- Additions : 153 / Deletions : 0
+static/admin/js/actions.6bf7f1c0488d.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/actions.js -- Additions : 153 / Deletions : 0
+static/admin/js/actions.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/actions.min.741d6cf65b97.js -- Additions : 6 / Deletions : 0
+static/admin/js/actions.min.741d6cf65b97.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/actions.min.js -- Additions : 6 / Deletions : 0
+static/admin/js/actions.min.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/admin/DateTimeShortcuts.9328d2bf6579.js -- Additions : 426 / Deletions : 0
+static/admin/js/admin/DateTimeShortcuts.9328d2bf6579.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/admin/DateTimeShortcuts.js -- Additions : 426 / Deletions : 0
+static/admin/js/admin/DateTimeShortcuts.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/admin/RelatedObjectLookups.ace63ab4b4e2.js -- Additions : 181 / Deletions : 0
+static/admin/js/admin/RelatedObjectLookups.ace63ab4b4e2.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/admin/RelatedObjectLookups.js -- Additions : 181 / Deletions : 0
+static/admin/js/admin/RelatedObjectLookups.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/autocomplete.cfd2c4dc8981.js -- Additions : 37 / Deletions : 0
+static/admin/js/autocomplete.cfd2c4dc8981.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/autocomplete.js -- Additions : 37 / Deletions : 0
+static/admin/js/autocomplete.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/calendar.aae57adab5f6.js -- Additions : 208 / Deletions : 0
+static/admin/js/calendar.aae57adab5f6.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/calendar.js -- Additions : 208 / Deletions : 0
+static/admin/js/calendar.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/cancel.1d69cba4b4bf.js -- Additions : 9 / Deletions : 0
+static/admin/js/cancel.1d69cba4b4bf.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/cancel.js -- Additions : 9 / Deletions : 0
+static/admin/js/cancel.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/change_form.9e85003a1a38.js -- Additions : 20 / Deletions : 0
+static/admin/js/change_form.9e85003a1a38.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/change_form.js -- Additions : 20 / Deletions : 0
+static/admin/js/change_form.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/collapse.17d715df2104.js -- Additions : 26 / Deletions : 0
+static/admin/js/collapse.17d715df2104.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/collapse.js -- Additions : 26 / Deletions : 0
+static/admin/js/collapse.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/collapse.min.e1d03a2acd1e.js -- Additions : 5 / Deletions : 0
+static/admin/js/collapse.min.e1d03a2acd1e.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/collapse.min.js -- Additions : 5 / Deletions : 0
+static/admin/js/collapse.min.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/core.953326603873.js -- Additions : 212 / Deletions : 0
+static/admin/js/core.953326603873.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/core.js -- Additions : 212 / Deletions : 0
+static/admin/js/core.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/inlines.bc34c02c43c8.js -- Additions : 295 / Deletions : 0
+static/admin/js/inlines.bc34c02c43c8.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/inlines.js -- Additions : 295 / Deletions : 0
+static/admin/js/inlines.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/inlines.min.4b879f616086.js -- Additions : 13 / Deletions : 0
+static/admin/js/inlines.min.4b879f616086.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/inlines.min.js -- Additions : 13 / Deletions : 0
+static/admin/js/inlines.min.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/jquery.init.95b62fa19378.js -- Additions : 8 / Deletions : 0
+static/admin/js/jquery.init.95b62fa19378.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/jquery.init.js -- Additions : 8 / Deletions : 0
+static/admin/js/jquery.init.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/popup_response.6ce3197f8fc8.js -- Additions : 16 / Deletions : 0
+static/admin/js/popup_response.6ce3197f8fc8.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/popup_response.js -- Additions : 16 / Deletions : 0
+static/admin/js/popup_response.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/prepopulate.ff9208865444.js -- Additions : 42 / Deletions : 0
+static/admin/js/prepopulate.ff9208865444.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/prepopulate.js -- Additions : 42 / Deletions : 0
+static/admin/js/prepopulate.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/prepopulate.min.f4057ebb9b62.js -- Additions : 1 / Deletions : 0
+static/admin/js/prepopulate.min.f4057ebb9b62.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/prepopulate.min.js -- Additions : 1 / Deletions : 0
+static/admin/js/prepopulate.min.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/prepopulate_init.0d3b53c37074.js -- Additions : 10 / Deletions : 0
+static/admin/js/prepopulate_init.0d3b53c37074.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/prepopulate_init.js -- Additions : 10 / Deletions : 0
+static/admin/js/prepopulate_init.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/timeparse.51258861a46a.js -- Additions : 106 / Deletions : 0
+static/admin/js/timeparse.51258861a46a.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/timeparse.js -- Additions : 106 / Deletions : 0
+static/admin/js/timeparse.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/urlify.3d46df4a0190.js -- Additions : 189 / Deletions : 0
+static/admin/js/urlify.3d46df4a0190.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/urlify.js -- Additions : 189 / Deletions : 0
+static/admin/js/urlify.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt -- Additions : 26 / Deletions : 0
+static/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt.gz -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/LICENSE-JQUERY.txt -- Additions : 26 / Deletions : 0
+static/admin/js/vendor/jquery/LICENSE-JQUERY.txt.gz -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/jquery.aacc43d6f308.js -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/jquery.aacc43d6f308.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/jquery.js -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/jquery.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js.gz -- Additions : 0 / Deletions : 0
+static/admin/js/vendor/jquery/jquery.min.js -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+python -- Additions : 810 / Deletions : 0
+ignore -- Additions : 138 / Deletions : 0
+text -- Additions : 760 / Deletions : 0
+css -- Additions : 11290 / Deletions : 0
+markdown -- Additions : 42 / Deletions : 0
+javascript -- Additions : 4718 / Deletions : 0
+--------
+[hi-arc.github.io(forked)]
+>> contributes for files <<
+_activity/2016.md -- Additions : 8 / Deletions : 0
+_activity/2017.md -- Additions : 8 / Deletions : 0
+_activity/2018.md -- Additions : 9 / Deletions : 0
+_config.yml -- Additions : 43 / Deletions : 2
+_data/activity.yaml -- Additions : 9 / Deletions : 0
+_data/navigation.yaml -- Additions : 10 / Deletions : 0
+_includes/activities.html -- Additions : 10 / Deletions : 0
+_includes/header.html -- Additions : 22 / Deletions : 0
+_layouts/activity.html -- Additions : 10 / Deletions : 0
+about.html -- Additions : 17 / Deletions : 0
+about.md -- Additions : 20 / Deletions : 20
+activity.html -- Additions : 8 / Deletions : 0
+css/main.scss -- Additions : 54 / Deletions : 5
+css/paper.min.css -- Additions : 1 / Deletions : 1
+index.html -- Additions : 24 / Deletions : 19
+_includes/default.html -- Additions : 0 / Deletions : 20
+_includes/head.html -- Additions : 1 / Deletions : 14
+_includes/home.html -- Additions : 0 / Deletions : 26
+_includes/page.html -- Additions : 0 / Deletions : 14
+_includes/post.html -- Additions : 0 / Deletions : 25
+_layouts/default.html -- Additions : 40 / Deletions : 20
+_layouts/head.html -- Additions : 27 / Deletions : 14
+_layouts/home.html -- Additions : 52 / Deletions : 26
+_layouts/page.html -- Additions : 28 / Deletions : 14
+_layouts/post.html -- Additions : 50 / Deletions : 25
+.gitignore -- Additions : 3 / Deletions : 0
+Gemfile -- Additions : 24 / Deletions : 0
+Gemfile.lock -- Additions : 48 / Deletions : 0
+_posts/2017-11-15-welcome-to-jekyll.markdown -- Additions : 25 / Deletions : 0
+feed.xml -- Additions : 30 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 70 / Deletions : 20
+text -- Additions : 92 / Deletions : 2
+html -- Additions : 289 / Deletions : 217
+css -- Additions : 55 / Deletions : 6
+ignore -- Additions : 51 / Deletions : 0
+ruby -- Additions : 24 / Deletions : 0
+--------
+[hiarc-algorithm]
+>> contributes for files <<
+2018-08-16/sqrt-decomposition/11505.cpp -- Additions : 86 / Deletions : 0
+2018-08-16/sqrt-decomposition/1275.cpp -- Additions : 81 / Deletions : 0
+2018-08-16/sqrt-decomposition/2357.cpp -- Additions : 78 / Deletions : 0
+2018-08-16/sqrt-decomposition/5676.cpp -- Additions : 82 / Deletions : 0
+2018-07-26/review/1946.cpp -- Additions : 61 / Deletions : 0
+2018-07-19/maxflow/15892-BFS.cpp -- Additions : 78 / Deletions : 0
+2018-07-19/review/14002.cpp -- Additions : 72 / Deletions : 0
+2018-07-19/review/1725.cpp -- Additions : 55 / Deletions : 0
+2018-07-19/review/1849.cpp -- Additions : 89 / Deletions : 0
+11054.cpp -- Additions : 59 / Deletions : 0
+2018-06-28/11054.cpp -- Additions : 59 / Deletions : 0
+2018-07-05/10266.cpp -- Additions : 69 / Deletions : 0
+2018-07-05/11585.cpp -- Additions : 62 / Deletions : 0
+2018-07-05/1786.cpp -- Additions : 49 / Deletions : 0
+2018-05-17/ex.cpp -- Additions : 0 / Deletions : 0
+ex.cpp -- Additions : 7 / Deletions : 0
+>> contributes for language <<
+cpp -- Additions : 987 / Deletions : 0
+--------
+[HIARC-Homepage]
+>> contributes for files <<
+aaa.html -- Additions : 68 / Deletions : 0
+hiarc-homepage.py -- Additions : 38 / Deletions : 4
+sss.css -- Additions : 12 / Deletions : 0
+templates/apply.html -- Additions : 67 / Deletions : 1
+templates/apply_layout.html -- Additions : 20 / Deletions : 1
+templates/if_page.html -- Additions : 3 / Deletions : 0
+templates/layout.html -- Additions : 24 / Deletions : 5
+templates/simple_add.html -- Additions : 1 / Deletions : 0
+Procfile -- Additions : 4 / Deletions : 2
+exp-homepage.py -- Additions : 4 / Deletions : 35
+static/apply_style.css -- Additions : 0 / Deletions : 0
+static/dashboard_style.css -- Additions : 0 / Deletions : 0
+templates/appliers_page.html -- Additions : 14 / Deletions : 0
+templates/a.html -- Additions : 3 / Deletions : 3
+templates/a2.html -- Additions : 5 / Deletions : 5
+templates/b.html -- Additions : 14 / Deletions : 14
+templates/c.html -- Additions : 89 / Deletions : 89
+templates/d.html -- Additions : 190 / Deletions : 95
+templates/layout-bootstrap.html -- Additions : 45 / Deletions : 45
+WEEK1.md -- Additions : 76 / Deletions : 0
+requirements.txt -- Additions : 104 / Deletions : 61
+runtime.txt -- Additions : 2 / Deletions : 0
+old-README.md -- Additions : 0 / Deletions : 0
+app.py -- Additions : 36 / Deletions : 2
+README.md -- Additions : 111 / Deletions : 12
+static/style.css -- Additions : 0 / Deletions : 0
+static/style1.css -- Additions : 16 / Deletions : 0
+templates/layout.html~ -- Additions : 11 / Deletions : 11
+>> contributes for language <<
+html -- Additions : 543 / Deletions : 258
+python -- Additions : 78 / Deletions : 41
+css -- Additions : 28 / Deletions : 0
+text -- Additions : 121 / Deletions : 74
+markdown -- Additions : 187 / Deletions : 12
+--------
+[hiarcbot(forked)]
+>> contributes for files <<
+README.md -- Additions : 14 / Deletions : 9
+docker-compose.yml.template -- Additions : 6 / Deletions : 0
+.gitignore -- Additions : 4 / Deletions : 2
+hiarcbot/plugins/help.py -- Additions : 6 / Deletions : 4
+hiarcbot/plugins/say_hello.py -- Additions : 23 / Deletions : 4
+hiarcbot/plugins/search_boj.py -- Additions : 49 / Deletions : 0
+hiarcbot/plugins/show_boj.py -- Additions : 12 / Deletions : 0
+slackbot_settings.py -- Additions : 22 / Deletions : 17
+docker-compose.yml -- Additions : 12 / Deletions : 6
+#requirements.txt# -- Additions : 5 / Deletions : 10
+.env -- Additions : 2 / Deletions : 0
+Dockerfile -- Additions : 25 / Deletions : 0
+Pipfile -- Additions : 30 / Deletions : 0
+Pipfile.lock -- Additions : 246 / Deletions : 0
+install.sh -- Additions : 0 / Deletions : 9
+requirements.txt -- Additions : 1 / Deletions : 10
+hiarcbot/plugins/schoolcafe_menu.py -- Additions : 79 / Deletions : 1
+hiarcbot/plugins/weather_report.py -- Additions : 288 / Deletions : 131
+ee.aa -- Additions : 0 / Deletions : 0
+hiarcbot/plugins/ebook_notify.py -- Additions : 2 / Deletions : 2
+>> contributes for language <<
+markdown -- Additions : 14 / Deletions : 9
+text -- Additions : 51 / Deletions : 26
+ignore -- Additions : 250 / Deletions : 2
+python -- Additions : 511 / Deletions : 159
+shell -- Additions : 0 / Deletions : 9
+--------
+[HIARC_Apply(forked)]
+>> contributes for files <<
+hiarc-homepage.py -- Additions : 17 / Deletions : 1
+requirements.txt -- Additions : 3 / Deletions : 0
+Procfile -- Additions : 1 / Deletions : 0
+runtime.txt -- Additions : 1 / Deletions : 0
+static/apply_style.css -- Additions : 0 / Deletions : 0
+static/dashboard_style.css -- Additions : 16 / Deletions : 0
+templates/apply.html -- Additions : 66 / Deletions : 0
+templates/apply_layout.html -- Additions : 19 / Deletions : 0
+templates/layout.html -- Additions : 19 / Deletions : 0
+>> contributes for language <<
+python -- Additions : 17 / Deletions : 1
+text -- Additions : 5 / Deletions : 0
+css -- Additions : 16 / Deletions : 0
+html -- Additions : 104 / Deletions : 0
+--------
+[HIARC_TEAMNOTE]
+>> contributes for files <<
+README.md -- Additions : 3 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 3 / Deletions : 0
+--------
+[hitchhiker-s-guide-to-the-clojure-korean]
+>> contributes for files <<
+README.md -- Additions : 203 / Deletions : 32
+Editor/Atom/Plugins.md -- Additions : 9 / Deletions : 0
+Editor/Atom/Shortcuts.md -- Additions : 0 / Deletions : 0
+Editor/VSCode/Plugins.md -- Additions : 10 / Deletions : 0
+Editor/VSCode/Shortcuts.md -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 222 / Deletions : 32
+--------
+[hongdae_schoolcafe]
+>> contributes for files <<
+.gitignore -- Additions : 20 / Deletions : 0
+config/config.exs -- Additions : 38 / Deletions : 0
+lib/hongdae_schoolcafe.ex -- Additions : 38 / Deletions : 0
+lib/hongdae_schoolcafe/core.ex -- Additions : 19 / Deletions : 0
+lib/hongdae_schoolcafe/string_modifier.ex -- Additions : 16 / Deletions : 0
+mix.exs -- Additions : 40 / Deletions : 0
+mix.lock -- Additions : 7 / Deletions : 0
+test/hongdae_schoolcafe_test.exs -- Additions : 8 / Deletions : 0
+test/test_helper.exs -- Additions : 1 / Deletions : 0
+README.md -- Additions : 20 / Deletions : 0
+>> contributes for language <<
+ignore -- Additions : 27 / Deletions : 0
+elixir -- Additions : 160 / Deletions : 0
+markdown -- Additions : 20 / Deletions : 0
+--------
+[hongik-nomad]
+>> contributes for files <<
+app/models/classroom.rb -- Additions : 4 / Deletions : 0
+.ruby-version -- Additions : 3 / Deletions : 2
+lib/nomadic_crawler/crawler.rb -- Additions : 179 / Deletions : 66
+lib/nomadic_crawler/curriculum_parser.rb -- Additions : 55 / Deletions : 12
+test/lib/nomadic_crawler/crawler_test.rb -- Additions : 61 / Deletions : 9
+test/lib/nomadic_crawler/curriculum_parser_test.rb -- Additions : 35 / Deletions : 5
+Gemfile -- Additions : 74 / Deletions : 0
+Gemfile.lock -- Additions : 274 / Deletions : 1
+.gitignore -- Additions : 29 / Deletions : 0
+Guardfile -- Additions : 37 / Deletions : 0
+config/application.rb -- Additions : 25 / Deletions : 0
+db/migrate/20181225233949_create_classrooms.rb -- Additions : 10 / Deletions : 0
+db/schema.rb -- Additions : 25 / Deletions : 0
+test/fixtures/classrooms.yml -- Additions : 9 / Deletions : 0
+test/models/classroom_test.rb -- Additions : 7 / Deletions : 0
+test/test_helper.rb -- Additions : 16 / Deletions : 0
+README.md -- Additions : 24 / Deletions : 0
+Rakefile -- Additions : 6 / Deletions : 0
+app/assets/config/manifest.js -- Additions : 3 / Deletions : 0
+app/assets/images/.keep -- Additions : 0 / Deletions : 0
+app/assets/javascripts/application.js -- Additions : 16 / Deletions : 0
+app/assets/javascripts/cable.js -- Additions : 13 / Deletions : 0
+app/assets/javascripts/channels/.keep -- Additions : 0 / Deletions : 0
+app/assets/stylesheets/application.css -- Additions : 15 / Deletions : 0
+app/channels/application_cable/channel.rb -- Additions : 4 / Deletions : 0
+app/channels/application_cable/connection.rb -- Additions : 4 / Deletions : 0
+app/controllers/application_controller.rb -- Additions : 2 / Deletions : 0
+app/controllers/concerns/.keep -- Additions : 0 / Deletions : 0
+app/helpers/application_helper.rb -- Additions : 2 / Deletions : 0
+app/jobs/application_job.rb -- Additions : 2 / Deletions : 0
+app/mailers/application_mailer.rb -- Additions : 4 / Deletions : 0
+app/models/application_record.rb -- Additions : 3 / Deletions : 0
+app/models/concerns/.keep -- Additions : 0 / Deletions : 0
+app/views/layouts/application.html.erb -- Additions : 15 / Deletions : 0
+app/views/layouts/mailer.html.erb -- Additions : 13 / Deletions : 0
+app/views/layouts/mailer.text.erb -- Additions : 1 / Deletions : 0
+bin/bundle -- Additions : 3 / Deletions : 0
+bin/rails -- Additions : 9 / Deletions : 0
+bin/rake -- Additions : 9 / Deletions : 0
+bin/setup -- Additions : 36 / Deletions : 0
+bin/spring -- Additions : 17 / Deletions : 0
+bin/update -- Additions : 31 / Deletions : 0
+bin/yarn -- Additions : 11 / Deletions : 0
+config.ru -- Additions : 5 / Deletions : 0
+config/boot.rb -- Additions : 4 / Deletions : 0
+config/cable.yml -- Additions : 10 / Deletions : 0
+config/credentials.yml.enc -- Additions : 1 / Deletions : 0
+config/database.yml -- Additions : 85 / Deletions : 0
+config/environment.rb -- Additions : 5 / Deletions : 0
+config/environments/development.rb -- Additions : 61 / Deletions : 0
+config/environments/production.rb -- Additions : 94 / Deletions : 0
+config/environments/test.rb -- Additions : 46 / Deletions : 0
+config/initializers/application_controller_renderer.rb -- Additions : 8 / Deletions : 0
+config/initializers/assets.rb -- Additions : 14 / Deletions : 0
+config/initializers/backtrace_silencers.rb -- Additions : 7 / Deletions : 0
+config/initializers/content_security_policy.rb -- Additions : 25 / Deletions : 0
+config/initializers/cookies_serializer.rb -- Additions : 5 / Deletions : 0
+config/initializers/filter_parameter_logging.rb -- Additions : 4 / Deletions : 0
+config/initializers/inflections.rb -- Additions : 16 / Deletions : 0
+config/initializers/mime_types.rb -- Additions : 4 / Deletions : 0
+config/initializers/wrap_parameters.rb -- Additions : 14 / Deletions : 0
+config/locales/en.yml -- Additions : 33 / Deletions : 0
+config/puma.rb -- Additions : 34 / Deletions : 0
+config/routes.rb -- Additions : 3 / Deletions : 0
+config/spring.rb -- Additions : 6 / Deletions : 0
+config/storage.yml -- Additions : 34 / Deletions : 0
+db/seeds.rb -- Additions : 7 / Deletions : 0
+lib/assets/.keep -- Additions : 0 / Deletions : 0
+lib/tasks/.keep -- Additions : 0 / Deletions : 0
+log/.keep -- Additions : 0 / Deletions : 0
+package.json -- Additions : 5 / Deletions : 0
+public/404.html -- Additions : 67 / Deletions : 0
+public/422.html -- Additions : 67 / Deletions : 0
+public/500.html -- Additions : 66 / Deletions : 0
+public/apple-touch-icon-precomposed.png -- Additions : 0 / Deletions : 0
+public/apple-touch-icon.png -- Additions : 0 / Deletions : 0
+public/favicon.ico -- Additions : 0 / Deletions : 0
+public/robots.txt -- Additions : 1 / Deletions : 0
+storage/.keep -- Additions : 0 / Deletions : 0
+test/application_system_test_case.rb -- Additions : 5 / Deletions : 0
+test/controllers/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/files/.keep -- Additions : 0 / Deletions : 0
+test/helpers/.keep -- Additions : 0 / Deletions : 0
+test/integration/.keep -- Additions : 0 / Deletions : 0
+test/mailers/.keep -- Additions : 0 / Deletions : 0
+test/models/.keep -- Additions : 0 / Deletions : 0
+test/system/.keep -- Additions : 0 / Deletions : 0
+tmp/.keep -- Additions : 0 / Deletions : 0
+vendor/.keep -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+ruby -- Additions : 914 / Deletions : 92
+text -- Additions : 329 / Deletions : 2
+ignore -- Additions : 308 / Deletions : 1
+markdown -- Additions : 24 / Deletions : 0
+javascript -- Additions : 32 / Deletions : 0
+css -- Additions : 15 / Deletions : 0
+html -- Additions : 200 / Deletions : 0
+--------
+[hongik-nomad-reboot]
+>> contributes for files <<
+.gitignore -- Additions : 118 / Deletions : 0
+Pipfile -- Additions : 16 / Deletions : 0
+Pipfile.lock -- Additions : 135 / Deletions : 1
+happy_campus/utils/__init__.py -- Additions : 4 / Deletions : 0
+happy_campus/utils/crawler.py -- Additions : 3 / Deletions : 45
+happy_campus/utils/curriculum_parser.py -- Additions : 45 / Deletions : 0
+HongikNomad/__init__.py -- Additions : 0 / Deletions : 0
+HongikNomad/settings.py -- Additions : 120 / Deletions : 0
+HongikNomad/urls.py -- Additions : 21 / Deletions : 0
+HongikNomad/wsgi.py -- Additions : 16 / Deletions : 0
+happy_campus/__init__.py -- Additions : 0 / Deletions : 0
+happy_campus/admin.py -- Additions : 3 / Deletions : 0
+happy_campus/apps.py -- Additions : 5 / Deletions : 0
+happy_campus/migrations/__init__.py -- Additions : 0 / Deletions : 0
+happy_campus/models.py -- Additions : 3 / Deletions : 0
+happy_campus/tests.py -- Additions : 91 / Deletions : 0
+happy_campus/utils.py -- Additions : 161 / Deletions : 0
+happy_campus/views.py -- Additions : 3 / Deletions : 0
+manage.py -- Additions : 15 / Deletions : 0
+>> contributes for language <<
+ignore -- Additions : 253 / Deletions : 1
+python -- Additions : 506 / Deletions : 45
+--------
+[hongikce-board-crawler]
+>> contributes for files <<
+.gitignore -- Additions : 92 / Deletions : 0
+.vscode/settings.json -- Additions : 3 / Deletions : 0
+Pipfile -- Additions : 16 / Deletions : 0
+hongikce/__init__.py -- Additions : 0 / Deletions : 0
+hongikce/admin.py -- Additions : 11 / Deletions : 0
+hongikce/apps.py -- Additions : 5 / Deletions : 0
+hongikce/migrations/__init__.py -- Additions : 0 / Deletions : 0
+hongikce/models.py -- Additions : 36 / Deletions : 0
+hongikce/templates/hongikce/board.html -- Additions : 0 / Deletions : 0
+hongikce/tests.py -- Additions : 3 / Deletions : 0
+hongikce/urls.py -- Additions : 0 / Deletions : 0
+hongikce/utils.py -- Additions : 8 / Deletions : 0
+hongikce/views.py -- Additions : 36 / Deletions : 0
+hongikcecrawler/__init__.py -- Additions : 0 / Deletions : 0
+hongikcecrawler/settings.py -- Additions : 121 / Deletions : 0
+hongikcecrawler/urls.py -- Additions : 22 / Deletions : 0
+hongikcecrawler/wsgi.py -- Additions : 16 / Deletions : 0
+manage.py -- Additions : 15 / Deletions : 0
+>> contributes for language <<
+ignore -- Additions : 95 / Deletions : 0
+python -- Additions : 289 / Deletions : 0
+html -- Additions : 0 / Deletions : 0
+--------
+[idoru-yameru(forked)]
+>> contributes for files <<
+clojure/idoru.clj -- Additions : 1 / Deletions : 0
+elixir/idoru.ex -- Additions : 1 / Deletions : 0
+>> contributes for language <<
+clojure -- Additions : 1 / Deletions : 0
+elixir -- Additions : 1 / Deletions : 0
+--------
+[MemoStory]
+>> contributes for files <<
+MainPage.js -- Additions : 25 / Deletions : 5
+PostEvent.js -- Additions : 117 / Deletions : 0
+SeparatedView.js -- Additions : 34 / Deletions : 2
+Timeline.js -- Additions : 122 / Deletions : 38
+LoginPage.js -- Additions : 12 / Deletions : 0
+index.android.js -- Additions : 56 / Deletions : 30
+package.json -- Additions : 15 / Deletions : 0
+NavigationBar.android.js -- Additions : 54 / Deletions : 54
+PinnedEvents.js -- Additions : 12 / Deletions : 0
+SearchPage.js -- Additions : 12 / Deletions : 0
+UserProfile.js -- Additions : 12 / Deletions : 0
+mainpage.js -- Additions : 139 / Deletions : 35
+events.js -- Additions : 4 / Deletions : 4
+geograhic-informations.js -- Additions : 2 / Deletions : 2
+styles.js -- Additions : 23 / Deletions : 23
+test_data.js -- Additions : 6 / Deletions : 6
+users.js -- Additions : 2 / Deletions : 2
+.flowconfig -- Additions : 70 / Deletions : 0
+.gitignore -- Additions : 34 / Deletions : 0
+.watchmanconfig -- Additions : 1 / Deletions : 0
+README.md -- Additions : 1 / Deletions : 0
+android/MemoStory.iml -- Additions : 19 / Deletions : 0
+android/app/app.iml -- Additions : 108 / Deletions : 0
+android/app/build.gradle -- Additions : 126 / Deletions : 0
+android/app/proguard-rules.pro -- Additions : 67 / Deletions : 0
+android/app/react.gradle -- Additions : 97 / Deletions : 0
+android/app/src/main/AndroidManifest.xml -- Additions : 23 / Deletions : 0
+android/app/src/main/java/com/memostory/MainActivity.java -- Additions : 40 / Deletions : 0
+android/app/src/main/res/mipmap-hdpi/ic_launcher.png -- Additions : 0 / Deletions : 0
+android/app/src/main/res/mipmap-mdpi/ic_launcher.png -- Additions : 0 / Deletions : 0
+android/app/src/main/res/mipmap-xhdpi/ic_launcher.png -- Additions : 0 / Deletions : 0
+android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png -- Additions : 0 / Deletions : 0
+android/app/src/main/res/values/strings.xml -- Additions : 3 / Deletions : 0
+android/app/src/main/res/values/styles.xml -- Additions : 8 / Deletions : 0
+android/build.gradle -- Additions : 24 / Deletions : 0
+android/gradle.properties -- Additions : 20 / Deletions : 0
+android/gradle/wrapper/gradle-wrapper.jar -- Additions : 0 / Deletions : 0
+android/gradle/wrapper/gradle-wrapper.properties -- Additions : 5 / Deletions : 0
+android/gradlew -- Additions : 164 / Deletions : 0
+android/gradlew.bat -- Additions : 90 / Deletions : 0
+android/settings.gradle -- Additions : 3 / Deletions : 0
+index.ios.js -- Additions : 52 / Deletions : 0
+ios/MemoStory.xcodeproj/project.pbxproj -- Additions : 763 / Deletions : 0
+ios/MemoStory.xcodeproj/xcshareddata/xcschemes/MemoStory.xcscheme -- Additions : 112 / Deletions : 0
+ios/MemoStory/AppDelegate.h -- Additions : 16 / Deletions : 0
+ios/MemoStory/AppDelegate.m -- Additions : 59 / Deletions : 0
+ios/MemoStory/Base.lproj/LaunchScreen.xib -- Additions : 42 / Deletions : 0
+ios/MemoStory/Images.xcassets/AppIcon.appiconset/Contents.json -- Additions : 38 / Deletions : 0
+ios/MemoStory/Info.plist -- Additions : 48 / Deletions : 0
+ios/MemoStory/main.m -- Additions : 18 / Deletions : 0
+ios/MemoStoryTests/Info.plist -- Additions : 24 / Deletions : 0
+ios/MemoStoryTests/MemoStoryTests.m -- Additions : 70 / Deletions : 0
+tags.js -- Additions : 2 / Deletions : 0
+>> contributes for language <<
+javascript -- Additions : 686 / Deletions : 201
+ignore -- Additions : 87 / Deletions : 0
+text -- Additions : 1980 / Deletions : 0
+markdown -- Additions : 1 / Deletions : 0
+java -- Additions : 40 / Deletions : 0
+--------
+[militery_discharge_counter]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[naver-sdk-ruby(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[ohmyzsh-dotfiles(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[OpenTok-Ruby-SDK(forked)]
+>> contributes for files <<
+opentok.gemspec -- Additions : 1 / Deletions : 1
+>> contributes for language <<
+ruby -- Additions : 1 / Deletions : 1
+--------
+[phoenix-boilerplate(forked)]
+>> contributes for files <<
+config/dev.exs -- Additions : 45 / Deletions : 2
+config/test.exs -- Additions : 21 / Deletions : 2
+.gitignore -- Additions : 24 / Deletions : 0
+README.md -- Additions : 20 / Deletions : 0
+brunch-config.js -- Additions : 75 / Deletions : 0
+config/config.exs -- Additions : 27 / Deletions : 0
+config/prod.exs -- Additions : 65 / Deletions : 0
+lib/boilerplate.ex -- Additions : 31 / Deletions : 0
+lib/boilerplate/endpoint.ex -- Additions : 42 / Deletions : 0
+lib/boilerplate/repo.ex -- Additions : 3 / Deletions : 0
+mix.exs -- Additions : 54 / Deletions : 0
+mix.lock -- Additions : 19 / Deletions : 0
+package.json -- Additions : 20 / Deletions : 0
+priv/gettext/en/LC_MESSAGES/errors.po -- Additions : 93 / Deletions : 0
+priv/gettext/errors.pot -- Additions : 91 / Deletions : 0
+priv/repo/seeds.exs -- Additions : 11 / Deletions : 0
+test/controllers/page_controller_test.exs -- Additions : 8 / Deletions : 0
+test/support/channel_case.ex -- Additions : 43 / Deletions : 0
+test/support/conn_case.ex -- Additions : 44 / Deletions : 0
+test/support/model_case.ex -- Additions : 65 / Deletions : 0
+test/test_helper.exs -- Additions : 4 / Deletions : 0
+test/views/error_view_test.exs -- Additions : 21 / Deletions : 0
+test/views/layout_view_test.exs -- Additions : 3 / Deletions : 0
+test/views/page_view_test.exs -- Additions : 3 / Deletions : 0
+web/channels/user_socket.ex -- Additions : 37 / Deletions : 0
+web/controllers/page_controller.ex -- Additions : 7 / Deletions : 0
+web/elm/App.elm -- Additions : 11 / Deletions : 0
+web/elm/elm-package.json -- Additions : 15 / Deletions : 0
+web/gettext.ex -- Additions : 24 / Deletions : 0
+web/router.ex -- Additions : 26 / Deletions : 0
+web/static/assets/favicon.ico -- Additions : 0 / Deletions : 0
+web/static/assets/images/phoenix.png -- Additions : 0 / Deletions : 0
+web/static/assets/robots.txt -- Additions : 5 / Deletions : 0
+web/static/css/app.css -- Additions : 1 / Deletions : 0
+web/static/css/phoenix.css -- Additions : 82 / Deletions : 0
+web/static/js/app.js -- Additions : 21 / Deletions : 0
+web/static/js/socket.js -- Additions : 62 / Deletions : 0
+web/templates/layout/app.html.eex -- Additions : 35 / Deletions : 0
+web/templates/page/index.html.eex -- Additions : 36 / Deletions : 0
+web/views/error_helpers.ex -- Additions : 40 / Deletions : 0
+web/views/error_view.ex -- Additions : 17 / Deletions : 0
+web/views/layout_view.ex -- Additions : 3 / Deletions : 0
+web/views/page_view.ex -- Additions : 3 / Deletions : 0
+web/web.ex -- Additions : 81 / Deletions : 0
+>> contributes for language <<
+elixir -- Additions : 728 / Deletions : 4
+ignore -- Additions : 78 / Deletions : 0
+markdown -- Additions : 20 / Deletions : 0
+javascript -- Additions : 158 / Deletions : 0
+text -- Additions : 271 / Deletions : 0
+css -- Additions : 83 / Deletions : 0
+--------
+[Project-Euler]
+>> contributes for files <<
+001-100/pb001.rb -- Additions : 7 / Deletions : 0
+001-100/pb002.rb -- Additions : 10 / Deletions : 0
+001-100/pb003.rb -- Additions : 10 / Deletions : 0
+001-100/pb004.rb -- Additions : 7 / Deletions : 0
+001-100/pb005.rb -- Additions : 20 / Deletions : 0
+001-100/pb006.rb -- Additions : 12 / Deletions : 0
+001-100/pb007.rb -- Additions : 23 / Deletions : 0
+001-100/pb008.rb -- Additions : 10 / Deletions : 0
+001-100/pb009.rb -- Additions : 17 / Deletions : 0
+001-100/pb013.rb -- Additions : 107 / Deletions : 0
+001-100/pb015.rb -- Additions : 23 / Deletions : 0
+001-100/pb016.rb -- Additions : 4 / Deletions : 0
+001-100/pb020.rb -- Additions : 12 / Deletions : 0
+001-100/pb025.rb -- Additions : 7 / Deletions : 0
+001-100/pb048.rb -- Additions : 8 / Deletions : 0
+>> contributes for language <<
+ruby -- Additions : 277 / Deletions : 0
+--------
+[Project-Euler-Lisp]
+>> contributes for files <<
+001-100/pb020.clj -- Additions : 10 / Deletions : 0
+001-100/pb030.clj -- Additions : 26 / Deletions : 0
+001-100/pb001.clj -- Additions : 1 / Deletions : 0
+001-100/pb001.lisp -- Additions : 11 / Deletions : 11
+001-100/pb006.clj -- Additions : 17 / Deletions : 0
+README.md -- Additions : 14 / Deletions : 1
+>> contributes for language <<
+clojure -- Additions : 54 / Deletions : 0
+text -- Additions : 11 / Deletions : 11
+markdown -- Additions : 14 / Deletions : 1
+--------
+[queue-underflow(forked)]
+>> contributes for files <<
+Makefile -- Additions : 5 / Deletions : 1
+config/dev.exs -- Additions : 52 / Deletions : 3
+package-lock.json -- Additions : 6461 / Deletions : 42
+package.json -- Additions : 57 / Deletions : 30
+web/static/src/App.tsx -- Additions : 25 / Deletions : 8
+web/static/src/_layout.styl -- Additions : 20 / Deletions : 0
+web/static/src/_settings.styl -- Additions : 55 / Deletions : 0
+web/static/src/_typography.styl -- Additions : 61 / Deletions : 0
+web/static/src/app.styl -- Additions : 4 / Deletions : 0
+web/static/src/components/Footer/index.tsx -- Additions : 11 / Deletions : 0
+web/static/src/components/Section/index.tsx -- Additions : 11 / Deletions : 0
+web/static/src/components/index.tsx -- Additions : 5 / Deletions : 0
+web/templates/layout/app.html.eex -- Additions : 38 / Deletions : 17
+web/templates/page/index.html.eex -- Additions : 36 / Deletions : 36
+webpack.config.js -- Additions : 38 / Deletions : 10
+web/static/src/components/Header/index.tsx -- Additions : 11 / Deletions : 0
+brunch-config.js -- Additions : 75 / Deletions : 75
+tsconfig.json -- Additions : 108 / Deletions : 47
+web/static/src/index.tsx -- Additions : 11 / Deletions : 0
+web/static/src/registerServiceWorker.ts -- Additions : 53 / Deletions : 0
+elm-package.json -- Additions : 15 / Deletions : 15
+web/elm/App.elm -- Additions : 11 / Deletions : 11
+web/router.ex -- Additions : 32 / Deletions : 4
+yarn.lock -- Additions : 3382 / Deletions : 0
+config/test.exs -- Additions : 21 / Deletions : 2
+.gitignore -- Additions : 24 / Deletions : 0
+README.md -- Additions : 20 / Deletions : 0
+config/config.exs -- Additions : 27 / Deletions : 0
+config/prod.exs -- Additions : 65 / Deletions : 0
+lib/queue_underflow.ex -- Additions : 31 / Deletions : 0
+lib/queue_underflow/endpoint.ex -- Additions : 42 / Deletions : 0
+lib/queue_underflow/repo.ex -- Additions : 3 / Deletions : 0
+mix.exs -- Additions : 54 / Deletions : 0
+mix.lock -- Additions : 19 / Deletions : 0
+priv/gettext/en/LC_MESSAGES/errors.po -- Additions : 93 / Deletions : 0
+priv/gettext/errors.pot -- Additions : 91 / Deletions : 0
+priv/repo/seeds.exs -- Additions : 11 / Deletions : 0
+test/controllers/page_controller_test.exs -- Additions : 8 / Deletions : 0
+test/support/channel_case.ex -- Additions : 43 / Deletions : 0
+test/support/conn_case.ex -- Additions : 44 / Deletions : 0
+test/support/model_case.ex -- Additions : 65 / Deletions : 0
+test/test_helper.exs -- Additions : 4 / Deletions : 0
+test/views/error_view_test.exs -- Additions : 21 / Deletions : 0
+test/views/layout_view_test.exs -- Additions : 3 / Deletions : 0
+test/views/page_view_test.exs -- Additions : 3 / Deletions : 0
+web/channels/user_socket.ex -- Additions : 37 / Deletions : 0
+web/controllers/page_controller.ex -- Additions : 7 / Deletions : 0
+web/gettext.ex -- Additions : 24 / Deletions : 0
+web/static/assets/favicon.ico -- Additions : 0 / Deletions : 0
+web/static/assets/images/phoenix.png -- Additions : 0 / Deletions : 0
+web/static/assets/robots.txt -- Additions : 5 / Deletions : 0
+web/static/css/app.css -- Additions : 1 / Deletions : 0
+web/static/css/phoenix.css -- Additions : 82 / Deletions : 0
+web/static/js/app.js -- Additions : 21 / Deletions : 0
+web/static/js/socket.js -- Additions : 62 / Deletions : 0
+web/views/error_helpers.ex -- Additions : 40 / Deletions : 0
+web/views/error_view.ex -- Additions : 17 / Deletions : 0
+web/views/layout_view.ex -- Additions : 3 / Deletions : 0
+web/views/page_view.ex -- Additions : 3 / Deletions : 0
+web/web.ex -- Additions : 81 / Deletions : 0
+>> contributes for language <<
+c -- Additions : 5 / Deletions : 1
+elixir -- Additions : 741 / Deletions : 9
+ignore -- Additions : 10066 / Deletions : 134
+react -- Additions : 74 / Deletions : 8
+css -- Additions : 223 / Deletions : 0
+text -- Additions : 274 / Deletions : 64
+javascript -- Additions : 196 / Deletions : 85
+typescript -- Additions : 53 / Deletions : 0
+markdown -- Additions : 20 / Deletions : 0
+--------
+[rails-tutorial-revisited]
+>> contributes for files <<
+app/assets/javascripts/microposts.coffee -- Additions : 6 / Deletions : 3
+app/assets/stylesheets/custom.scss -- Additions : 317 / Deletions : 34
+app/assets/stylesheets/microposts.scss -- Additions : 6 / Deletions : 3
+app/controllers/application_controller.rb -- Additions : 20 / Deletions : 5
+app/controllers/microposts_controller.rb -- Additions : 105 / Deletions : 74
+app/controllers/static_pages_controller.rb -- Additions : 17 / Deletions : 0
+app/controllers/users_controller.rb -- Additions : 153 / Deletions : 85
+app/helpers/microposts_helper.rb -- Additions : 4 / Deletions : 2
+app/models/micropost.rb -- Additions : 11 / Deletions : 5
+app/models/user.rb -- Additions : 103 / Deletions : 16
+app/views/microposts/_micropost.html.erb -- Additions : 12 / Deletions : 0
+app/views/password_resets/edit.html.erb -- Additions : 21 / Deletions : 1
+app/views/shared/_error_messages.html.erb -- Additions : 26 / Deletions : 14
+app/views/shared/_feed.html.erb -- Additions : 6 / Deletions : 0
+app/views/shared/_micropost_form.html.erb -- Additions : 7 / Deletions : 0
+app/views/shared/_user_info.html.erb -- Additions : 4 / Deletions : 0
+app/views/static_pages/home.html.erb -- Additions : 53 / Deletions : 21
+app/views/users/_form.html.erb -- Additions : 45 / Deletions : 28
+app/views/users/show.html.erb -- Additions : 35 / Deletions : 14
+config/routes.rb -- Additions : 30 / Deletions : 9
+db/migrate/20190116222456_create_microposts.rb -- Additions : 11 / Deletions : 0
+db/schema.rb -- Additions : 53 / Deletions : 13
+db/seeds.rb -- Additions : 42 / Deletions : 10
+test/controllers/microposts_controller_test.rb -- Additions : 78 / Deletions : 48
+test/fixtures/microposts.yml -- Additions : 55 / Deletions : 9
+test/integration/microposts_interface_test.rb -- Additions : 50 / Deletions : 0
+test/integration/users_profile_test.rb -- Additions : 22 / Deletions : 0
+test/models/micropost_test.rb -- Additions : 39 / Deletions : 7
+test/models/user_test.rb -- Additions : 92 / Deletions : 2
+app/assets/javascripts/password_resets.coffee -- Additions : 3 / Deletions : 0
+app/assets/stylesheets/password_resets.scss -- Additions : 3 / Deletions : 0
+app/controllers/password_resets_controller.rb -- Additions : 64 / Deletions : 0
+app/helpers/password_resets_helper.rb -- Additions : 2 / Deletions : 0
+app/mailers/user_mailer.rb -- Additions : 16 / Deletions : 4
+app/views/password_resets/new.html.erb -- Additions : 13 / Deletions : 0
+app/views/sessions/new.html.erb -- Additions : 27 / Deletions : 0
+app/views/user_mailer/password_reset.html.erb -- Additions : 16 / Deletions : 3
+app/views/user_mailer/password_reset.text.erb -- Additions : 10 / Deletions : 2
+db/migrate/20190115132839_add_reset_to_users.rb -- Additions : 6 / Deletions : 0
+test/integration/password_resets_test.rb -- Additions : 62 / Deletions : 0
+test/mailers/previews/user_mailer_preview.rb -- Additions : 20 / Deletions : 1
+test/mailers/user_mailer_test.rb -- Additions : 28 / Deletions : 0
+app/controllers/account_activations_controller.rb -- Additions : 16 / Deletions : 1
+app/controllers/sessions_controller.rb -- Additions : 35 / Deletions : 5
+app/helpers/sessions_helper.rb -- Additions : 65 / Deletions : 3
+config/environments/development.rb -- Additions : 70 / Deletions : 1
+config/environments/test.rb -- Additions : 47 / Deletions : 0
+test/integration/users_signup_test.rb -- Additions : 65 / Deletions : 17
+app/assets/javascripts/account_activations.coffee -- Additions : 3 / Deletions : 0
+app/assets/stylesheets/account_activations.scss -- Additions : 3 / Deletions : 0
+app/helpers/account_activations_helper.rb -- Additions : 2 / Deletions : 0
+app/mailers/application_mailer.rb -- Additions : 6 / Deletions : 2
+app/views/user_mailer/account_activation.html.erb -- Additions : 10 / Deletions : 0
+app/views/user_mailer/account_activation.text.erb -- Additions : 5 / Deletions : 0
+db/migrate/20190114210852_add_activation_to_users.rb -- Additions : 7 / Deletions : 0
+test/controllers/account_activations_controller_test.rb -- Additions : 7 / Deletions : 0
+test/fixtures/users.yml -- Additions : 47 / Deletions : 10
+Gemfile -- Additions : 84 / Deletions : 4
+Gemfile.lock -- Additions : 284 / Deletions : 1
+app/views/layouts/_header.erb -- Additions : 67 / Deletions : 34
+app/views/users/_user.html.erb -- Additions : 8 / Deletions : 0
+app/views/users/edit.html.erb -- Additions : 18 / Deletions : 6
+app/views/users/index.html.erb -- Additions : 39 / Deletions : 29
+app/views/users/new.html.erb -- Additions : 32 / Deletions : 24
+db/migrate/20190108221542_add_remember_digest_to_users.rb -- Additions : 5 / Deletions : 0
+db/migrate/20190113221013_add_admin_to_users.rb -- Additions : 5 / Deletions : 0
+test/controllers/users_controller_test.rb -- Additions : 111 / Deletions : 40
+test/helpers/sessions_helper_test.rb -- Additions : 19 / Deletions : 0
+test/integration/users_edit_test.rb -- Additions : 55 / Deletions : 0
+test/integration/users_index_test.rb -- Additions : 32 / Deletions : 0
+test/integration/users_login_test.rb -- Additions : 64 / Deletions : 0
+test/test_helper.rb -- Additions : 33 / Deletions : 1
+Procfile -- Additions : 1 / Deletions : 0
+app/assets/javascripts/application.js -- Additions : 18 / Deletions : 0
+app/assets/javascripts/sessions.coffee -- Additions : 3 / Deletions : 0
+app/assets/stylesheets/sessions.scss -- Additions : 3 / Deletions : 0
+config/database.yml -- Additions : 31 / Deletions : 2
+config/environments/production.rb -- Additions : 95 / Deletions : 1
+config/puma.rb -- Additions : 48 / Deletions : 0
+test/controllers/sessions_controller_test.rb -- Additions : 9 / Deletions : 0
+app/helpers/users_helper.rb -- Additions : 11 / Deletions : 0
+app/views/layouts/application.html.erb -- Additions : 31 / Deletions : 8
+db/migrate/20190106230403_add_index_to_users_email.rb -- Additions : 5 / Deletions : 0
+db/migrate/20190106231007_add_password_digest_to_users.rb -- Additions : 5 / Deletions : 0
+app/views/layouts/_footer.html.erb -- Additions : 15 / Deletions : 2
+app/views/microposts/_form.html.erb -- Additions : 27 / Deletions : 27
+app/views/microposts/_micropost.json.jbuilder -- Additions : 2 / Deletions : 2
+app/views/microposts/edit.html.erb -- Additions : 6 / Deletions : 6
+app/views/microposts/index.html.erb -- Additions : 29 / Deletions : 29
+app/views/microposts/index.json.jbuilder -- Additions : 1 / Deletions : 1
+app/views/microposts/new.html.erb -- Additions : 5 / Deletions : 5
+app/views/microposts/show.html.erb -- Additions : 14 / Deletions : 14
+app/views/microposts/show.json.jbuilder -- Additions : 1 / Deletions : 1
+app/views/users/_user.json.jbuilder -- Additions : 2 / Deletions : 2
+app/views/users/index.json.jbuilder -- Additions : 1 / Deletions : 1
+app/views/users/show.json.jbuilder -- Additions : 1 / Deletions : 1
+db/migrate/20190101212751_create_microposts.rb -- Additions : 10 / Deletions : 10
+db/migrate/20190106201418_create_users.rb -- Additions : 0 / Deletions : 0
+test/controllers/static_pages_controller_test.rb -- Additions : 49 / Deletions : 5
+test/helpers/application_helper_test.rb -- Additions : 8 / Deletions : 0
+test/integration/site_layout_test.rb -- Additions : 23 / Deletions : 0
+test/system/microposts_test.rb -- Additions : 45 / Deletions : 45
+test/system/users_test.rb -- Additions : 45 / Deletions : 45
+app/views/static_pages/contact.html.erb -- Additions : 6 / Deletions : 0
+Guardfile -- Additions : 49 / Deletions : 7
+app/assets/images/rails.png -- Additions : 0 / Deletions : 0
+app/helpers/application_helper.rb -- Additions : 11 / Deletions : 0
+app/views/layouts/_shim.html.erb -- Additions : 4 / Deletions : 0
+test/application_system_test_case.rb -- Additions : 7 / Deletions : 2
+.gitignore -- Additions : 34 / Deletions : 0
+app/views/static_pages/about.html.erb -- Additions : 11 / Deletions : 0
+app/views/static_pages/help.html.erb -- Additions : 11 / Deletions : 2
+app/assets/javascripts/static_pages.coffee -- Additions : 3 / Deletions : 0
+app/assets/stylesheets/static_pages.scss -- Additions : 3 / Deletions : 0
+app/helpers/static_pages_helper.rb -- Additions : 2 / Deletions : 0
+README.md -- Additions : 54 / Deletions : 13
+app/assets/javascripts/users.coffee -- Additions : 3 / Deletions : 0
+app/assets/stylesheets/scaffolds.scss -- Additions : 84 / Deletions : 0
+app/assets/stylesheets/users.scss -- Additions : 3 / Deletions : 0
+db/migrate/20190101212559_create_users.rb -- Additions : 10 / Deletions : 0
+.ruby-version -- Additions : 1 / Deletions : 0
+Rakefile -- Additions : 6 / Deletions : 0
+app/assets/config/manifest.js -- Additions : 3 / Deletions : 0
+app/assets/images/.keep -- Additions : 0 / Deletions : 0
+app/assets/javascripts/cable.js -- Additions : 13 / Deletions : 0
+app/assets/javascripts/channels/.keep -- Additions : 0 / Deletions : 0
+app/assets/stylesheets/application.css -- Additions : 15 / Deletions : 0
+app/channels/application_cable/channel.rb -- Additions : 4 / Deletions : 0
+app/channels/application_cable/connection.rb -- Additions : 4 / Deletions : 0
+app/controllers/concerns/.keep -- Additions : 0 / Deletions : 0
+app/jobs/application_job.rb -- Additions : 2 / Deletions : 0
+app/models/application_record.rb -- Additions : 3 / Deletions : 0
+app/models/concerns/.keep -- Additions : 0 / Deletions : 0
+app/views/layouts/mailer.html.erb -- Additions : 13 / Deletions : 0
+app/views/layouts/mailer.text.erb -- Additions : 1 / Deletions : 0
+bin/bundle -- Additions : 3 / Deletions : 0
+bin/rails -- Additions : 9 / Deletions : 0
+bin/rake -- Additions : 9 / Deletions : 0
+bin/setup -- Additions : 36 / Deletions : 0
+bin/spring -- Additions : 17 / Deletions : 0
+bin/update -- Additions : 31 / Deletions : 0
+bin/yarn -- Additions : 11 / Deletions : 0
+config.ru -- Additions : 5 / Deletions : 0
+config/application.rb -- Additions : 19 / Deletions : 0
+config/boot.rb -- Additions : 4 / Deletions : 0
+config/cable.yml -- Additions : 10 / Deletions : 0
+config/credentials.yml.enc -- Additions : 1 / Deletions : 0
+config/environment.rb -- Additions : 5 / Deletions : 0
+config/initializers/application_controller_renderer.rb -- Additions : 8 / Deletions : 0
+config/initializers/assets.rb -- Additions : 14 / Deletions : 0
+config/initializers/backtrace_silencers.rb -- Additions : 7 / Deletions : 0
+config/initializers/content_security_policy.rb -- Additions : 25 / Deletions : 0
+config/initializers/cookies_serializer.rb -- Additions : 5 / Deletions : 0
+config/initializers/filter_parameter_logging.rb -- Additions : 4 / Deletions : 0
+config/initializers/inflections.rb -- Additions : 16 / Deletions : 0
+config/initializers/mime_types.rb -- Additions : 4 / Deletions : 0
+config/initializers/wrap_parameters.rb -- Additions : 14 / Deletions : 0
+config/locales/en.yml -- Additions : 33 / Deletions : 0
+config/spring.rb -- Additions : 6 / Deletions : 0
+config/storage.yml -- Additions : 34 / Deletions : 0
+lib/assets/.keep -- Additions : 0 / Deletions : 0
+lib/tasks/.keep -- Additions : 0 / Deletions : 0
+log/.keep -- Additions : 0 / Deletions : 0
+package.json -- Additions : 5 / Deletions : 0
+public/404.html -- Additions : 67 / Deletions : 0
+public/422.html -- Additions : 67 / Deletions : 0
+public/500.html -- Additions : 66 / Deletions : 0
+public/apple-touch-icon-precomposed.png -- Additions : 0 / Deletions : 0
+public/apple-touch-icon.png -- Additions : 0 / Deletions : 0
+public/favicon.ico -- Additions : 0 / Deletions : 0
+public/robots.txt -- Additions : 1 / Deletions : 0
+storage/.keep -- Additions : 0 / Deletions : 0
+test/controllers/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/.keep -- Additions : 0 / Deletions : 0
+test/fixtures/files/.keep -- Additions : 0 / Deletions : 0
+test/helpers/.keep -- Additions : 0 / Deletions : 0
+test/integration/.keep -- Additions : 0 / Deletions : 0
+test/mailers/.keep -- Additions : 0 / Deletions : 0
+test/models/.keep -- Additions : 0 / Deletions : 0
+test/system/.keep -- Additions : 0 / Deletions : 0
+tmp/.keep -- Additions : 0 / Deletions : 0
+vendor/.keep -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+text -- Additions : 408 / Deletions : 39
+css -- Additions : 437 / Deletions : 37
+ruby -- Additions : 2921 / Deletions : 732
+ignore -- Additions : 323 / Deletions : 1
+javascript -- Additions : 34 / Deletions : 0
+markdown -- Additions : 54 / Deletions : 13
+html -- Additions : 200 / Deletions : 0
+--------
+[RosarotMarz-Core(forked)]
+>> contributes for files <<
+README.md -- Additions : 5 / Deletions : 0
+requirements-tmp.txt -- Additions : 111 / Deletions : 0
+RosarotMarz/settings.py -- Additions : 132 / Deletions : 1
+.circleci/config.yml -- Additions : 99 / Deletions : 29
+.gitignore -- Additions : 2 / Deletions : 0
+Procfile -- Additions : 1 / Deletions : 0
+RosarotMarz/__pycache__/__init__.cpython-36.pyc -- Additions : 0 / Deletions : 0
+RosarotMarz/__pycache__/settings.cpython-36.pyc -- Additions : 0 / Deletions : 0
+RosarotMarz/__pycache__/wsgi.cpython-36.pyc -- Additions : 0 / Deletions : 0
+requirements.txt -- Additions : 6 / Deletions : 0
+RosarotMarz/__init__.py -- Additions : 0 / Deletions : 0
+RosarotMarz/urls.py -- Additions : 21 / Deletions : 0
+RosarotMarz/wsgi.py -- Additions : 16 / Deletions : 0
+manage.py -- Additions : 15 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 5 / Deletions : 0
+text -- Additions : 217 / Deletions : 29
+python -- Additions : 184 / Deletions : 1
+ignore -- Additions : 2 / Deletions : 0
+--------
+[rust-by-example]
+>> contributes for files <<
+ch02/tuple_practice/Cargo.toml -- Additions : 6 / Deletions : 0
+ch02/tuple_practice/src/main.rs -- Additions : 57 / Deletions : 0
+ch03/destructuring/Cargo.toml -- Additions : 6 / Deletions : 0
+ch03/destructuring/src/main.rs -- Additions : 78 / Deletions : 0
+.gitignore -- Additions : 1 / Deletions : 0
+README.md -- Additions : 3 / Deletions : 0
+ch01/fmt_display_practice/Cargo.toml -- Additions : 6 / Deletions : 0
+ch01/fmt_display_practice/src/main.rs -- Additions : 76 / Deletions : 0
+ch01/fmt_display_with_list/Cargo.toml -- Additions : 6 / Deletions : 0
+ch01/fmt_display_with_list/src/main.rs -- Additions : 24 / Deletions : 0
+ch01/formatting_color/Cargo.toml -- Additions : 6 / Deletions : 0
+ch01/formatting_color/src/main.rs -- Additions : 50 / Deletions : 0
+>> contributes for language <<
+text -- Additions : 30 / Deletions : 0
+rust -- Additions : 285 / Deletions : 0
+ignore -- Additions : 1 / Deletions : 0
+markdown -- Additions : 3 / Deletions : 0
+--------
+[scheme(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[Serum(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[skills-foresight]
+>> contributes for files <<
+lib/skills_foresight/Services/github.rb -- Additions : 101 / Deletions : 19
+lib/skills_foresight/analyzer.rb -- Additions : 78 / Deletions : 19
+lib/skills_foresight/query_executer.rb -- Additions : 93 / Deletions : 20
+lib/skills_foresight/user.rb -- Additions : 19 / Deletions : 3
+lib/skills_foresight/utils/extension.rb -- Additions : 68 / Deletions : 6
+lib/skills_foresight/version.rb -- Additions : 7 / Deletions : 4
+skills_foresight.gemspec -- Additions : 22 / Deletions : 8
+config.yml.template -- Additions : 4 / Deletions : 0
+.gitignore -- Additions : 2 / Deletions : 0
+bin/skills_analyzer -- Additions : 22 / Deletions : 2
+fast_test.sh -- Additions : 3 / Deletions : 0
+lib/skills_foresight.rb -- Additions : 22 / Deletions : 0
+lib/skills_foresight/Services/base.rb -- Additions : 21 / Deletions : 1
+test/skills_foresight/utils/extensions_test.rb -- Additions : 13 / Deletions : 0
+test/skills_foresight/analyzer_test.rb -- Additions : 41 / Deletions : 2
+Gemfile -- Additions : 1 / Deletions : 0
+Rakefile -- Additions : 10 / Deletions : 0
+lib/skills_foresight/logger.rb -- Additions : 4 / Deletions : 0
+>> contributes for language <<
+ruby -- Additions : 500 / Deletions : 82
+text -- Additions : 26 / Deletions : 2
+ignore -- Additions : 2 / Deletions : 0
+shell -- Additions : 3 / Deletions : 0
+--------
+[system-design-primer(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[todoquest-client]
+>> contributes for files <<
+actions/auth.js -- Additions : 57 / Deletions : 1
+actions/index.js -- Additions : 6 / Deletions : 1
+actions/todo.js -- Additions : 204 / Deletions : 31
+actions/todolist.js -- Additions : 61 / Deletions : 0
+api/todo.js -- Additions : 80 / Deletions : 12
+index.jsx -- Additions : 18 / Deletions : 1
+reducers/auth.js -- Additions : 58 / Deletions : 3
+reducers/index.js -- Additions : 16 / Deletions : 1
+reducers/todo.js -- Additions : 126 / Deletions : 0
+reducers/todolist.js -- Additions : 62 / Deletions : 0
+sagas/auth.js -- Additions : 47 / Deletions : 3
+sagas/todo.js -- Additions : 31 / Deletions : 0
+sagas/main.js -- Additions : 13 / Deletions : 0
+sagas/user.js -- Additions : 7 / Deletions : 0
+stores/main.js -- Additions : 13 / Deletions : 0
+App.jsx -- Additions : 31 / Deletions : 0
+app.sass -- Additions : 7 / Deletions : 0
+components/API/TodoAPI.js -- Additions : 12 / Deletions : 0
+components/API/index.js -- Additions : 3 / Deletions : 0
+components/AsideBar/index.jsx -- Additions : 43 / Deletions : 0
+components/AsideBar/sidebar.sass -- Additions : 3 / Deletions : 0
+components/Footer/index.jsx -- Additions : 11 / Deletions : 0
+components/Header/index.jsx -- Additions : 27 / Deletions : 0
+components/Section/HistoryView.jsx -- Additions : 67 / Deletions : 0
+components/Section/NotificationEntry.jsx -- Additions : 35 / Deletions : 0
+components/Section/NotificationsView.jsx -- Additions : 35 / Deletions : 0
+components/Section/TodayView.jsx -- Additions : 78 / Deletions : 0
+components/Section/TodoCreateView.jsx -- Additions : 132 / Deletions : 0
+components/Section/TodoDetailView.jsx -- Additions : 173 / Deletions : 0
+components/Section/TodoEntryView.jsx -- Additions : 70 / Deletions : 0
+components/Section/TodoEntryView.sass -- Additions : 37 / Deletions : 0
+components/Section/index.jsx -- Additions : 37 / Deletions : 0
+components/Section/notification.sass -- Additions : 18 / Deletions : 0
+components/index.js -- Additions : 5 / Deletions : 0
+registerServiceWorker.js -- Additions : 55 / Deletions : 0
+README.md -- Additions : 2 / Deletions : 0
+>> contributes for language <<
+javascript -- Additions : 856 / Deletions : 52
+react -- Additions : 757 / Deletions : 1
+css -- Additions : 65 / Deletions : 0
+markdown -- Additions : 2 / Deletions : 0
+--------
+[todoquest-server]
+>> contributes for files <<
+.gitmodules -- Additions : 6 / Deletions : 3
+Pipfile -- Additions : 26 / Deletions : 5
+Pipfile.lock -- Additions : 566 / Deletions : 221
+frontend/package-lock.json -- Additions : 18460 / Deletions : 7716
+frontend/package.json -- Additions : 53 / Deletions : 6
+frontend/static/js/app.css -- Additions : 719 / Deletions : 719
+frontend/static/js/app.js -- Additions : 81234 / Deletions : 81234
+frontend/static/js/app.js.map -- Additions : 1 / Deletions : 1
+frontend/static/js/app.map -- Additions : 4 / Deletions : 4
+manage.py -- Additions : 19 / Deletions : 0
+todolist/migrations/0004_auto_20190219_0837.py -- Additions : 26 / Deletions : 0
+todolist/models/notification.py -- Additions : 27 / Deletions : 1
+todolist/models/todo_entry.py -- Additions : 82 / Deletions : 22
+todolist/permissions/__init__.py -- Additions : 3 / Deletions : 0
+todolist/permissions/is_owner.py -- Additions : 5 / Deletions : 0
+todolist/views/notification_check.py -- Additions : 22 / Deletions : 0
+todolist/views/notification_list.py -- Additions : 20 / Deletions : 3
+todolist/views/todo_complete.py -- Additions : 34 / Deletions : 0
+todolist/views/todo_entry_detail.py -- Additions : 23 / Deletions : 0
+todolist/views/todo_list.py -- Additions : 34 / Deletions : 5
+todoquest/settings.py -- Additions : 231 / Deletions : 31
+todoquest/urls.py -- Additions : 37 / Deletions : 3
+frontend/src -- Additions : 1 / Deletions : 0
+frontend/src/App.jsx -- Additions : 31 / Deletions : 31
+frontend/src/app.sass -- Additions : 7 / Deletions : 7
+frontend/src/components/API/TodoAPI.js -- Additions : 12 / Deletions : 12
+frontend/src/components/API/index.js -- Additions : 3 / Deletions : 3
+frontend/src/components/AsideBar/index.jsx -- Additions : 45 / Deletions : 45
+frontend/src/components/AsideBar/sidebar.sass -- Additions : 3 / Deletions : 3
+frontend/src/components/Footer/index.jsx -- Additions : 11 / Deletions : 11
+frontend/src/components/Header/index.jsx -- Additions : 28 / Deletions : 28
+frontend/src/components/Section/HistoryView.jsx -- Additions : 67 / Deletions : 67
+frontend/src/components/Section/NotificationEntry.jsx -- Additions : 35 / Deletions : 35
+frontend/src/components/Section/NotificationsView.jsx -- Additions : 35 / Deletions : 35
+frontend/src/components/Section/TodayView.jsx -- Additions : 97 / Deletions : 97
+frontend/src/components/Section/TodoCreateView.jsx -- Additions : 140 / Deletions : 140
+frontend/src/components/Section/TodoDetailView.jsx -- Additions : 208 / Deletions : 208
+frontend/src/components/Section/TodoEntryView.jsx -- Additions : 77 / Deletions : 77
+frontend/src/components/Section/TodoEntryView.sass -- Additions : 59 / Deletions : 59
+frontend/src/components/Section/index.jsx -- Additions : 72 / Deletions : 72
+frontend/src/components/Section/notification.sass -- Additions : 18 / Deletions : 18
+frontend/src/components/index.js -- Additions : 5 / Deletions : 5
+frontend/src/index.jsx -- Additions : 17 / Deletions : 17
+frontend/src/registerServiceWorker.js -- Additions : 55 / Deletions : 55
+README.md -- Additions : 166 / Deletions : 44
+images/스크린샷 2018-11-04 오후 11.25.13.png -- Additions : 0 / Deletions : 0
+images/스크린샷 2018-11-04 오후 11.27.28.png -- Additions : 0 / Deletions : 0
+images/스크린샷 2018-11-04 오후 11.27.37.png -- Additions : 0 / Deletions : 0
+images/스크린샷 2018-11-04 오후 11.27.46.png -- Additions : 0 / Deletions : 0
+images/스크린샷 2018-11-04 오후 11.28.00.png -- Additions : 0 / Deletions : 0
+requirements.txt -- Additions : 15 / Deletions : 1
+todoquest/wsgi.py -- Additions : 19 / Deletions : 3
+automated_job.py -- Additions : 13 / Deletions : 13
+.circleci/config.yml -- Additions : 75 / Deletions : 16
+todolist/tests/test_todo_entries.py -- Additions : 42 / Deletions : 33
+Procfile -- Additions : 1 / Deletions : 0
+frontend/webpack.config.js -- Additions : 50 / Deletions : 50
+todolist/views/scheduled_job.py -- Additions : 19 / Deletions : 1
+todolist/migrations/0003_auto_20181104_0750.py -- Additions : 32 / Deletions : 0
+todolist/models/__init__.py -- Additions : 5 / Deletions : 1
+todolist/serializers/__init__.py -- Additions : 14 / Deletions : 2
+todolist/serializers/notification_serializer.py -- Additions : 14 / Deletions : 0
+todolist/urls.py -- Additions : 18 / Deletions : 4
+todolist/views/__init__.py -- Additions : 17 / Deletions : 5
+.gitignore -- Additions : 10 / Deletions : 4
+frontend/.babelrc -- Additions : 5 / Deletions : 1
+todolist/serializers/todo_entry_serializer.py -- Additions : 61 / Deletions : 7
+frontend/__init__.py -- Additions : 0 / Deletions : 0
+frontend/admin.py -- Additions : 3 / Deletions : 0
+frontend/apps.py -- Additions : 5 / Deletions : 0
+frontend/migrations/__init__.py -- Additions : 0 / Deletions : 0
+frontend/templates/layout.html -- Additions : 21 / Deletions : 0
+frontend/urls.py -- Additions : 6 / Deletions : 0
+todolist/admin.py -- Additions : 5 / Deletions : 0
+scenario/TodoEntryTest.py -- Additions : 4 / Deletions : 1
+todolist/views.py -- Additions : 3 / Deletions : 3
+.vscode/settings.json -- Additions : 4 / Deletions : 0
+todolist/migrations/0002_auto_20181101_0149.py -- Additions : 29 / Deletions : 0
+todolist/migrations/0001_initial.py -- Additions : 27 / Deletions : 0
+todolist/models/comment.py -- Additions : 5 / Deletions : 0
+todolist/tests.py -- Additions : 3 / Deletions : 3
+todolist/tests/__init__.py -- Additions : 3 / Deletions : 0
+todolist/__init__.py -- Additions : 0 / Deletions : 0
+todolist/apps.py -- Additions : 5 / Deletions : 0
+todolist/migrations/__init__.py -- Additions : 0 / Deletions : 0
+todoquest/__init__.py -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+text -- Additions : 103 / Deletions : 25
+python -- Additions : 941 / Deletions : 146
+ignore -- Additions : 19093 / Deletions : 7947
+css -- Additions : 806 / Deletions : 806
+javascript -- Additions : 81364 / Deletions : 81360
+react -- Additions : 863 / Deletions : 863
+markdown -- Additions : 166 / Deletions : 44
+html -- Additions : 21 / Deletions : 0
+--------
+[trashbin]
+>> contributes for files <<
+README.md -- Additions : 2 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 2 / Deletions : 0
+--------
+[tutorial(forked)]
+>> contributes for files <<
+ko/README.md -- Additions : 5 / Deletions : 3
+ko/python_introduction/README.md -- Additions : 13 / Deletions : 9
+ko/django_forms/README.md -- Additions : 15 / Deletions : 20
+ko/django_urls/README.md -- Additions : 21 / Deletions : 46
+ko/extend_your_application/README.md -- Additions : 18 / Deletions : 18
+ko/deploy/README.md -- Additions : 2 / Deletions : 2
+ko/django_admin/README.md -- Additions : 1 / Deletions : 1
+ko/django_installation/instructions.md -- Additions : 6 / Deletions : 6
+ko/django_models/README.md -- Additions : 1 / Deletions : 1
+ko/django_views/README.md -- Additions : 2 / Deletions : 2
+ko/dynamic_data_in_templates/README.md -- Additions : 1 / Deletions : 1
+ko/template_extending/README.md -- Additions : 2 / Deletions : 2
+ko/whats_next/README.md -- Additions : 1 / Deletions : 1
+>> contributes for language <<
+markdown -- Additions : 88 / Deletions : 112
+--------
+[TypeScript-Vue-Starter(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[Unlock-n-ROR(forked)]
+>> contributes for files <<
+.gitignore -- Additions : 20 / Deletions : 5
+config/application.yml -- Additions : 20 / Deletions : 20
+app/assets/javascripts/search.js -- Additions : 8 / Deletions : 0
+app/controllers/search_controller.rb -- Additions : 14 / Deletions : 0
+app/controllers/tags_controller.rb -- Additions : 13 / Deletions : 1
+app/models/user.rb -- Additions : 93 / Deletions : 38
+app/views/questions/index.html.erb -- Additions : 17 / Deletions : 4
+app/views/search/_search.html.erb -- Additions : 0 / Deletions : 0
+app/views/search/index.html.erb -- Additions : 4 / Deletions : 0
+app/views/search/search.js.erb -- Additions : 1 / Deletions : 0
+config/routes.rb -- Additions : 103 / Deletions : 13
+config/initializers/devise.rb -- Additions : 274 / Deletions : 4
+test/controllers/tags_controller_test.rb -- Additions : 14 / Deletions : 9
+Gemfile -- Additions : 76 / Deletions : 14
+Gemfile.lock -- Additions : 212 / Deletions : 17
+app/controllers/users/omniauth_callbacks_controller.rb -- Additions : 107 / Deletions : 56
+app/models/authentication_provider.rb -- Additions : 4 / Deletions : 0
+app/models/identity.rb -- Additions : 20 / Deletions : 20
+app/models/user_authentication.rb -- Additions : 19 / Deletions : 0
+db/migrate/20160723023133_create_identities.rb -- Additions : 19 / Deletions : 19
+db/migrate/20160808015633_create_authentication_providers.rb -- Additions : 14 / Deletions : 0
+db/migrate/20160808015634_create_user_authentications.rb -- Additions : 17 / Deletions : 0
+db/schema.rb -- Additions : 238 / Deletions : 24
+test/fixtures/identities.yml -- Additions : 27 / Deletions : 27
+test/models/identity_test.rb -- Additions : 7 / Deletions : 7
+app/views/tags/index.html.erb -- Additions : 13 / Deletions : 1
+app/assets/javascripts/tags.js -- Additions : 2 / Deletions : 0
+app/assets/stylesheets/application.scss -- Additions : 210 / Deletions : 15
+app/assets/stylesheets/comments.scss -- Additions : 13 / Deletions : 1
+app/assets/stylesheets/questions.scss -- Additions : 64 / Deletions : 14
+app/assets/stylesheets/tags.scss -- Additions : 3 / Deletions : 0
+app/controllers/questions_controller.rb -- Additions : 157 / Deletions : 15
+app/helpers/tags_helper.rb -- Additions : 2 / Deletions : 0
+app/mailers/user_mailer.rb -- Additions : 25 / Deletions : 4
+app/views/answers/_answer.html.erb -- Additions : 87 / Deletions : 28
+app/views/comments/_comment.html.erb -- Additions : 7 / Deletions : 2
+app/views/layouts/_header.html.erb -- Additions : 68 / Deletions : 15
+app/views/questions/_question.html.erb -- Additions : 48 / Deletions : 17
+app/views/questions/show.html.erb -- Additions : 100 / Deletions : 38
+app/views/tags/show.html.erb -- Additions : 5 / Deletions : 0
+app/views/users/show.html.erb -- Additions : 48 / Deletions : 10
+app/controllers/answers_controller.rb -- Additions : 132 / Deletions : 7
+app/mailers/answer_notification.html.erb -- Additions : 9 / Deletions : 0
+app/mailers/application_mailer.rb -- Additions : 1 / Deletions : 1
+app/mailers/user_mailer.rb~ -- Additions : 7 / Deletions : 7
+app/models/answer.rb -- Additions : 49 / Deletions : 5
+app/models/question.rb -- Additions : 62 / Deletions : 9
+config/environments/production.rb -- Additions : 12 / Deletions : 3
+config/initializers/setup_mail.rb -- Additions : 10 / Deletions : 10
+db/migrate/20160731141751_create_scores.rb~ -- Additions : 10 / Deletions : 10
+2016-08-07.md -- Additions : 41 / Deletions : 0
+app/assets/stylesheets/users.scss -- Additions : 15 / Deletions : 0
+app/helpers/users_helper.rb -- Additions : 10 / Deletions : 0
+app/models/acceptation.rb -- Additions : 6 / Deletions : 0
+app/models/chatroom.rb -- Additions : 5 / Deletions : 1
+app/models/score.rb -- Additions : 4 / Deletions : 0
+db/migrate/20160731141751_create_scores.rb -- Additions : 10 / Deletions : 0
+db/migrate/20160731192715_create_acceptations.rb -- Additions : 10 / Deletions : 0
+test/fixtures/acceptations.yml -- Additions : 9 / Deletions : 0
+test/fixtures/scores.yml -- Additions : 11 / Deletions : 0
+test/models/acceptation_test.rb -- Additions : 7 / Deletions : 0
+test/models/score_test.rb -- Additions : 7 / Deletions : 0
+app/channels/chatrooms_channel.rb~ -- Additions : 14 / Deletions : 14
+app/models/chatroom.rb~ -- Additions : 3 / Deletions : 3
+app/models/message.rb~ -- Additions : 10 / Deletions : 10
+app/assets/javascripts/channels/rooms.coffee~ -- Additions : 35 / Deletions : 35
+app/controllers/chatrooms_controller.rb~ -- Additions : 34 / Deletions : 34
+app/controllers/messages_controller.rb~ -- Additions : 13 / Deletions : 13
+app/jobs/message_broadcast_job.rb~ -- Additions : 13 / Deletions : 13
+app/views/chatrooms/show.html.erb~ -- Additions : 15 / Deletions : 15
+lib/development_mail_interceptor.rb~ -- Additions : 6 / Deletions : 6
+app/assets/javascripts/application.js -- Additions : 5 / Deletions : 0
+app/assets/javascripts/channels/rooms.coffee -- Additions : 35 / Deletions : 0
+app/channels/application_cable/connection.rb -- Additions : 15 / Deletions : 0
+app/channels/chatrooms_channel.rb -- Additions : 15 / Deletions : 0
+app/controllers/chatrooms_controller.rb -- Additions : 32 / Deletions : 0
+app/controllers/messages_controller.rb -- Additions : 14 / Deletions : 0
+app/jobs/message_broadcast_job.rb -- Additions : 13 / Deletions : 0
+app/models/message.rb -- Additions : 12 / Deletions : 0
+app/views/chatrooms/_chatroom.html.erb -- Additions : 1 / Deletions : 0
+app/views/chatrooms/index.html.erb -- Additions : 7 / Deletions : 0
+app/views/chatrooms/new.html.erb -- Additions : 10 / Deletions : 0
+app/views/chatrooms/show.html.erb -- Additions : 15 / Deletions : 0
+app/views/messages/_message.html.erb -- Additions : 15 / Deletions : 0
+app/views/user_mailer/answer_notification.html.erb -- Additions : 15 / Deletions : 0
+app/views/user_mailer/answer_notification.text.erb -- Additions : 6 / Deletions : 0
+bin/cable -- Additions : 2 / Deletions : 0
+cable/config.ru -- Additions : 4 / Deletions : 0
+config/cable.yml -- Additions : 1 / Deletions : 1
+db/migrate/20160726095242_create_chatrooms.rb -- Additions : 11 / Deletions : 0
+db/migrate/20160726095337_create_messages.rb -- Additions : 11 / Deletions : 0
+test/fixtures/chatrooms.yml -- Additions : 11 / Deletions : 0
+test/fixtures/messages.yml -- Additions : 11 / Deletions : 0
+test/mailers/previews/user_mailer_preview.rb -- Additions : 4 / Deletions : 0
+test/mailers/user_mailer_test.rb -- Additions : 7 / Deletions : 0
+test/models/chatroom_test.rb -- Additions : 7 / Deletions : 0
+test/models/message_test.rb -- Additions : 7 / Deletions : 0
+app/views/users/show.html.erb~ -- Additions : 10 / Deletions : 10
+config/application.yml~ -- Additions : 6 / Deletions : 6
+2016-07-24.md -- Additions : 312 / Deletions : 0
+app/controllers/users/passwords_controller.rb -- Additions : 37 / Deletions : 6
+app/controllers/users/registrations_controller.rb -- Additions : 115 / Deletions : 38
+app/controllers/users/sessions_controller.rb -- Additions : 42 / Deletions : 14
+app/controllers/users_controller.rb -- Additions : 33 / Deletions : 2
+app/models/favorite.rb -- Additions : 4 / Deletions : 0
+app/views/devise/registrations/new.html.erb -- Additions : 35 / Deletions : 0
+app/views/layouts/application.html.erb -- Additions : 28 / Deletions : 2
+app/views/users/profile.html.erb -- Additions : 4 / Deletions : 2
+db/migrate/20160723182808_create_favorites.rb -- Additions : 14 / Deletions : 0
+test/fixtures/favorites.yml -- Additions : 9 / Deletions : 0
+test/models/favorite_test.rb -- Additions : 7 / Deletions : 0
+app/controllers/comments_controller.rb -- Additions : 94 / Deletions : 40
+app/views/comments/_form.html.erb -- Additions : 10 / Deletions : 5
+2016-07-10.md -- Additions : 165 / Deletions : 0
+test/controllers/comments_controller_test.rb -- Additions : 92 / Deletions : 15
+app/assets/javascripts/comments.js -- Additions : 5 / Deletions : 0
+app/models/comment.rb -- Additions : 4 / Deletions : 0
+app/views/comments/new.html.erb -- Additions : 3 / Deletions : 2
+db/migrate/20160708223227_create_comments.rb -- Additions : 10 / Deletions : 0
+test/fixtures/comments.yml -- Additions : 9 / Deletions : 0
+test/models/comment_test.rb -- Additions : 7 / Deletions : 0
+2016-06-26.md -- Additions : 286 / Deletions : 5
+Guardfile -- Additions : 84 / Deletions : 0
+app/assets/javascripts/questions.js -- Additions : 3 / Deletions : 0
+app/assets/javascripts/static_pages.js -- Additions : 4 / Deletions : 0
+app/assets/javascripts/users.js -- Additions : 4 / Deletions : 0
+app/assets/stylesheets/application.css -- Additions : 0 / Deletions : 15
+app/assets/stylesheets/static_pages.scss -- Additions : 6 / Deletions : 0
+app/controllers/static_pages_controller.rb -- Additions : 14 / Deletions : 0
+app/helpers/comments_helper.rb -- Additions : 4 / Deletions : 0
+app/helpers/questions_helper.rb -- Additions : 4 / Deletions : 0
+app/helpers/static_pages_helper.rb -- Additions : 4 / Deletions : 0
+app/views/answers/_form.html.erb -- Additions : 10 / Deletions : 0
+app/views/answers/edit.html.erb -- Additions : 2 / Deletions : 0
+app/views/answers/show.html.erb -- Additions : 0 / Deletions : 0
+app/views/layouts/_footer.html.erb -- Additions : 160 / Deletions : 8
+app/views/questions/_form.html.erb -- Additions : 38 / Deletions : 0
+app/views/questions/_spacer.html.erb -- Additions : 2 / Deletions : 0
+app/views/questions/edit.html.erb -- Additions : 4 / Deletions : 2
+app/views/questions/new.html.erb -- Additions : 4 / Deletions : 2
+app/views/static_pages/about.html.erb -- Additions : 4 / Deletions : 0
+app/views/static_pages/help.html.erb -- Additions : 4 / Deletions : 0
+config/initializers/acts_as_taggable_on.rb -- Additions : 10 / Deletions : 0
+db/migrate/20160622220013_acts_as_taggable_on_migration.acts_as_taggable_on_engine.rb -- Additions : 62 / Deletions : 0
+db/migrate/20160622220014_add_missing_unique_indices.acts_as_taggable_on_engine.rb -- Additions : 40 / Deletions : 0
+db/migrate/20160622220015_add_taggings_counter_cache_to_tags.acts_as_taggable_on_engine.rb -- Additions : 30 / Deletions : 0
+db/migrate/20160622220016_add_missing_taggable_index.acts_as_taggable_on_engine.rb -- Additions : 20 / Deletions : 0
+db/migrate/20160622220017_change_collation_for_tag_names.acts_as_taggable_on_engine.rb -- Additions : 20 / Deletions : 0
+db/migrate/20160622220434_acts_as_votable_migration.rb -- Additions : 54 / Deletions : 0
+db/migrate/20160622234114_create_questions.rb -- Additions : 22 / Deletions : 0
+db/migrate/20160622234444_create_answers.rb -- Additions : 22 / Deletions : 0
+test/controllers/questions_controller_test.rb -- Additions : 88 / Deletions : 0
+test/controllers/static_pages_controller_test.rb -- Additions : 16 / Deletions : 2
+test/controllers/users_controller_test.rb -- Additions : 18 / Deletions : 0
+test/fixtures/answers.yml -- Additions : 11 / Deletions : 0
+test/fixtures/questions.yml -- Additions : 13 / Deletions : 2
+test/fixtures/users.yml -- Additions : 19 / Deletions : 4
+test/models/answer_test.rb -- Additions : 7 / Deletions : 0
+test/models/question_test.rb -- Additions : 7 / Deletions : 0
+test/test_helper.rb -- Additions : 4 / Deletions : 0
+app/views/answers/edit.html.erb~ -- Additions : 5 / Deletions : 5
+app/views/comments/edit.html.erb -- Additions : 2 / Deletions : 2
+app/views/comments/show.html.erb -- Additions : 2 / Deletions : 2
+app/views/questions/delete.html.erb -- Additions : 2 / Deletions : 2
+app/assets/stylesheets/application.scss~ -- Additions : 18 / Deletions : 33
+public/assets/.sprockets-manifest-c6003a253b1bc658a9021fee3cd261ec.json -- Additions : 1 / Deletions : 1
+public/assets/application-17beaee11c6e3556ea79cb15ea73c8f7d08044472e478dd0b2399621fa337fd2.css -- Additions : 8822 / Deletions : 8822
+public/assets/application-17beaee11c6e3556ea79cb15ea73c8f7d08044472e478dd0b2399621fa337fd2.css.gz -- Additions : 0 / Deletions : 0
+public/assets/application-328dd1a89a39a6d127fb530121825f0f2137562435e00da04accddfe02052e7c.js -- Additions : 14570 / Deletions : 14570
+public/assets/application-328dd1a89a39a6d127fb530121825f0f2137562435e00da04accddfe02052e7c.js.gz -- Additions : 0 / Deletions : 0
+public/assets/application-6d176b9ca38da6726315ee6136dc7279d045cd93a48e5326362cc2029e9ffb4d.css -- Additions : 8824 / Deletions : 8824
+public/assets/application-6d176b9ca38da6726315ee6136dc7279d045cd93a48e5326362cc2029e9ffb4d.css.gz -- Additions : 0 / Deletions : 0
+public/assets/application-6de77891072eb0f81253ebe3594080c2898d319edb651216b468ecc7ff678fa3.css -- Additions : 8819 / Deletions : 8819
+public/assets/application-6de77891072eb0f81253ebe3594080c2898d319edb651216b468ecc7ff678fa3.css.gz -- Additions : 0 / Deletions : 0
+public/assets/application-70f0ee9aa291d98b57598b61b431fce7e35876cf29bfa624271a0e49694eb044.css -- Additions : 8810 / Deletions : 8810
+public/assets/application-70f0ee9aa291d98b57598b61b431fce7e35876cf29bfa624271a0e49694eb044.css.gz -- Additions : 0 / Deletions : 0
+public/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot -- Additions : 0 / Deletions : 0
+public/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot.gz -- Additions : 0 / Deletions : 0
+public/assets/bootstrap/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg -- Additions : 288 / Deletions : 288
+public/assets/bootstrap/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg.gz -- Additions : 0 / Deletions : 0
+public/assets/bootstrap/glyphicons-halflings-regular-a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742.woff -- Additions : 0 / Deletions : 0
+public/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf -- Additions : 0 / Deletions : 0
+public/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf.gz -- Additions : 0 / Deletions : 0
+public/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.woff2 -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/adapters/jquery-49ea7dd26c85b3743c69334df2ef735fd5eebc7684b1062b19185b871d426594.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/adapters/jquery-49ea7dd26c85b3743c69334df2ef735fd5eebc7684b1062b19185b871d426594.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/adapters/jquery.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/adapters/jquery.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/application-c32b11a7376a616ecd04bcfc96fc555561ba3443e1270bc62ac2b3684122f689.css -- Additions : 135 / Deletions : 135
+public/assets/ckeditor/application-c32b11a7376a616ecd04bcfc96fc555561ba3443e1270bc62ac2b3684122f689.css.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/application-e0b3050c2e428ed8bda021cb2555bfe50accb227c0b59f17d27ad673b7facb55.js -- Additions : 2223 / Deletions : 2223
+public/assets/ckeditor/application-e0b3050c2e428ed8bda021cb2555bfe50accb227c0b59f17d27ad673b7facb55.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/application.css -- Additions : 135 / Deletions : 135
+public/assets/ckeditor/application.css.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/application.js -- Additions : 2223 / Deletions : 2223
+public/assets/ckeditor/application.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/ckeditor-d44511d44b2c01b6466fda92764336001e42a860f53ed63541c0f871afed5d7a.js -- Additions : 1084 / Deletions : 1084
+public/assets/ckeditor/ckeditor-d44511d44b2c01b6466fda92764336001e42a860f53ed63541c0f871afed5d7a.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/ckeditor.js -- Additions : 1084 / Deletions : 1084
+public/assets/ckeditor/ckeditor.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/config-3e13da4e65cf6ce77ee10b8a965043e76d5ed6e31ec1e7c06c28c48bac9cac94.js -- Additions : 59 / Deletions : 59
+public/assets/ckeditor/config-3e13da4e65cf6ce77ee10b8a965043e76d5ed6e31ec1e7c06c28c48bac9cac94.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/config.js -- Additions : 59 / Deletions : 59
+public/assets/ckeditor/config.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/contents-9eefe4292a3a1f41097c2b543d534d3747d0a2d0b9442b30ac7e1436714e7ccf.css -- Additions : 133 / Deletions : 133
+public/assets/ckeditor/contents-9eefe4292a3a1f41097c2b543d534d3747d0a2d0b9442b30ac7e1436714e7ccf.css.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/contents.css -- Additions : 133 / Deletions : 133
+public/assets/ckeditor/contents.css.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/images/gal_add-e97dc0969bf9a7b88d048bcc2e4eb28a2f9ae75763e7076b4c68ee2e7de3ea05.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/images/gal_add.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/images/gal_more-93d8887361f4dd7f757c20a186a2dae6e5cc6698da238814eacbff7b19a43f51.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/images/gal_more.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/images/preloader-3799a3e41d7787a31dac5796ebccc242951da2f2b57eb088326ab3bffe15056a.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/images/preloader.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/javascripts/application-296031dec8451a4ffbe6a06f3a5f306a952faeddba557ea96bc0b15a86e6149e.js -- Additions : 232 / Deletions : 232
+public/assets/ckeditor/filebrowser/javascripts/application-296031dec8451a4ffbe6a06f3a5f306a952faeddba557ea96bc0b15a86e6149e.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/filebrowser/javascripts/application.js -- Additions : 232 / Deletions : 232
+public/assets/ckeditor/filebrowser/javascripts/application.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/init-8a4a492fbcd8ef820519a5dd60f86b547348ba88dc155a3934ee3cbc5e58fffc.js -- Additions : 1092 / Deletions : 1092
+public/assets/ckeditor/init-8a4a492fbcd8ef820519a5dd60f86b547348ba88dc155a3934ee3cbc5e58fffc.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/init.js -- Additions : 1092 / Deletions : 1092
+public/assets/ckeditor/init.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp-4c2d224a2a74b4fb25e1fe46b8b142231b19bac230eac2831849f606261f4d86.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp-4c2d224a2a74b4fb25e1fe46b8b142231b19bac230eac2831849f606261f4d86.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/about/dialogs/about-c310a141ef8372f4af8e7b0fcbbd6681fd4696d5ded328d5484e1d7f802a8a56.js -- Additions : 8 / Deletions : 8
+public/assets/ckeditor/plugins/about/dialogs/about-c310a141ef8372f4af8e7b0fcbbd6681fd4696d5ded328d5484e1d7f802a8a56.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/about/dialogs/about.js -- Additions : 8 / Deletions : 8
+public/assets/ckeditor/plugins/about/dialogs/about.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor-227a0aade8e648c3ab3977ce9e66b9491baa9aa7376082c652fdb76230adffdd.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/about/dialogs/logo_ckeditor-954605bb634dae9f4d15ca33057d86eb62e34ae3bc57dfd5877b6d3356067413.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/clipboard/dialogs/paste-27f6e177d43dbcdd8884e276b3a93dc5446cb273d5800e221711592dfb4c7c31.js -- Additions : 13 / Deletions : 13
+public/assets/ckeditor/plugins/clipboard/dialogs/paste-27f6e177d43dbcdd8884e276b3a93dc5446cb273d5800e221711592dfb4c7c31.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/clipboard/dialogs/paste.js -- Additions : 13 / Deletions : 13
+public/assets/ckeditor/plugins/clipboard/dialogs/paste.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/colordialog/dialogs/colordialog-abd5ec85bc6cd4a77506f81529ba3a3e532de6fdbcf4d8588419cc528d599faf.js -- Additions : 14 / Deletions : 14
+public/assets/ckeditor/plugins/colordialog/dialogs/colordialog-abd5ec85bc6cd4a77506f81529ba3a3e532de6fdbcf4d8588419cc528d599faf.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/colordialog/dialogs/colordialog.js -- Additions : 14 / Deletions : 14
+public/assets/ckeditor/plugins/colordialog/dialogs/colordialog.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/dialog/dialogDefinition-e6bc5f423d464c5f007b798bef5f6be474fd8f56ea6ff083c81327af8fc06d37.js -- Additions : 5 / Deletions : 5
+public/assets/ckeditor/plugins/dialog/dialogDefinition-e6bc5f423d464c5f007b798bef5f6be474fd8f56ea6ff083c81327af8fc06d37.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/dialog/dialogDefinition.js -- Additions : 5 / Deletions : 5
+public/assets/ckeditor/plugins/dialog/dialogDefinition.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/div/dialogs/div-3b8178a17c7962ea49b3a3a92db9f3201f2d703898bdafe98c125b0553d09026.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/div/dialogs/div-3b8178a17c7962ea49b3a3a92db9f3201f2d703898bdafe98c125b0553d09026.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/div/dialogs/div.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/div/dialogs/div.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/find/dialogs/find-d5cda237ed65a7aca23e79f5993fa70ed48132b2625e780bafc10f544d2b8cbc.js -- Additions : 25 / Deletions : 25
+public/assets/ckeditor/plugins/find/dialogs/find-d5cda237ed65a7aca23e79f5993fa70ed48132b2625e780bafc10f544d2b8cbc.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/find/dialogs/find.js -- Additions : 25 / Deletions : 25
+public/assets/ckeditor/plugins/find/dialogs/find.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/flash/dialogs/flash-c92a7576c0c4b2acf8368de3ee61407a4673d52f7beb0aa9d5316427c9f0b70e.js -- Additions : 25 / Deletions : 25
+public/assets/ckeditor/plugins/flash/dialogs/flash-c92a7576c0c4b2acf8368de3ee61407a4673d52f7beb0aa9d5316427c9f0b70e.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/flash/dialogs/flash.js -- Additions : 25 / Deletions : 25
+public/assets/ckeditor/plugins/flash/dialogs/flash.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/flash/images/placeholder-3693431ff1695c9691d5b29bed1c2e30be843edb77bc45ef25effe3eb776a7d9.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/flash/images/placeholder.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/button-f90bd8caa9c52975b6eeaecede29427259fe7bb470eea7eeb95e61a83e981c8f.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/forms/dialogs/button-f90bd8caa9c52975b6eeaecede29427259fe7bb470eea7eeb95e61a83e981c8f.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/button.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/forms/dialogs/button.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/checkbox-0d180250600dda4701c7d28f61d836a78c877d63e63b446ab2a9857e0aa3dc16.js -- Additions : 10 / Deletions : 10
+public/assets/ckeditor/plugins/forms/dialogs/checkbox-0d180250600dda4701c7d28f61d836a78c877d63e63b446ab2a9857e0aa3dc16.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/checkbox.js -- Additions : 10 / Deletions : 10
+public/assets/ckeditor/plugins/forms/dialogs/checkbox.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/form-4dfd59b01c8f177ef03c4329cb6e8a5658e30904621888a4c1de454f67ac97fd.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/forms/dialogs/form-4dfd59b01c8f177ef03c4329cb6e8a5658e30904621888a4c1de454f67ac97fd.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/form.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/forms/dialogs/form.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/hiddenfield-6eb9678fd42de90f19aee2d4a64e3fc9fe092875afafa01d54ce2d667867e6cb.js -- Additions : 8 / Deletions : 8
+public/assets/ckeditor/plugins/forms/dialogs/hiddenfield-6eb9678fd42de90f19aee2d4a64e3fc9fe092875afafa01d54ce2d667867e6cb.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/hiddenfield.js -- Additions : 8 / Deletions : 8
+public/assets/ckeditor/plugins/forms/dialogs/hiddenfield.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/radio-98bf54e0ec0aac31af28f554206dd6757804c6789a5cebc381b721031391bdc1.js -- Additions : 10 / Deletions : 10
+public/assets/ckeditor/plugins/forms/dialogs/radio-98bf54e0ec0aac31af28f554206dd6757804c6789a5cebc381b721031391bdc1.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/radio.js -- Additions : 10 / Deletions : 10
+public/assets/ckeditor/plugins/forms/dialogs/radio.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/select-6aed9b6b4d296189f2390514e5188a944f274eab2e8462bcabe26362d0801be5.js -- Additions : 21 / Deletions : 21
+public/assets/ckeditor/plugins/forms/dialogs/select-6aed9b6b4d296189f2390514e5188a944f274eab2e8462bcabe26362d0801be5.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/select.js -- Additions : 21 / Deletions : 21
+public/assets/ckeditor/plugins/forms/dialogs/select.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/textarea-ed1ecd276dbd6b5bd4d5dad5568a17ef46ca4308719fbe822d19ef95129a9a96.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/forms/dialogs/textarea-ed1ecd276dbd6b5bd4d5dad5568a17ef46ca4308719fbe822d19ef95129a9a96.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/textarea.js -- Additions : 9 / Deletions : 9
+public/assets/ckeditor/plugins/forms/dialogs/textarea.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/textfield-612ef7dc1b87a57d86db4c48dded092e3cd14584ab2e5c32eaffa4745b7b166c.js -- Additions : 12 / Deletions : 12
+public/assets/ckeditor/plugins/forms/dialogs/textfield-612ef7dc1b87a57d86db4c48dded092e3cd14584ab2e5c32eaffa4745b7b166c.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/dialogs/textfield.js -- Additions : 12 / Deletions : 12
+public/assets/ckeditor/plugins/forms/dialogs/textfield.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/images/hiddenfield-2314846c5b4071dec60aaa00f5a1bb10496adcfc1f084eb84a76ff2280b00aee.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/forms/images/hiddenfield.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/icons-b40b53f90ec8f5b14b95a8e305b322e267ebc98961e257d00ad954680c31bb67.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/icons.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/icons_hidpi-cdeb694f528f1dce0ef080b7473dfe9283d8b625f7311db7baea4eb9e7368207.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/icons_hidpi.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/iframe/dialogs/iframe-4ccb9205bd2f5a5bad3207864c618098b01181ae47c49b4131cfdcb2b3bdec55.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/plugins/iframe/dialogs/iframe-4ccb9205bd2f5a5bad3207864c618098b01181ae47c49b4131cfdcb2b3bdec55.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/iframe/dialogs/iframe.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/plugins/iframe/dialogs/iframe.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/iframe/images/placeholder-992092e4bcca197097e9fe917441f710b8ef07b9450705ecd514eb8789384d76.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/iframe/images/placeholder.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/image/dialogs/image-33edbeb8939dd17ccacee9af62c24881f1c921abad7ae7f9ef6549c8249a07b2.js -- Additions : 45 / Deletions : 45
+public/assets/ckeditor/plugins/image/dialogs/image-33edbeb8939dd17ccacee9af62c24881f1c921abad7ae7f9ef6549c8249a07b2.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/image/dialogs/image.js -- Additions : 45 / Deletions : 45
+public/assets/ckeditor/plugins/image/dialogs/image.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/image/images/noimage-bd8c0e93d7bc89b0c36085672424fe2f698dac0e680a1b278f00a152579f2a93.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/image/images/noimage.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/dialogs/anchor-d331dd1ee14f085b4b3f25b26969e9c204c358b3da4aba791165a653a19da63a.js -- Additions : 8 / Deletions : 8
+public/assets/ckeditor/plugins/link/dialogs/anchor-d331dd1ee14f085b4b3f25b26969e9c204c358b3da4aba791165a653a19da63a.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/dialogs/anchor.js -- Additions : 8 / Deletions : 8
+public/assets/ckeditor/plugins/link/dialogs/anchor.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/dialogs/link-7d46823afffd4387901ce31ca2df3e77eab300479811d54ecaa50b1b7d76a04b.js -- Additions : 27 / Deletions : 27
+public/assets/ckeditor/plugins/link/dialogs/link-7d46823afffd4387901ce31ca2df3e77eab300479811d54ecaa50b1b7d76a04b.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/dialogs/link.js -- Additions : 27 / Deletions : 27
+public/assets/ckeditor/plugins/link/dialogs/link.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/images/anchor-70d579ea9cea7c849a44f1b35a4067f444d3ccbe06f02667fe4695af559e21df.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/images/anchor.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/images/hidpi/anchor-eef83e5ee166417c1638b12468319441fbafc78dc86e621b4f3b8bd339c4ecd5.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/link/images/hidpi/anchor.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/liststyle/dialogs/liststyle-da3ad713c3d2d358983d1c8a8f0ad1aa753e79d054ee767981c98863fd905aea.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/plugins/liststyle/dialogs/liststyle-da3ad713c3d2d358983d1c8a8f0ad1aa753e79d054ee767981c98863fd905aea.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/liststyle/dialogs/liststyle.js -- Additions : 11 / Deletions : 11
+public/assets/ckeditor/plugins/liststyle/dialogs/liststyle.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/hidpi/icon-92dfb414e7a31e632288097db347e272ecfd001f9825423a16c623dcaeb968b8.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/hidpi/icon-rtl-4046986f6904328c9d470b44c95f1f50ef82d9e470915ea471e1f4dcc0f06618.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/hidpi/icon.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/icon-db2f77571f3e9cb69096a5da21af65b0eacf5eaef08492bb831999504a3e115a.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/icon-rtl-9510f6245b266712f0ec4159e5fc5a97e1ad5c667e65b7fb97c5d1f20cfd7ba5.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/icon-rtl.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/magicline/images/icon.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/pagebreak/images/pagebreak-5db8cbdaf997d012baa522bb75816a70c9ca15017fc170d63392b74958198846.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/pagebreak/images/pagebreak.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/pastefromword/filter/default-eeee974d91786ab89d885f0379bcd210bda4f949697b9d05755cd84e8b934788.js -- Additions : 33 / Deletions : 33
+public/assets/ckeditor/plugins/pastefromword/filter/default-eeee974d91786ab89d885f0379bcd210bda4f949697b9d05755cd84e8b934788.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/pastefromword/filter/default.js -- Additions : 33 / Deletions : 33
+public/assets/ckeditor/plugins/pastefromword/filter/default.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/scayt/dialogs/options-1baa1028762e74a085f54a5ab6ac92f728e91814c84efa18e31d817cf4304dd2.js -- Additions : 19 / Deletions : 19
+public/assets/ckeditor/plugins/scayt/dialogs/options-1baa1028762e74a085f54a5ab6ac92f728e91814c84efa18e31d817cf4304dd2.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/scayt/dialogs/options.js -- Additions : 19 / Deletions : 19
+public/assets/ckeditor/plugins/scayt/dialogs/options.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/scayt/dialogs/toolbar-e66191abbfc4b5e5e6291bf4d4cacb4e074bb8d94457ff5384b3f18e72195a2c.css -- Additions : 71 / Deletions : 71
+public/assets/ckeditor/plugins/scayt/dialogs/toolbar-e66191abbfc4b5e5e6291bf4d4cacb4e074bb8d94457ff5384b3f18e72195a2c.css.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/scayt/dialogs/toolbar.css -- Additions : 71 / Deletions : 71
+public/assets/ckeditor/plugins/scayt/dialogs/toolbar.css.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_address-d896b164eb70e2a22f0521131188b185bb7e404d6e0a0d0f55d11d585d28caa3.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_address.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_blockquote-30d5929384e0a68850cd667f70779b8464b6f2b1bececf01526eda3e2b191073.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_blockquote.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_div-34ea88912f128e162de10370b7eadd91e7a0c07f8728693494c1479e95525f56.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_div.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h1-40d4a2cd8e2737607867d95948972475ff478e0efaf510cbf17a52b511ef0fc3.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h1.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h2-6e3acd9cd6b16dcfce92ade07cb8a8d1929103f3a9a7dcd83c49cc52ec72cdea.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h2.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h3-3d26b01e2687763a9a00205d749fc9991de1a75f3f346a3dec473ce2141b693a.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h3.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h4-5c6807bb4bb7024c89b8364b5dd0f20ef1961e924db31fa338b39998b677a3f0.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h4.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h5-148c02c6a115c4d568604f72126dfe2e27ee8ca3a6a4a7d7ae72b2523e27db77.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h5.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h6-85384f22c9128004409679694aeb38ba858ca77fa0f85ef52a61b8f289191df5.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_h6.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_p-68e9e5a80bed810ad2bd0fc9273756fcdb7e7b940fa52cc19a38911ca50ee4f3.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_p.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_pre-4168bf89d34fac97391bffbd82339ee79125edf2c6d50c153f3fc30efbf536c8.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/showblocks/images/block_pre.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/dialogs/smiley-99a1cb4d289674c0d8802d08271203681420d70d161b8cae861393b6e0a45417.js -- Additions : 12 / Deletions : 12
+public/assets/ckeditor/plugins/smiley/dialogs/smiley-99a1cb4d289674c0d8802d08271203681420d70d161b8cae861393b6e0a45417.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/dialogs/smiley.js -- Additions : 12 / Deletions : 12
+public/assets/ckeditor/plugins/smiley/dialogs/smiley.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angel_smile-7b227fc3a29cb0a99e105bbf5065c6086d744bfd8a79b1511bf43184aaf3a0b9.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angel_smile-8e2aaced8635d70dff8eb5a269cb2ff071115b965cfea30f31275f3aea88529a.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angel_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angel_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angry_smile-aeb431608cf1496216f2c94995d7d568481e32e3cc075e45f12a66a303d2e29d.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angry_smile-b4fc95418415fe8999f252649af9541c8f77234f57abc2cf8ee99abd56cc19e3.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angry_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/angry_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/broken_heart-4e8286aacd60df65e9995d8f2afaf4666fc0b0c3be935c441700b5e572e75c5a.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/broken_heart-7a2005c6a4ee561393b6bb9e37dd0a0080b837f2dc938b10ec7ae305a9681825.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/broken_heart.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/broken_heart.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/confused_smile-09953a3738bd6df32e93261f32aa9b8300a05fdd24445f501f55ac468659ef66.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/confused_smile-2de21fd594b102ab9ed8cd4e5b005c45c4e2ff34bf30e5dacea437a959162d6e.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/confused_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/confused_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/cry_smile-7bd254c99e3ff1d1f3e1a832b1564f3e47f9cbdf54f3fca73a91525912ddb38e.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/cry_smile-a2d235ad7d007a6f80c920cbd5e85006a2a42c39e178691e29babe96a03e3d63.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/cry_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/cry_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/devil_smile-2bc850da71b5f9b78a3ed26f03f08869a825e2b40d3e50e2442307361a39dc9f.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/devil_smile-d433e5ef97e9fe9c73b2e36f1a9be76171fa1f4d2464789a1fe440387495dd6c.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/devil_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/devil_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/embaressed_smile-d185a4f35865a517a60dce3cdf73bf92a800d1f7a3a2fabdbded4625b465678d.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/embaressed_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/embarrassed_smile-ce9a77bf015b4c90b27312f4214684460fde4d2d805d44ddc1871082334d3432.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/embarrassed_smile-d185a4f35865a517a60dce3cdf73bf92a800d1f7a3a2fabdbded4625b465678d.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/embarrassed_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/embarrassed_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/envelope-0f1546e9abb9b5bc1cf37b2da74606800cb12b64f001553e7fb5ade49df4d29c.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/envelope-489cf811c9835fef32e06696e3893093f9cda5520b5eac65855bb00fa13e804b.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/envelope.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/envelope.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/heart-4cf4c3ab6c1b894d721b59b2acb0686c832bab5bb03192471ac6548a4bddf92b.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/heart-fd3b59c7dd52b24ee0614169ff7a06ce1b2a6d49fa7098aecbb9f7c4197107e7.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/heart.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/heart.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/kiss-21c801e1e6371e57bdba6ecb16609a627c75a4ec294f9580a03ff498c3099c66.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/kiss-f142944550a855cb698db1d35723e56ce063c8a6a8088a5dfbe99c62b9a00856.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/kiss.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/kiss.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/lightbulb-98347f12145eb2987104a5e04bb78ce8f2a154a1347e422f66327d0def3fc75d.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/lightbulb-ac296632601de086f7aff2c97cbc123dd6a589a2031d1524a28d6222fb005668.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/lightbulb.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/lightbulb.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/omg_smile-628c7bb0d4386f901c2690e5a9ad90ee3e9252ef49a7a708f672b9cbb81aa43b.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/omg_smile-a4ebdb8d59ff587b38a762fa4c97ab7a5fd585d7b0722bb503884f8961e45917.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/omg_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/omg_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/regular_smile-7eb86259f47ef5faf89ccbb9648ba0e93d4e9c48588509048f97156634aac3fb.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/regular_smile-8d3049e853d5fab5e1de160f471649edb6b0d9ffbf791d390d1c2152838ad2c3.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/regular_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/regular_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/sad_smile-34b38077abd9f18ecaad2fa65b3158d61465462875592c4ba62b9a12bf154caf.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/sad_smile-aa4692a6fdec3f45f0eb55243c3371e01bab3fc04d61715b6a9171e70b72e257.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/sad_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/sad_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/shades_smile-8af43d1ee5729b8f6e14f831a63fa64430ad54be488c7a57e0da0f45789bc64d.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/shades_smile-9fd924ea50cb2915ce2863ac5576409b37d9ba9cc7b33832ad3e3b963b2df02c.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/shades_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/shades_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/teeth_smile-ab4d093812a347b70126ac79e0cfc16cae45c1d32fd4437da99b2ea22311c0d6.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/teeth_smile-b1f571f9a46641a3cfb78e3319faa37dcb685bc69ed45dfbea3e1e1fd3b71b1f.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/teeth_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/teeth_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_down-571de749810a2b8c5ee078a30be1c872eefb933c5e2a8c33ded5b304787e7ebe.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_down-ec8d8c4a49a38597888bee7971c49b25355d1b8ae59a1c6d224608ee7112055d.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_down.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_down.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_up-26ac57c9f26ec725511c7c97a9e0e005aa46710311033eb3f5f23ba355f80cc7.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_up-b6359e23c088a020df03ab8e0cd7a5046a3954736426c3cf8370210afc1496cb.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_up.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/thumbs_up.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/tongue_smile-9c9ad82d7fdf34d3aef1c92ec4001146348bd4405c9b9252e21047c12a30b5d3.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/tongue_smile-e638c648ca78900b2c8f82156604dd8b46ed0cdaef4095e09277583e6f730e3e.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/tongue_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/tongue_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/tounge_smile-e638c648ca78900b2c8f82156604dd8b46ed0cdaef4095e09277583e6f730e3e.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/tounge_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile-305e959c2c304a31a052a60ac972df52fdb7819945a10a3a1a1f1a7ee5fecf57.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile-e2a8446ea58800515e9e27a49e56518a8b05597df32b2a10d998f6380f293f2b.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/wink_smile-3ec65841e54db291aa0335c7c2083451f7cb92062744ed8831e08e9660d45ec3.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/wink_smile-95de89ce230bc6cbdb5d7881bf9f646e1a0935ca59e5a1ba43526637e1af3d6a.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/wink_smile.gif -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/smiley/images/wink_smile.png -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/specialchar/dialogs/specialchar-b1a1cec66218d12e9e84d41eadfc578396bafe931e88c8c3b2f6e3c979a6cc7c.js -- Additions : 0 / Deletions : 15
+public/assets/ckeditor/plugins/specialchar/dialogs/specialchar-b1a1cec66218d12e9e84d41eadfc578396bafe931e88c8c3b2f6e3c979a6cc7c.js.gz -- Additions : 0 / Deletions : 0
+public/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js -- Additions : 0 / Deletions : 15
+app/assets/javascripts/comments.coffee -- Additions : 3 / Deletions : 0
+app/assets/javascripts/questions.coffee -- Additions : 3 / Deletions : 0
+app/views/comments/index.html.erb -- Additions : 0 / Deletions : 0
+README.md -- Additions : 43 / Deletions : 1
+app/controllers/users/confirmations_controller.rb -- Additions : 28 / Deletions : 0
+app/controllers/users/unlocks_controller.rb -- Additions : 28 / Deletions : 0
+app/views/devise/confirmations/new.html.erb -- Additions : 16 / Deletions : 0
+app/views/devise/mailer/confirmation_instructions.html.erb -- Additions : 5 / Deletions : 0
+app/views/devise/mailer/password_change.html.erb -- Additions : 3 / Deletions : 0
+app/views/devise/mailer/reset_password_instructions.html.erb -- Additions : 8 / Deletions : 0
+app/views/devise/mailer/unlock_instructions.html.erb -- Additions : 7 / Deletions : 0
+app/views/devise/passwords/edit.html.erb -- Additions : 25 / Deletions : 0
+app/views/devise/passwords/new.html.erb -- Additions : 16 / Deletions : 0
+app/views/devise/registrations/edit.html.erb -- Additions : 39 / Deletions : 0
+app/views/devise/sessions/new.html.erb -- Additions : 26 / Deletions : 0
+app/views/devise/shared/_links.html.erb -- Additions : 25 / Deletions : 0
+app/views/devise/unlocks/new.html.erb -- Additions : 16 / Deletions : 0
+config/locales/devise.en.yml -- Additions : 62 / Deletions : 0
+db/migrate/20160621124422_devise_create_users.rb -- Additions : 42 / Deletions : 0
+test/models/user_test.rb -- Additions : 7 / Deletions : 0
+>> contributes for language <<
+ignore -- Additions : 233 / Deletions : 23
+text -- Additions : 827 / Deletions : 556
+javascript -- Additions : 24731 / Deletions : 24730
+ruby -- Additions : 3679 / Deletions : 521
+css -- Additions : 36264 / Deletions : 35998
+markdown -- Additions : 847 / Deletions : 6
+--------
+[wc2018-web-en4dev(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[wc2018-web-git(forked)]
+>> contributes for files <<
+README.md -- Additions : 12 / Deletions : 2
+git-log-pretty.png -- Additions : 0 / Deletions : 0
+git-log.png -- Additions : 0 / Deletions : 0
+swagger.png -- Additions : 0 / Deletions : 0
+>> contributes for language <<
+markdown -- Additions : 12 / Deletions : 2
+text -- Additions : 0 / Deletions : 0
+--------
+[web-backend-lv2(forked)]
+>> contributes for files <<
+>> contributes for language <<
+--------
+[webui-practice]
+>> contributes for files <<
+console-log-trick/index.html -- Additions : 132 / Deletions : 6
+_config.yml -- Additions : 1 / Deletions : 1
+console-log-trick/README.md -- Additions : 7 / Deletions : 0
+index.html -- Additions : 10 / Deletions : 0
+index.md -- Additions : 37 / Deletions : 37
+>> contributes for language <<
+html -- Additions : 142 / Deletions : 6
+text -- Additions : 1 / Deletions : 1
+markdown -- Additions : 44 / Deletions : 37
+--------

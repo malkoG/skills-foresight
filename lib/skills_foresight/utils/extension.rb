@@ -9,23 +9,29 @@ module SkillsForesight
       KOTLIN_EXT     = %w[kt].freeze
       CLOJURE_EXT    = %w[clj cljs cljc].freeze
 
-      RUBY_EXT       = %w[rb erb ru Rakefile Gemfile].freeze
+      RUBY_EXT       = %w[rb erb ru Rakefile Gemfile gemspec].freeze
       PYTHON_EXT     = %w[py Pipfile].freeze
-      MARKDOWN_EXT   = %w[md markdown].freeze
       JAVASCRIPT_EXT = %w[js babelrc].freeze
       TYPESCRIPT_EXT = %w[ts tsconfig].freeze
-      REACT_EXT      = %w[jsx tsx].freeze
-      VUE_EXT        = %w[vue].freeze
+
       HTML_EXT       = %w[html].freeze
       CSS_EXT        = %w[css sass scss styl].freeze
+      REACT_EXT      = %w[jsx tsx].freeze
+      VUE_EXT        = %w[vue].freeze
+      ELM_EXT        = %w[elm].freeze
+
+      MARKDOWN_EXT   = %w[md markdown].freeze
+
       HASKELL_EXT    = %w[hs].freeze
       ERLANG_EXT     = %w[erl].freeze
       ELIXIR_EXT     = %w[ex exs].freeze
+      ML_EXT         = %w[ml].freeze
+
       GO_EXT         = %w[go].freeze
       RUST_EXT       = %w[rs].freeze
       SHELL_EXT      = %w[sh zsh fish bashrc zshrc bash_profile].freeze
 
-      IGNORE_EXT     = %w[lock gitignore json].freeze
+      IGNORE_EXT     = %w[lock gitignore json gz].freeze
 
       def self.classify_extension(filename, **options)
         extension = filename.split('.').last
