@@ -44,7 +44,7 @@ module SkillsForesight
       end
 
       def commits(**options)
-        response = self.class.get("/repos/#{options[:username]}/#{options[:repository]}/commits?page=#{options[:page]}")
+        response = self.class.get("/repos/#{options[:username]}/#{options[:repository]}/commits?page=#{options[:page]}&author=#{options[:username]}")
         sleep_with_waiting
         raise InvalidRepositoryError if response.headers['status'][0..2].to_i == 404
 
@@ -79,6 +79,14 @@ module SkillsForesight
         end
 
         return result
+      end
+
+      def languages(**options)
+        response = self.class.get("/repos/#{options[:username]}/#{options[:repository]}/languages")
+        sleep_with_waiting
+        raise InvalidRepositoryError if response.headers['status'][0..2].to_i == 404
+
+        JSON.parse response.to_s
       end
 
       protected

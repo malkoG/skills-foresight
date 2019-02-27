@@ -52,6 +52,11 @@ module SkillsForesight
           puts "#{language} -- Additions : #{contribution['additions']} / Deletions : #{contribution['deletions']}"
         end
 
+        puts ">> total byte counts of code for languages <<"
+        project['report']['total'].each do |language, bytes|
+          puts "#{language} -> #{bytes}"
+        end
+
         puts "--------"
       end
     end

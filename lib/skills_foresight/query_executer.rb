@@ -24,6 +24,10 @@ module SkillsForesight
       @@engine.contribution(**options)
     end
 
+    def self.languages(**options)
+      @@engine.languages(**options)
+    end
+
     def analyze_contribution(username, repository)
       commits = [] 
 
@@ -60,6 +64,8 @@ module SkillsForesight
           contributions_report['stats'][extension]['deletions'] += deletions
         end
       end
+
+      contributions_report['total'] = self.class.languages username: username, repository: repository
 
       return contributions_report
     end
